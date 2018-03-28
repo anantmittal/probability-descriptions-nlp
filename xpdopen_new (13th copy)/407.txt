@@ -1,0 +1,5 @@
+Probability of odds
+To convert odds to probability, take the player's chance of winning, use it as the numerator and divide by the total number of chances, both winning and losing. For example, if the odds are 4 to 1, the probability equals 1 / (1 + 4) = 1/5 or 20%.
+Probability, Odds and Random Chance | Problem Gambling Institute of ...
+https://learn.problemgambling.ca/probability-odds-random-chance
+Search for: Probability of odds

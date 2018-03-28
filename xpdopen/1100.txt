@@ -1,0 +1,8 @@
+Odds of Having a Boy After 1, 2, or 3 Girls
+Previous Children Percentage of Boy Births after Girls
+None 51%
+1 Girl 54.5%
+2 Girls 46.0%
+3 Girls 52.7%
+What are the odds of having another boy or girl? : Ingender.com
+www.ingender.com/Gender-info/Odds-of-having-another-boy-or-girl.aspx

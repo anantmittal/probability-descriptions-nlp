@@ -1,0 +1,5 @@
+Probability to Fraction
+To calculate the probability, write a fraction. The top number is the number of ways the outcome can occur. The bottom number is the number of different outcomes. From the fraction, you can convert to a decimal or a percent.
+Intro to Probability - SoftSchools
+www.softschools.com/math/topics/intro_to_probability/
+Search for: Probability to Fraction

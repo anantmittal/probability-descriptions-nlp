@@ -1,0 +1,5 @@
+What are probability values?
+The probability value is computed assuming the null hypothesis is true. The lower the probability value, the stronger the evidence that the null hypothesis is false. Traditionally, the null hypothesis is rejected if the probability value is below 0.05. Probability values can be either one tailed or two tailed.
+Probability Value - OnlineStatBook
+onlinestatbook.com/glossary/probability_value.html
+Search for: What are probability values?

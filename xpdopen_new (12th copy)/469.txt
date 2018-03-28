@@ -1,0 +1,5 @@
+Probability A or B
+If two events A and B are mutually exclusive, the events are called disjoint events. The probability of two disjoint events A or B happening is: p(A or B) = p(A) + p(B).Dec 13, 2014
+Probability of A and B / A or B - Statistics How To
+www.statisticshowto.com/probability-of-a-and-b/
+Search for: Probability A or B

@@ -1,0 +1,6 @@
+What is the probability of flipping a coin 3 times and getting 3 heads?
+vote 0 vote.
+I believe there is a 50% chance of getting a toss of more then 1 head in 3 tosses. If you look at a chart you will see that the possible outcomes are HHH, HHT, HTH, HTT, THH, THT, TTH and TTT. As you can see if you add up all the possible outcomes with more then 1 head you will get 4/8.Apr 17, 2013
+Probability of getting exactly 2 heads in 3 coins tossed with ...
+https://math.stackexchange.com/.../probability-of-getting-exactly-2-heads-in-3-coins-tos...
+Search for: What is the probability of flipping a coin 3 times and getting 3 heads?

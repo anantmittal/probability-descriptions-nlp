@@ -1,0 +1,3 @@
+Recall that the standard deviation of a sampling distribution is called the standard error. To recap, we wish to know the probability of obtaining a sample mean of 51 or more when the sampling distribution of the mean has a mean of 50 and a standard deviation of 1.667. ... Probability of a sample mean being 51 or greater.
+Testing a Single Mean - OnlineStatBook
+onlinestatbook.com/2/tests_of_means/single_mean.html

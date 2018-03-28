@@ -1,0 +1,3 @@
+If two events are disjoint, then the probability of them both occurring at the same time is 0. If two events are mutually exclusive, then the probability of either occurring is the sum of the probabilities of each occurring.
+Stats: Probability Rules
+https://people.richland.edu/james/lecture/m170/ch05-rul.html

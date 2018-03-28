@@ -1,0 +1,3 @@
+The odds ratio is the measure of association for a case-control study. It tells us how much higher the odds of exposure is among cases of a disease compared with controls. The odds ratio compares the odds of exposure to the factor of interest among cases to the odds of exposure to the factor among controls.
+Calculating Measures of Association Case-control studies The odds ...
+www.neha.org/sites/default/files/pd/edu-train/Calculating-Measures-Association.pdf

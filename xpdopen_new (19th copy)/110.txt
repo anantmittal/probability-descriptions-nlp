@@ -1,0 +1,5 @@
+What are the chances of rolling doubles?
+To calculate your chance of rolling doubles, add up all the possible ways to roll doubles (1,1; 2,2; 3,3; 4,4; 5,5; 6,6). There are 6 ways we can roll doubles, or a probability of 6/36, or 1/6, on any roll of two fair dice. So you have a 16.7% probability of rolling doubles with 2 fair six-sided dice.
+With Two Dice, What's the Probability of Rolling Doubles? | Blog ...
+www.stayorswitch.com/blog/with-two-dice-whats-the-probability-of-rolling-doubles/
+Search for: What are the chances of rolling doubles?

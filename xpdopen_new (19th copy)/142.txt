@@ -1,0 +1,5 @@
+Probability of independent and dependent events
+Independent/Dependent Events. Two events are independent if the result of the second event is not affected by the result of the first event. If and are independent events, the probability of both events occurring is the product of the probabilities of the individual events.
+Independent/Dependent Events - Varsity Tutors
+https://www.varsitytutors.com/hotmath/hotmath_help/.../independent-dependent-events
+Search for: Probability of independent and dependent events

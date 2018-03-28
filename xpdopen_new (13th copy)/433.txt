@@ -1,0 +1,5 @@
+Probability of two dependent events
+Conclusion: The outcome of choosing the first card has affected the outcome of choosing the second card, making these events dependent. Definition: Two events are dependent if the outcome or occurrence of the first affects the outcome or occurrence of the second so that the probability is changed.
+Dependent Events | Math Goodies
+https://www.mathgoodies.com/lessons/vol6/dependent_events
+Search for: Probability of two dependent events

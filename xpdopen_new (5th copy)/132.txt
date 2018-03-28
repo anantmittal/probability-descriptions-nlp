@@ -1,0 +1,11 @@
+Probability of rolling dice
+Probabilities of 6-Sided Dice
+Roll 1 die 2 dice
+3 1/6 (16.667%) 2/36 (5.556%)
+4 1/6 (16.667%) 3/36 (8.333%)
+5 1/6 (16.667%) 4/36 (11.111%)
+6 1/6 (16.667%) 5/36 (13.889%)
+26 more rows
+Probability for 6-Sided Dice - Alumnus.caltech.edu…
+alumnus.caltech.edu/~leif/FRP/probability.html
+Search for: Probability of rolling dice

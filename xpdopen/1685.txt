@@ -1,0 +1,3 @@
+The probability of getting four heads in a row therefore is (1/2)(1/2)(1/2(1/2), or (1/2)4. A general approach to analyzing coin flips is called Pascal's triangle (right). The triangle is a shortcut way to describe the sample space for the number of heads and tails from a sequence of coin tosses.
+Coins and Independence - Arnold Kling
+arnoldkling.com/apstats/coins.html

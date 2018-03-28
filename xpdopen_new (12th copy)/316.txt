@@ -1,0 +1,6 @@
+Odds/Probabilities when holding two Non-pair Cards
+Odds/probability of flopping at least a pair (using one of your pocket cards) from two non-pair cards 2.1 to 1 (or 32.3% chance)
+Odds of flopping quads (using one of your pocket cards) from two non-pair cards 9799 to 1 (or 0.01% chance)
+5 more rows
+Texas Hold'em Poker Odds & Probabilities - Sun Tzu Poker
+www.suntzupoker.com/poker-odds.aspx

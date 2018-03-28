@@ -1,0 +1,5 @@
+Probability mutually exclusive events
+Two events are mutually exclusive if they cannot occur at the same time. Another word that means mutually exclusive is disjoint. If two events are disjoint, then the probability of them both occurring at the same time is 0.
+Stats: Probability Rules
+https://people.richland.edu/james/lecture/m170/ch05-rul.html
+Search for: Probability mutually exclusive events

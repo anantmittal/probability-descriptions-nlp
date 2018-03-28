@@ -1,0 +1,5 @@
+What is the probability of tossing a coin?
+Probability. Since the coin is fair, each flip has an equal chance of coming up heads or tails, so all 16 possible outcomes tabulated above are equally probable. But since there are 6 ways to get 2 heads, in four flips the probability of two heads is greater than that of any other result.
+Introduction to Probability and Statistics - Fourmilab
+https://www.fourmilab.ch/rpkp/experiments/statistics.html
+Search for: What is the probability of tossing a coin?

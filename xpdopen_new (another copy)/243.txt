@@ -1,0 +1,9 @@
+Frequency of 5-card poker hands
+Hand Distinct hands Probability
+Straight (excluding royal flush and straight flush) 10 0.3925%
+Three of a kind 858 2.1128%
+Two pair 858 4.7539%
+One pair 2,860 42.2569%
+7 more rows
+Poker probability - Wikipedia
+https://en.wikipedia.org/wiki/Poker_probability

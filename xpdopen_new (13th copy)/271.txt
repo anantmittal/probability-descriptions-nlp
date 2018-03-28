@@ -1,0 +1,11 @@
+What are the odds of poker?
+Frequency of 7-card poker hands
+Hand Frequency Probability
+Flush 4,047,644 3.03%
+Straight 6,180,020 4.62%
+Three of a kind 6,461,620 4.83%
+Two pair 31,433,400 23.5%
+7 more rows
+Poker probability - Wikipedia
+https://en.wikipedia.org/wiki/Poker_probability
+Search for: What are the odds of poker?

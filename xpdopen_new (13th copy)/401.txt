@@ -1,0 +1,5 @@
+What is the probability of a Type II error?
+Type I Error – rejecting the null when it is true. Type II Error – failing to reject the null when it is false. The probability of a Type I Error in hypothesis testing is predetermined by the significance level. The power of a hypothesis test is nothing more than 1 minus the probability of a Type II error.
+Type II Error and Power Calculations.pdf
+https://www.ssc.wisc.edu/.../Type%20II%20Error%20and%20Power%20Calculations.pd...
+Search for: What is the probability of a Type II error?

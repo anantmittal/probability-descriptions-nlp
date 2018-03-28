@@ -1,0 +1,3 @@
+Typically, we say that an event with a probability less than 5% is unusual, but this isn't a hard cutoff. It depends on the context. Suppose we're planning on making a decision one way, unless the probability of a particularly "unusual" event is too high.
+Calculating Probabilities Using the Empirical Method - Chapter 5
+https://faculty.elgin.edu/dkernler/statistics/ch05/5-1.html

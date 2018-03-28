@@ -1,0 +1,3 @@
+A type I error occurs when one rejects the null hypothesis when it is true. The probability of a type I error is the level of significance of the test of hypothesis, and is denoted by *alpha*. Usually a one-tailed test of hypothesis is is used when one talks about type I error.
+Type I and II error
+www.cs.uni.edu/~campbell/stat/inf5.html

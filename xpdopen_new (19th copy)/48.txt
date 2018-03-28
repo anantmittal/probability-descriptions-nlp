@@ -1,0 +1,5 @@
+Probability of event E
+We define the probability of an event for such a sample as follows: The probability of an event E is defined as the number of outcomes favourable to E divided by the total number of equally likely outcomes in the sample space S of the experiment.
+6. Probability of an Event - IntMath
+https://www.intmath.com/counting-probability/6-probability-event.php
+Search for: Probability of event E

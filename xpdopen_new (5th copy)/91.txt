@@ -1,0 +1,5 @@
+What is the probability of finding an electron in an orbital?
+In quantum mechanics, an atomic orbital is a mathematical function that describes the wave-like behavior of either one electron or a pair of electrons in an atom. This function can be used to calculate the probability of finding any electron of an atom in any specific region around the atom's nucleus.
+Atomic orbital - Wikipedia
+https://en.wikipedia.org/wiki/Atomic_orbital
+Search for: What is the probability of finding an electron in an orbital?

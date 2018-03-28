@@ -1,0 +1,3 @@
+Rolling an even number (2, 4 or 6) is an event, and rolling an odd number (1, 3 or 5) is also an event. In Experiment 1 the probability of each outcome is always the same. The probability of landing on each color of the spinner is always one fourth.
+Probability - Math Goodies
+https://www.mathgoodies.com/lessons/vol6/intro_probability

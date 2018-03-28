@@ -1,0 +1,5 @@
+Default loss rate
+The recovery rate is defined as 1 minus the LGD, the share of an asset that is recovered when a borrower defaults. Loss given default is facility-specific because such losses are generally understood to be influenced by key transaction characteristics such as the presence of collateral and the degree of subordination.
+Loss given default - Wikipedia
+https://en.wikipedia.org/wiki/Loss_given_default
+Search for: Default loss rate

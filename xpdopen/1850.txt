@@ -1,0 +1,3 @@
+A discrete variable is a variable which can only take a countable number of values. In this example, the number of heads can only take 4 values (0, 1, 2, 3) and so the variable is discrete. The variable is said to be random if the sum of the probabilities is one.
+Discrete Random Variables – Mathematics A-Level Revision
+https://revisionmaths.com/advanced-level-maths-revision/.../discrete-random-variables

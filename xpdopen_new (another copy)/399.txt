@@ -1,0 +1,5 @@
+Genetic probability
+The genetic probability of traits is similar to the probability of flipping a coin. In human genetics, the egg and sperm each supply the baby one of two pieces of genetic information per trait from its parents. These pieces of genetic information are called alleles. Alleles are either dominant or recessive.
+PROBABILITIES OF TRAITS
+https://education.llnl.gov/bep/math/11/sPro.html
+Search for: Genetic probability

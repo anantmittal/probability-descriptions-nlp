@@ -1,0 +1,5 @@
+Probability mutually exclusive events
+For example: If the desired outcome is heads on a flipped coin, the complement is tails. Disjoint EventsDisjoint or mutually exclusive events cannot both occur in a single trial of a given experiment. EventAn event is a set of one or more possible results of a probability experiment.Dec 21, 2012
+Mutually Exclusive Events | CK-12 Foundation
+https://www.ck12.org/book/CK-12-Middle-School-Math-Concepts-Grade-7/.../12.4/
+Search for: Probability mutually exclusive events

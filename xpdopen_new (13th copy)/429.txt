@@ -1,0 +1,5 @@
+Probability of 2 independent events
+Independent Events. When two events are said to be independent of each other, what this means is that the probability that one event occurs in no way affects the probability of the other event occurring. An example of two independent events is as follows; say you rolled a die and flipped a coin.
+Rules of Probability and Independent Events | Wyzant Resources
+https://www.wyzant.com/...probability/probability/further_concepts_in_probability
+Search for: Probability of 2 independent events

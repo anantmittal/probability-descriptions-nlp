@@ -1,0 +1,8 @@
+Lotto Texas
+Matches Prize Current probability of winning
+3 of 6 numbers $ 3 (guaranteed) 1:75
+4 of 6 numbers $ 50 (estimated) 1:1,526
+5 of 6 numbers $ 2,000 (estimated) 1:89,678
+All 6 numbers Jackpot 1:25,827,165
+Texas Lottery - Wikipedia
+https://en.wikipedia.org/wiki/Texas_Lottery

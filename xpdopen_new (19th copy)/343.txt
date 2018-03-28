@@ -1,0 +1,5 @@
+What is P AB probability?
+If the event of interest is A and the event B is known or assumed to have occurred, "the conditional probability of A given B", or "the probability of A under the condition B", is usually written as P(A. B), or sometimes PB(A).
+Conditional probability - Wikipedia
+https://en.wikipedia.org/wiki/Conditional_probability
+Search for: What is P AB probability?

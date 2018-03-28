@@ -1,0 +1,5 @@
+Moving Day Average
+A 50-day moving average is calculated by adding up the closing prices of a stock over 50 days and then dividing the result by 50. A 200-day moving average is calculated the same way—by adding up closing prices over 200 days—and dividing the result by 200. And the same formula is used for 20, 30 or 100 day averages.Feb 26, 2013
+Moving Day Average: CNBC Explains - CNBC.com
+https://www.cnbc.com/id/100405556
+Search for: Moving Day Average

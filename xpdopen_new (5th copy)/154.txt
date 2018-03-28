@@ -1,0 +1,11 @@
+What are the odds of a straight flush?
+Frequency of 7-card poker hands
+Hand Frequency Probability
+Straight flush (excl. royal flush) 37,260 0.0279%
+Four of a kind 224,848 0.168%
+Full house 3,473,184 2.60%
+Flush 4,047,644 3.03%
+7 more rows
+Poker probability - Wikipedia
+https://en.wikipedia.org/wiki/Poker_probability
+Search for: What are the odds of a straight flush?

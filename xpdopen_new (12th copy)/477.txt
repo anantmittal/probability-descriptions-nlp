@@ -1,0 +1,3 @@
+We pick a card, write down what it is, then put it back in the deck and draw again. To find the P(QQQ), we find the probability of drawing the first queen which is 4/52. The probability of drawing the second queen is also 4/52 and the third is 4/52.
+From a standard deck of cards, one card is drawn. - CSUN
+www.csun.edu/~ata20315/psy320/Cards_probability.pdf

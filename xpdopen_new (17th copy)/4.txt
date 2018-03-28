@@ -1,0 +1,9 @@
+Survival rates for more common adult brain and spinal cord tumors
+Type of Tumor 5-Year Relative Survival Rate
+20-44 45-54
+Low-grade (diffuse) astrocytoma 68% 44%
+Anaplastic astrocytoma 54% 32%
+Glioblastoma 19% 8%
+5 more rows
+Survival Rates for Selected Adult Brain and Spinal Cord Tumors
+https://www.cancer.org/cancer/brain-spinal-cord-tumors-adults/.../survival-rates.html

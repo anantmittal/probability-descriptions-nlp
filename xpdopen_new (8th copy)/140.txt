@@ -1,0 +1,11 @@
+R probability functions
+R Functions for Probability Distributions
+Distribution Functions
+Logistic plogis rlogis
+Log Normal plnorm rlnorm
+Negative Binomial pnbinom rnbinom
+Normal pnorm rnorm
+16 more rows
+Probability Distributions in R (Stat 5101, Geyer) - Stat-UMN
+www.stat.umn.edu/geyer/old/5101/rlook.html
+Search for: R probability functions

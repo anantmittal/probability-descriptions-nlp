@@ -1,0 +1,5 @@
+Probability of getting a straight
+So strictly there are 36 straight flushes (4 × 9) if we don't count the royal flush. The probability of getting a straight flush then is 36/2,598,960 = 0.00001385.] The table below lists the number of possible ways that different types of hands can arise and their probability of occurrence.Sep 18, 2017
+Probability and Poker - Interactive Mathematics
+https://www.intmath.com/counting-probability/poker.php
+Search for: Probability of getting a straight

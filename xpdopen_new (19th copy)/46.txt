@@ -1,0 +1,4 @@
+www.youtube.com
+Use the specific multiplication rule formula. Just multiply the probability of the first event by the second. For example, if the probability of event A is 2/9 and the probability of event B is 3/9 then the probability of both events happening at the same time is (2/9)*(3/9) = 6/81 = 2/27.Sep 14, 2009
+Probability of Two Events Occurring Together - Statistics How To
+www.statisticshowto.com/how-to-find-the-probability-of-two-events-occurring-together/

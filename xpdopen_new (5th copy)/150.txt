@@ -1,0 +1,5 @@
+What is the probability of meeting someone with the same birthday?
+One person has a 1/365 chance of meeting someone with the same birthday. Two people have a 1/183 chance of meeting someone with the same birthday. But! Those two people might also have the same birthday, right, so you have to add odds of 1/365 for that.Oct 3, 2014
+Same Birthday Odds: Higher Than You Think! - Statistics How To
+www.statisticshowto.com/same-birthday-odds/
+Search for: What is the probability of meeting someone with the same birthday?

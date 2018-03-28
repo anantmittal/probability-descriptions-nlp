@@ -1,0 +1,11 @@
+Video poker hand odds
+Odds Of Hands (Jacks or Better)
+Hand Odds Payout Units
+Royal Flush 1 in 40,390 4,000
+Straight Flush 1 in 9,148 250
+Four of a kind 1 in 423 125
+Full House 1 in 86 45
+6 more rows
+Video Poker Odds | Probability and House Edge Examined - Fast Odds
+www.fastodds.com/game-odds/video-poker.htm
+Search for: Video poker hand odds

@@ -1,0 +1,5 @@
+What is the probability of sample space?
+In probability theory, the sample space of an experiment or random trial is the set of all possible outcomes or results of that experiment. A sample space is usually denoted using set notation, and the possible ordered outcomes are listed as elements in the set.
+Sample space - Wikipedia
+https://en.wikipedia.org/wiki/Sample_space
+Search for: What is the probability of sample space?

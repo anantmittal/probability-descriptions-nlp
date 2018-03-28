@@ -1,0 +1,3 @@
+So there are 7 possibiliyies out of which 2 have a Sunday. So the probability of 53 Sundays in a leap year is. A non-leap year has 365 days or 52 weeks and 1 odd day. The odd day can be Sunday,Monday, Tuesday,Wednesday,Thursday,Friday or Saturday.
+What is the probability of getting 53 Sundays in a year? - Quora
+https://www.quora.com/What-is-the-probability-of-getting-53-Sundays-in-a-year

@@ -1,0 +1,5 @@
+What is the loss given default?
+Loss given default or LGD is the share of an asset that is lost if a borrower defaults. It is a common parameter in risk models and also a parameter used in the calculation of economic capital, expected loss or regulatory capital under Basel II for a banking institution.
+Loss given default - Wikipedia
+https://en.wikipedia.org/wiki/Loss_given_default
+Search for: What is the loss given default?

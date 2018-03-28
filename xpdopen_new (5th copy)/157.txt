@@ -1,0 +1,5 @@
+What is the probability of a Type 1 error?
+When the null hypothesis is true and you reject it, you make a type I error. The probability of making a type I error is α, which is the level of significance you set for your hypothesis test. An α of 0.05 indicates that you are willing to accept a 5% chance that you are wrong when you reject the null hypothesis.
+What are type I and type II errors? - Minitab
+https://support.minitab.com/en-us/minitab/18/help-and.../type-i-and-type-ii-error/
+Search for: What is the probability of a Type 1 error?

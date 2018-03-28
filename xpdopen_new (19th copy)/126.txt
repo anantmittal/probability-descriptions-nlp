@@ -1,0 +1,5 @@
+Probability A given B
+A), notation for the probability of B given A. In the case where events A and B are independent (where event A has no effect on the probability of event B), the conditional probability of event B given event A is simply the probability of event B, that is P(B). P(A and B) = P(A)P(B.
+Conditional Probability
+www.stat.yale.edu/Courses/1997-98/101/condprob.htm
+Search for: Probability A given B

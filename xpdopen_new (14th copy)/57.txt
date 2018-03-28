@@ -1,0 +1,5 @@
+What is events in probability?
+In probability theory, an event is a set of outcomes of an experiment (a subset of the sample space) to which a probability is assigned.
+Event (probability theory) - Wikipedia
+https://en.wikipedia.org/wiki/Event_(probability_theory)
+Search for: What is events in probability?

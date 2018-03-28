@@ -1,0 +1,3 @@
+The probability of picking up an ace or a king is 8/52 since in a deck of 52 cards there are 4 aces and 4 kings, which totals 8. The probability of not picking up an ace or king is simply 52/52 - 8/52 = 44/52.
+Probability: Playing Cards
+https://www.pdx.edu/tutoring/sites/www.../Probability%20-%20Playing%20Cards.pdf

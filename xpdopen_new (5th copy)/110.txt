@@ -1,0 +1,5 @@
+Probability of Intersection
+The probability that Events A and B both occur is the probability of the intersection of A and B. The probability of the intersection of Events A and B is denoted by P(A ∩ B). If Events A and B are mutually exclusive, P(A ∩ B) = 0. The probability that Events A or B occur is the probability of the union of A and B.
+Probability Rules - Stat Trek
+stattrek.com/probability/probability-rules.aspx?Tutorial=AP
+Search for: Probability of Intersection

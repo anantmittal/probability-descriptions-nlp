@@ -1,0 +1,3 @@
+A drop is considered rare if they are accompanied by the random_chance_with_looting condition in the mob's loot table. Rare drops typically have a 2.5% chance of dropping, plus 1 percentage point per level of Looting on the weapon used (up to a maximum of 5.5% with Looting III).Mar 13, 2018
+Drops – Official Minecraft Wiki
+https://minecraft.gamepedia.com/Drops

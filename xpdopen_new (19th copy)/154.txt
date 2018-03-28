@@ -1,0 +1,5 @@
+Probability of uniform distribution
+Like all probability distributions for continuous random variables, the area under the graph of a random variable is always equal to 1. ... There is a 1/6 probability for each number being rolled. The general formula for the probability density function (pdf) for the uniform distribution is: f(x) = 1/ (B-A) for A≤x≤B.Sep 19, 2013
+Uniform Distribution / Rectangular Distribution: What is it?
+www.statisticshowto.com/uniform-distribution/
+Search for: Probability of uniform distribution

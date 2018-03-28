@@ -1,0 +1,5 @@
+Probability error
+In hypothesis testing in statistics, two types of error are distinguished. Type I errors which consist of rejecting a null hypothesis that is true; this amounts to a false positive result. Type II errors which consist of failing to reject a null hypothesis that is false; this amounts to a false negative result.
+Probability of error - Wikipedia
+https://en.wikipedia.org/wiki/Probability_of_error
+Search for: Probability error

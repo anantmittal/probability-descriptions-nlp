@@ -1,0 +1,5 @@
+Yahtzee odds
+The probability that I roll a Yahtzee - all five dice are the same number, e.g. all five dice rolled come up as a 1 - in any particular game is about 1 in 22, or a 4.6% chance, although the real probability is likely slightly less.May 28, 2010
+No Dice - The Probability Of Yahtzee* | Science 2.0
+www.science20.com/truth_universally_acknowledged/no_dice_probability_yahtzee
+Search for: Yahtzee odds

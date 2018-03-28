@@ -1,0 +1,3 @@
+This unit will calculate and/or estimate binomial probabilities for situations of the general "k out of n" type, where k is the number of times a binomial outcome is observed or stipulated to occur, p is the probability that the outcome will occur on any particular occasion, q is the complementary probability (1-p) ...
+Binomial Probabilities - VassarStats
+vassarstats.net/binomialX.html

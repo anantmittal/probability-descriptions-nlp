@@ -1,0 +1,5 @@
+Compound events Probability
+A compound event is one in which there is more than one possible outcome. Determining the probability of a compound event involves finding the sum of the probabilities of the individual events and, if necessary, removing any overlapping probabilities. Probability is the likelihood that an event will occur.
+Probability of Compound Events: Definition & Examples - Video ...
+https://study.com/.../probability-of-compound-events-definition-examples-quiz.html
+Search for: Compound events Probability

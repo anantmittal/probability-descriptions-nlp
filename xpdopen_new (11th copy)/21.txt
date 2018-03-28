@@ -1,0 +1,5 @@
+What are the odds of a royal flush?
+The royal flush is a case of the straight flush. It can be formed 4 ways (one for each suit), giving it a probability of 0.000154% and odds of 649,739 : 1.
+Poker probability - Wikipedia
+https://en.wikipedia.org/wiki/Poker_probability
+Search for: What are the odds of a royal flush?

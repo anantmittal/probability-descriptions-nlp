@@ -1,0 +1,5 @@
+What are the odds of winning a game of solitaire?
+About 79% of the games are theoretically winnable, but in practice, human players do not win 79% of games played, due to wrong moves that cause the game to become unwinnable. If one allows cards from the foundation to be moved back to the tableau, then between 82% and 91.5% are theoretically winnable.
+Klondike (solitaire) - Wikipedia
+https://en.wikipedia.org/wiki/Klondike_(solitaire)
+Search for: What are the odds of winning a game of solitaire?

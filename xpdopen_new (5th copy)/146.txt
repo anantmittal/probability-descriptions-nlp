@@ -1,0 +1,11 @@
+What is the probability of rolling a 7?
+Probabilities of 6-Sided Dice
+Roll 1 die 2 dice
+6 1/6 (16.667%) 5/36 (13.889%)
+7 0 6/36 (16.667%)
+8 0 5/36 (13.889%)
+9 0 4/36 (11.111%)
+26 more rows
+Probability for 6-Sided Dice - Alumnus.caltech.edu…
+alumnus.caltech.edu/~leif/FRP/probability.html
+Search for: What is the probability of rolling a 7?

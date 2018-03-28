@@ -1,0 +1,3 @@
+The logic is there are six sides to each die, so for each number on one die you can pair with six different numbers on the other die. Therefore, the probability of rolling a prime number on two dice is 15/36, which reduces to 5/12 (E).May 18, 2011
+Prime Numbers and Probability - GRE Math Problem - Magoosh GRE ...
+https://magoosh.com/gre/2011/prime-numbers-and-probability-gre-math-problem/

@@ -1,0 +1,3 @@
+Range of Probability. If an event is impossible, its probability is 0. If an event is certain to occur, its probability is 1. The probability of any other event is between these two values.
+Probability - interactive mathematics software or math software
+www.mathsteacher.com.au/year10/ch05_probability/04_probability/prob.htm

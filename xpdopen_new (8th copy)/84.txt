@@ -1,0 +1,5 @@
+Probability distribution function
+In probability theory, a probability density function (PDF), or density of a continuous random variable, is a function, whose value at any given sample (or point) in the sample space (the set of possible values taken by the random variable) can be interpreted as providing a relative likelihood that the value of the ...
+Probability density function - Wikipedia
+https://en.wikipedia.org/wiki/Probability_density_function
+Search for: Probability distribution function

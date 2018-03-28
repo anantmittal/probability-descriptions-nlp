@@ -1,0 +1,3 @@
+Definition: Two events, A and B, are independent if the fact that A occurs does not affect the probability of B occurring. Some other examples of independent events are: Landing on heads after tossing a coin AND rolling a 5 on a single 6-sided die. Choosing a marble from a jar AND landing on heads after tossing a coin.
+Independent Events | Math Goodies
+https://www.mathgoodies.com/lessons/vol6/independent_events

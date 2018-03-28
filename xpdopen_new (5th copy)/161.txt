@@ -1,0 +1,11 @@
+Probability of two dice
+Probabilities for the two dice
+Total Number of combinations Probability
+10 3 8.33%
+11 2 5.56%
+12 1 2.78%
+Total 36 100%
+8 more rows
+Probabilities for the two dice
+statweb.stanford.edu/~susan/courses/s60/split/node65.html
+Search for: Probability of two dice

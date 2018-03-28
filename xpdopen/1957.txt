@@ -1,0 +1,11 @@
+Probability of getting a full house
+Frequency of 5-card poker hands
+Hand Distinct hands Probability
+Four of a kind 156 0.0240%
+Full house 156 0.1441%
+Flush (excluding royal flush and straight flush) 1,277 0.1965%
+Straight (excluding royal flush and straight flush) 10 0.3925%
+7 more rows
+Poker probability - Wikipedia
+https://en.wikipedia.org/wiki/Poker_probability
+Search for: Probability of getting a full house

@@ -1,0 +1,5 @@
+Yahtzee probability
+The probability of getting a Yahtzee in a single roll is easy to calculate. There are five dice, so whatever the first die rolls there is a 1/6 chance that the second die is the same number. If that occurs, there's a 1/6 chance that the third die is the same, ditto the fourth and the fifth.
+Yahtzee Probability - DataGenetics
+datagenetics.com/blog/january42012/index.html
+Search for: Yahtzee probability

@@ -1,0 +1,9 @@
+Texas Holdem hand odds
+Pot Odds — After Flop
+Hand Probability of Making Hand Pot Odds
+Four to a flush 34.97% 1.86
+Four to an outside straight 31.45% 2.18
+Four to an inside straight 16.47% 5.07
+Texas Hold'em - Wizard of Odds
+https://wizardofodds.com/games/texas-hold-em/
+Search for: Texas Holdem hand odds

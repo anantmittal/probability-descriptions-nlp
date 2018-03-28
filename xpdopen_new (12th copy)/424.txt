@@ -1,0 +1,5 @@
+Probability of at least one heads
+a coin with probability p of coming up heads is flipped three times (the flips are independent). What is the probability of getting at least two heads given there is at least one head? What is the probability of getting at least one head given there are at least two heads?
+A Coin With Probability P Of Coming Up Heads Is Fl... | Chegg.com
+www.chegg.com/.../coin-probability-p-coming-heads-flipped-three-times-flips-independ...
+Search for: Probability of at least one heads

@@ -1,0 +1,3 @@
+The chance that the second person has the same birthday is 1/365. To find the probability that both people have this birthday, we have to multiply their separate probabilities. (365/365) * (1/365) = 1/365, or about 0.27%. The chance of the first and second person sharing a birthday is still 1/365.
+Math Forum: Ask Dr. Math FAQ: The Birthday Problem
+mathforum.org/dr.math/faq/faq.birthdayprob.html

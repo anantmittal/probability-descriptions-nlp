@@ -1,0 +1,3 @@
+5 Answers. You'll be surprised. The correct probability of winning at least one ticket is around . Assuming exactly one prize is given, your answer of is the probability of winning is correct.Dec 16, 2011
+combinatorics - Probability of winning a prize in a raffle ...
+https://math.stackexchange.com/questions/.../probability-of-winning-a-prize-in-a-raffle

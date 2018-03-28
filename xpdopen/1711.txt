@@ -1,0 +1,4 @@
+Genotype probability.
+For example, each offspring of a Pp Pp cross has a 50% chance of receiving either allele from either parent. So, the probability of inheriting two p alleles is 1/2 1/2. This equals 1/4.
+Science: Heredity Section 2 (Traits and Inheritance) Flashcards | Quizlet
+https://quizlet.com/.../science-heredity-section-2-traits-and-inheritance-flash-cards/

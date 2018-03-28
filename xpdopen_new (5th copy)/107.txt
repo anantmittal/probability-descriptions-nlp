@@ -1,0 +1,5 @@
+The probability of an impossible event is
+It depends what you mean by "Probability of impossible event". This is an ambiguous phrase which would be interpreted in several different ways: 1) The event is known ahead of time to be not possible, therefore by definition in mathematics, the probability is defined to be 0 which means it can never happen.Sep 18, 2014
+Probability of impossible event. - Mathematics Stack Exchange
+https://math.stackexchange.com/questions/936763/probability-of-impossible-event
+Search for: The probability of an impossible event is

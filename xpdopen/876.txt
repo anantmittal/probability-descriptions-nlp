@@ -1,0 +1,3 @@
+Junho: The chance of DB completing the coin scam on the first attempt, which is to toss a coin and get 10 heads in a row, is very unlikely. When calculated, the probability of this happening is 1/1024 which is about 0.000967.
+The Derren Brown Coin Flipping Scam : nrich.maths.org
+https://nrich.maths.org/6954/solution

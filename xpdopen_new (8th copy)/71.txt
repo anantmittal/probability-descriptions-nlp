@@ -1,0 +1,3 @@
+Instead, we replace the sum used for discrete random variables with an integral over the set of possible values. For a continuous random variable , we cannot form its probability distribution function by assigning a probability that is exactly equal to each value.
+The idea of a probability distribution - Math Insight
+https://mathinsight.org/probability_distribution_idea

@@ -1,0 +1,5 @@
+Find probability given mean and standard deviation
+The value of 20 has a Z score of 0, which means it is equal to the mean. And the value of 30 has a Z score of 1, which means it is one standard deviation above the mean. The Z score allows you to calculate the probability that a normally distributed random variable x will fall within a desired range.
+Standard Normal Distribution - PreMBA Analytical Methods
+ci.columbia.edu/ci/premba_test/c0331/s6/s6_4.html
+Search for: Find probability given mean and standard deviation

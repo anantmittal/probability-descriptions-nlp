@@ -1,0 +1,5 @@
+Probability of getting a king
+The odds of picking up any other card is therefore 52/52 - 4/52 = 48/52. What is the probability of picking up an ace or king in a 52 card deck? The probability of picking up an ace or a king is 8/52 since in a deck of 52 cards there are 4 aces and 4 kings, which totals 8.
+Probability: Playing Cards
+https://www.pdx.edu/tutoring/sites/www.../Probability%20-%20Playing%20Cards.pdf
+Search for: Probability of getting a king

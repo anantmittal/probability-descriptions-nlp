@@ -1,0 +1,9 @@
+Bet odds table
+Bet name Winning spaces Odds against winning (American)
+Straight up Any single number 37 to 1
+Row 0, 00 18 to 1
+Split any two adjoining numbers vertical or horizontal 18 to 1
+Street any three numbers horizontal (1, 2, 3 or 4, 5, 6, etc.) 11 2⁄3 to 1
+17 more rows
+Roulette - Wikipedia
+https://en.wikipedia.org/wiki/Roulette

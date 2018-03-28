@@ -1,0 +1,3 @@
+Sampling with replacement is used to find probability with replacement. In other words, you want to find the probability of some event where there's a number of balls, cards or other objects, and you replace the item each time you choose one. Let's say you had a population of 7 people, and you wanted to sample 2.May 8, 2016
+Sampling With Replacement / Sampling Without Replacement
+www.statisticshowto.com/sampling-with-replacement-without/

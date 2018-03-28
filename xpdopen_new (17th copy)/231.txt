@@ -1,0 +1,5 @@
+What are the odds of getting a royal flush in Texas Holdem?
+The probability of forming a 5-card royal flush out of 7 cards, before considering card, is 4*combin(47,2)/combin(52,7) = 4324/133784560, or 1 in 30940. The probability that the seventh card will be part of the royal flush is 5/7. So the final probability is 21620/936491920, or 1 in 43316.
+Texas Hold 'em - Probability - General - Wizard of Odds
+https://wizardofodds.com/ask-the-wizard/texas-hold-em/probability/
+Search for: What are the odds of getting a royal flush in Texas Holdem?

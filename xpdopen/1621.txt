@@ -1,0 +1,4 @@
+1/36
+Snake Eyes. A roll of two 1s (the lowest roll possible) on a pair of six-sided dice. The probability of rolling snake eyes is 1/36, or 2.777...%.
+Snake Eyes -- from Wolfram MathWorld
+mathworld.wolfram.com/SnakeEyes.html

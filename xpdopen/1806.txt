@@ -1,0 +1,9 @@
+What are the most likely outcomes from rolling a pair of dice?
+Outcome Probability
+6 5/36 = 13.89%
+7 6/36 = 16.67%
+8 5/36 = 13.89%
+9 4/36 = 11.11%
+7 more rows
+Rolling the Dice - Free Math Help
+https://www.freemathhelp.com/rolling-dice.html

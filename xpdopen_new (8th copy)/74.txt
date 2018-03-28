@@ -1,0 +1,3 @@
+Probability is the likelihood or chance of an event occurring. For example, the probability of flipping a coin and it being heads is ½, because there is 1 way of getting a head and the total number of possible outcomes is 2 (a head or tail).
+Probability – Mathematics GCSE Revision – Revision Maths
+https://revisionmaths.com/gcse-maths-revision/statistics-handling-data/probability

@@ -1,0 +1,5 @@
+Vector of probabilities
+In mathematics and statistics, a probability vector or stochastic vector is a vector with non-negative entries that add up to one.
+Probability vector - Wikipedia
+https://en.wikipedia.org/wiki/Probability_vector
+Search for: Vector of probabilities

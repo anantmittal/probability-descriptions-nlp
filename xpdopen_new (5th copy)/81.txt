@@ -1,0 +1,5 @@
+Probability complement
+In probability theory, the complement of any event A is the event [not A], i.e. the event that A does not occur. The event A and its complement [not A] are mutually exclusive and exhaustive.
+Complementary event - Wikipedia
+https://en.wikipedia.org/wiki/Complementary_event
+Search for: Probability complement

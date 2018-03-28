@@ -1,0 +1,5 @@
+Odds of Yahtzee
+There are five dice, so whatever the first die rolls there is a 1/6 chance that the second die is the same number. If that occurs, there's a 1/6 chance that the third die is the same, ditto the fourth and the fifth. So probability of Yahztee in one roll is 1/6 x 1/6 x 1/6 x 1/6 = 1/1296.
+Yahtzee Probability - DataGenetics
+www.datagenetics.com/blog/january42012/
+Search for: Odds of Yahtzee

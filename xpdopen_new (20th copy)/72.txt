@@ -1,0 +1,3 @@
+If you have a 49.95% chance of winning, then you have a 50.05% chance of losing. Given independent events, which non-rigorously means that losing bet #1 has no bearing on bet #2, the probability of both events happening is the product of their individual probabilities.
+probability - What are the odds of losing a bet 20 times in a row when I ...
+https://math.stackexchange.com/q/823140

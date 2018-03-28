@@ -1,0 +1,5 @@
+Intersection probability
+The complement of an event is the event not occurring. The probability that Event A will not occur is denoted by P(A'). The probability that Events A and B both occur is the probability of the intersection of A and B. The probability of the intersection of Events A and B is denoted by P(A ∩ B).
+Probability Rules - Stat Trek
+stattrek.com/probability/probability-rules.aspx?Tutorial=AP
+Search for: Intersection probability

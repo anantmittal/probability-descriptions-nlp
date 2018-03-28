@@ -1,0 +1,5 @@
+Probability of making a Type 2 error
+The probability of making a type I error is α, which is the level of significance you set for your hypothesis test. An α of 0.05 indicates that you are willing to accept a 5% chance that you are wrong when you reject the null hypothesis. ... The probability of rejecting the null hypothesis when it is false is equal to 1–β.
+What are type I and type II errors? - Minitab Express
+support.minitab.com/en-us/minitab-express/1/help-and.../type-i-and-type-ii-error/
+Search for: Probability of making a Type 2 error

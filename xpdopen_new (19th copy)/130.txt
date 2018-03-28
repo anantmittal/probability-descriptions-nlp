@@ -1,0 +1,5 @@
+Probability of drawing a face card
+Assume that the face card is put back in after each draw, so that you are selecting from a full deck each time." The way I tried to reason was that there are 16 face cards in a 52 deck, so the chance of picking a face card is 16/52 = about 30% a time.May 8, 2001
+Probability of Choosing a Face Card - Math Forum - Ask Dr. Math
+mathforum.org/library/drmath/view/56677.html
+Search for: Probability of drawing a face card

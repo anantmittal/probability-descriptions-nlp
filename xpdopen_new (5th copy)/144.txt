@@ -1,0 +1,5 @@
+What is the probability of Yahtzee?
+The probability of rolling five of a kind of any other number is also 1/7776. Since there are a total of six different numbers on a die, we multiply the above probability by 6. This means that the probability of a Yahtzee on the first roll is 6 x 1/7776 = 1/1296 = 0.08%.Jun 7, 2017
+The Probability of Rolling a Yahtzee - ThoughtCo
+https://www.thoughtco.com/probability-of-rolling-a-yahtzee-3126593
+Search for: What is the probability of Yahtzee?

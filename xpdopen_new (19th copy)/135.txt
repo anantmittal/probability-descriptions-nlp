@@ -1,0 +1,5 @@
+Flipping a coin odds
+(If it starts out as heads, there's a 51% chance it will end as heads). If the coin is spun, rather than tossed, it can have a much-larger-than-50% chance of ending with the heavier side down. Spun coins can exhibit "huge bias" (some spun coins will fall tails-up 80% of the time).
+The Coin Flip: A Fundamentally Unfair Proposition?
+https://econ.ucsb.edu/~doug/240a/Coin%20Flip.htm
+Search for: Flipping a coin odds

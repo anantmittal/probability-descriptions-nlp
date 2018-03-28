@@ -1,0 +1,5 @@
+Probability unusual event
+An unusual event is an event that has a low probability of occurring. The classical method of computing probabilities requires equally likely outcomes. An experiment is said to have equally likely outcomes when each simple event has the same probability of occurring.
+Chapter 5 Probability
+www.math.kent.edu/~honli/teaching/statistics/Chapter5/chap05_01.ppt
+Search for: Probability unusual event

@@ -1,0 +1,5 @@
+Probability mutually exclusive events
+In logic and probability theory, two propositions (or events) are mutually exclusive or disjoint if they cannot both be true (occur). A clear example is the set of outcomes of a single coin toss, which can result in either heads or tails, but not both.
+Mutual exclusivity - Wikipedia
+https://en.wikipedia.org/wiki/Mutual_exclusivity
+Search for: Probability mutually exclusive events

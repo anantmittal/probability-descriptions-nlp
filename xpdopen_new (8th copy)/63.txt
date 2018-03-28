@@ -1,0 +1,11 @@
+Craps probability of winning
+Return Table with 3-4-5X Odds
+Event Pays Probability
+Point of 5 or 9 & win 7 0.088889
+Point of 5 or 9 & lose -5 0.133333
+Point of 6 or 8 & win 7 0.126263
+Point of 6 or 8 & lose -6 0.151515
+5 more rows
+Craps - Probability - Wizard of Odds
+https://wizardofodds.com/ask-the-wizard/craps/probability/
+Search for: Craps probability of winning

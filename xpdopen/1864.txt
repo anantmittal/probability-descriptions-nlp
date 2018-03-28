@@ -1,0 +1,3 @@
+The variable X can take on the values 0, 1, or 2. In this example, X is a random variable; because its value is determined by the outcome of a statistical experiment. A probability distribution is a table or an equation that links each outcome of a statistical experiment with its probability of occurrence.
+Probability Distribution - Stat Trek
+stattrek.com/probability-distributions/probability-distribution.aspx

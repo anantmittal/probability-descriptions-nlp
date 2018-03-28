@@ -1,0 +1,5 @@
+Probability in cards
+The probability of picking up an ace in a 52 deck of cards is 4/52 since there are 4 aces in the deck. The odds of picking up any other card is therefore 52/52 - 4/52 = 48/52. What is the probability of picking up an ace or king in a 52 card deck?
+Probability: Playing Cards
+https://www.pdx.edu/tutoring/sites/www.../Probability%20-%20Playing%20Cards.pdf
+Search for: Probability in cards

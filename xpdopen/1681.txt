@@ -1,0 +1,5 @@
+Example: Probability of 3 Heads in a Row. For each toss of a coin a "Head" has a probability of 0.5:
+And so the chance of getting 3 Heads in a row is 0.125.
+So each toss of a coin has a ½ chance of being Heads, but lots of Heads in a row is unlikely.
+Probability: Independent Events - Math is Fun
+www.mathsisfun.com/data/probability-events-independent.html

@@ -1,0 +1,9 @@
+What about other length losing streaks?
+Probability of losing n hands in a row, ignoring pushes.
+n Probability One in
+5 losses 4.0% 25
+6 losses 2.1% 47
+7 losses 1.1% 90
+10 more rows
+What are the Odds of Losing 6 Hands in a Row? - BlackjackInfo.com
+https://www.blackjackinfo.com/odds-blackjack-losing-6-hands-in-a-row/

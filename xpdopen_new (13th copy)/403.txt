@@ -1,0 +1,5 @@
+Md5 collision probability
+Thus, for usual hash uses, the space of MD5 (128 bits) is large enough. The probability of collision in usual situations is small enough, it is much larger probability to for example, detect false duplicates due to random hardware failure (like soft error).Jan 1, 2014
+hash - Strength of MD5 in finding duplicate files - Cryptography ...
+https://crypto.stackexchange.com/questions/.../strength-of-md5-in-finding-duplicate-files
+Search for: Md5 collision probability

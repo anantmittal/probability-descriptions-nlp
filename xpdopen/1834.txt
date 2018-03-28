@@ -1,0 +1,3 @@
+If Events A and B are mutually exclusive, P(A ∩ B) = 0. The probability that Events A or B occur is the probability of the union of A and B. The probability of the union of Events A and B is denoted by P(A ∪ B) . If the occurrence of Event A changes the probability of Event B, then Events A and B are dependent.
+Probability Rules - Stat Trek
+stattrek.com/probability/probability-rules.aspx?Tutorial=AP

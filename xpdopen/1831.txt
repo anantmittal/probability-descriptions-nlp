@@ -1,0 +1,3 @@
+In probability theory and statistics, the continuous uniform distribution or rectangular distribution is a family of symmetric probability distributions such that for each member of the family, all intervals of the same length on the distribution's support are equally probable.
+Uniform distribution (continuous) - Wikipedia
+https://en.wikipedia.org/wiki/Uniform_distribution_(continuous)

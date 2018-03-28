@@ -1,0 +1,5 @@
+Probability in normal distribution
+The standard normal distribution is a normal distribution with a mean of zero and standard deviation of 1. ... Examine the table and note that a "Z" score of 0.0 lists a probability of 0.50 or 50%, and a "Z" score of 1, meaning one standard deviation above the mean, lists a probability of 0.8413 or 84%.Jul 24, 2016
+The Standard Normal Distribution - SPH - Boston University
+sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/...Probability/BS704_Probability9.html
+Search for: Probability in normal distribution

@@ -1,0 +1,3 @@
+Similarly, the probability density function of a continuous random variable can be obtained by differentiating the cumulative distribution. The c.d.f. can be used to find out the probability of a random variable being between two values: P(s ≤ X ≤ t) = the probability that X is between s and t.
+Continuous Random Variables – Maths A-Level Revision
+https://revisionmaths.com/advanced-level-maths-revision/.../continuous-random-variable...

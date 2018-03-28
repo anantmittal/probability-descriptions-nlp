@@ -1,0 +1,5 @@
+What is the percent chance of rain tomorrow?
+If the forecaster is only 50% sure that precipitation will occur, and expects that, if it does occur, it will produce measurable rain over about 80 percent of the area, the PoP (chance of rain) is 40%. ( PoP = .5 x .8 which equals .4 or 40%. )
+FAQ - What is the Meaning of PoP - National Weather Service
+https://www.weather.gov/ffc/pop
+Search for: What is the percent chance of rain tomorrow?

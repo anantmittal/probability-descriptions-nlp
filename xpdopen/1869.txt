@@ -1,0 +1,4 @@
+www.chegg.com
+In probability and statistics, a probability mass function (pmf) is a function that gives the probability that a discrete random variable is exactly equal to some value. ... The value of the random variable having the largest probability mass is called the mode.
+Probability mass function - Wikipedia
+https://en.wikipedia.org/wiki/Probability_mass_function

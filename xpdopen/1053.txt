@@ -1,0 +1,9 @@
+Saturday Lotto
+Division Winning Numbers Required Probability (Single Game)
+1st Division 6 1 in 8,145,060
+2nd Division 5 + supplementary 1 in 678,755
+3rd Division 5 1 in 34,808
+4th Division 4 1 in 733
+3 more rows
+Lotteries in Australia - Wikipedia
+https://en.wikipedia.org/wiki/Lotteries_in_Australia

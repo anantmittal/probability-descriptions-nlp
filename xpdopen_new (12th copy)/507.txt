@@ -1,0 +1,5 @@
+Odds of winning the lottery
+If the six numbers on a ticket match the numbers drawn by the lottery, the ticket holder is a jackpot winner—regardless of the order of the numbers. The probability of this happening is 1 in 13,983,816. The chance of winning can be demonstrated as follows : The first number drawn has a 1 in 49 chance of matching .
+Lottery mathematics - Wikipedia
+https://en.wikipedia.org/wiki/Lottery_mathematics
+Search for: Odds of winning the lottery

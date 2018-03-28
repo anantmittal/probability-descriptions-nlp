@@ -1,0 +1,3 @@
+We say the odds are "3 to 2," which means 3 favorable outcomes to every 2 unfavorable outcomes, and we write 3 : 2. For example, the odds of rolling a 5 or greater are 2 : 4, which reduces to 1 : 2. Example 1: If we flip a coin two times, what are the odds for it landing heads at least once?
+SparkNotes: Probability: Complementary Events and Odds
+www.sparknotes.com/math/algebra1/probability/section2/

@@ -1,0 +1,3 @@
+Hence for drawing a card from a deck, each outcome has probability 1/52. The probability of an event is the sum of the probabilities of the outcomes in the event, hence the probability of drawing a spade is 13/52 = 1/4, and the probability of drawing a king is 4/52 = 1/13.
+Probability and the additive rule
+https://www.math.uni.edu/~campbell/mdm/prob.html

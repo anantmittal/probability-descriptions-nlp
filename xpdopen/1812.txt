@@ -1,0 +1,3 @@
+In a binomial experiment, the probability of success on any individual trial is constant. For example, the probability of getting Heads on a single coin flip is always 0.50. If "getting Heads" is defined as success, the probability of success on a single trial would be 0.50.
+Binomial Calculator - Stat Trek
+stattrek.com/online-calculator/binomial.aspx

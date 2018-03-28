@@ -1,0 +1,5 @@
+Probability of getting a queen
+The probability of drawing the second queen is also 4/52 and the third is 4/52. We multiply these three individual probabilities together to get P(QQQ) = P(Q)P(Q)P(Q) = (4/52)(4/52)(4/52) = .00004 which is very small but not impossible.
+From a standard deck of cards, one card is drawn. - CSUN
+www.csun.edu/~ata20315/psy320/Cards_probability.pdf
+Search for: Probability of getting a queen

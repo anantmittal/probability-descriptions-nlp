@@ -1,0 +1,5 @@
+Probability of normal distribution
+As is the case with all continuous distributions, finding the probability involves finding the area under the curve and to the left of the line x = 90: That is: There's just one problem... ... So, all we need to do is find a normal probability table for a normal distribution with mean μ = 100 and standard deviation σ = 16.
+Finding Normal Probabilities | STAT 414 / 415
+https://onlinecourses.science.psu.edu/stat414/node/150
+Search for: Probability of normal distribution

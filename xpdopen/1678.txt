@@ -1,0 +1,5 @@
+Probability of either A or B
+If Events A and B are independent, the probability that either Event A or Event B occurs is: P(A or B) = P(A) + P(B) - P(A and B)
+Basic Concepts in Probability - OnlineStatBook
+onlinestatbook.com/2/probability/basic.html
+Search for: Probability of either A or B

@@ -1,0 +1,3 @@
+Two events are mutually exclusive when two events cannot happen at the same time. The probability that one of the mutually exclusive events occur is the sum of their individual probabilities.
+Probability of events (Pre-Algebra, Probability and statistic) – Mathplanet
+https://www.mathplanet.com/education/pre-algebra/probability.../probability-of-events

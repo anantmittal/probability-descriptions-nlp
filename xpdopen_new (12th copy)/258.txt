@@ -1,0 +1,4 @@
+0.000154%
+It can be formed 4 ways (one for each suit), giving it a probability of 0.000154% and odds of 649,739 : 1. When ace-low straights and ace-low straight flushes are not counted, the probabilities of each are reduced: straights and straight flushes each become 9/10 as common as they otherwise would be.
+Poker probability - Wikipedia
+https://en.wikipedia.org/wiki/Poker_probability

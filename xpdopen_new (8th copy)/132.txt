@@ -1,0 +1,5 @@
+What is the chance of a coin landing on heads?
+Suppose you have a fair coin: this means it has a 50% chance of landing heads up and a 50% chance of landing tails up. Suppose you flip it three times and these flips are independent. What is the probability that it lands heads up, then tails up, then heads up? So the answer is 1/8, or 12.5%.
+Game Theory (Part 9)
+math.ucr.edu/home/baez/games/games_9.html
+Search for: What is the chance of a coin landing on heads?

@@ -1,0 +1,3 @@
+The 6 has 5 different ways of coming up on the dice, and so does the 8 - totalling 10 different permutations. That's 10 out of 36 ways. Translation - ~27.8% chance of hitting the 6 or 8; and a ~16.7% chance of losing. (dice rolling probability=6/36 ways the 7 can come out).
+Dice Rolling Probability: Why craps dice do what they do - Dice Control
+https://www.mastersetter.com/dice/rolling/probability/

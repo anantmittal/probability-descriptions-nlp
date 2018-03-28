@@ -1,0 +1,9 @@
+50/50 Odds
+Family Size Same-Gender Mixed-Gender
+2 Children 50% 50%
+3 Children 25% 75%
+4 Children 12.5% 87.5%
+5 Children 6% 94%
+2 more rows
+What are the odds of having all boys or all girls? : Ingender.com
+www.ingender.com/Gender-info/Odds-of-having-all-boys-or-girls.aspx

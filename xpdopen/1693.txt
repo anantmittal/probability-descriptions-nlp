@@ -1,0 +1,9 @@
+Frequency of 7-card poker hands
+Hand Frequency Odds
+Royal flush 4,324 30,939 : 1
+Straight flush (excl. royal flush) 37,260 3,589.6 : 1
+Four of a kind 224,848 594 : 1
+Full house 3,473,184 37.5 : 1
+7 more rows
+Poker probability - Wikipedia
+https://en.wikipedia.org/wiki/Poker_probability

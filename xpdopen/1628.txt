@@ -1,0 +1,3 @@
+The probability of an event is a number describing the chance that the event will happen. An event that is certain to happen has a probability of 1. An event that cannot possibly happen has a probability of zero. If there is a chance that an event will happen, then its probability is between zero and 1.
+Probability for Middle School - Jim Wilson at UGA
+jwilson.coe.uga.edu/emt668/EMAT6680.Folders/Dickerson/probability/titled.html

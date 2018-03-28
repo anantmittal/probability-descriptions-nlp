@@ -1,0 +1,3 @@
+In probability theory, an outcome is a possible result of an experiment. Each possible outcome of a particular experiment is unique, and different outcomes are mutually exclusive (only one outcome will occur on each trial of the experiment).
+Outcome (probability) - Wikipedia
+https://en.wikipedia.org/wiki/Outcome_(probability)

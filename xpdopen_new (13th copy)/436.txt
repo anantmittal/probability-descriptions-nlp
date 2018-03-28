@@ -1,0 +1,5 @@
+Unlikely event probability
+Larger numbers indicate greater likelihood. A probability near 0 indicates an unlikely event, a probability around 1/2 indicates an event that is neither unlikely nor likely, and a probability near 1 indicates a likely event.
+Understand the probability of chance events (7.SP.C.5) | LearnZillion
+https://learnzillion.com/.../73035-understand-the-probability-of-chance-events-7-sp-c-5
+Search for: Unlikely event probability

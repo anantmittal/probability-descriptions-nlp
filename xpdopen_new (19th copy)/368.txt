@@ -1,0 +1,5 @@
+Probability is zero
+In probability theory, one says that an event happens almost surely (sometimes abbreviated as a.s.) if it happens with probability one. In other words, the set of possible exceptions may be non-empty, but it has probability zero. The concept is precisely the same as the concept of "almost everywhere" in measure theory.
+Almost surely - Wikipedia
+https://en.wikipedia.org/wiki/Almost_surely
+Search for: Probability is zero

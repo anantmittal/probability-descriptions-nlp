@@ -1,0 +1,3 @@
+Probability and Statistics for Computer Science treats the most common discrete and continuous distributions, showing how they find use in decision and estimation problems, and constructs computer algorithms for generating observations from the various distributions.
+Probability and Statistics for Computer Science - ACM Digital Library
+https://dl.acm.org/citation.cfm?id=1386887

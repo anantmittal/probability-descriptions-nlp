@@ -1,0 +1,3 @@
+Definition: The probability of not achieving a portfolio expected return. Related: Value at risk.
+Base probability of loss Definition - NASDAQ.com
+https://www.nasdaq.com/investing/glossary/b/base-probability-of-loss

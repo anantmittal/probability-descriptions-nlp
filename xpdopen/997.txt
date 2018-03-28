@@ -1,0 +1,3 @@
+What are the odds of rolling the same number with six dice in one roll? The odds of getting six of the same number with six dice is 6*(1/6)6=1/7776 =~ 0.01286%.
+Probability - Dice - Wizard of Odds
+https://wizardofodds.com/ask-the-wizard/probability/dice/

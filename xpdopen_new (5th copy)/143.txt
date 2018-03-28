@@ -1,0 +1,10 @@
+What are the odds of rolling a 6?
+Chances of NOT rolling a 6 Chances OF rolling a 6
+...with just one die 5 / 6 83.33 % 1 / 6 16.67 %
+...with 2 dice 25 / 36 69.44 % 11 / 36 30.56 %
+...with 3 dice 125 / 216 57.87 % 91 / 216 42.13 %
+...with 4 dice 625 / 1,296 48.23 % 671 / 1,296 51.77 %
+5 more rows
+Dice and the Laws of Probability - ED Collins
+www.edcollins.com/backgammon/diceprob.htm
+Search for: What are the odds of rolling a 6?

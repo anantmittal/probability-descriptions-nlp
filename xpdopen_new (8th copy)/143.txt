@@ -1,0 +1,3 @@
+Probability Sampling. A probability sampling method is any method of sampling that utilizes some form of random selection. In order to have a random selection method, you must set up some process or procedure that assures that the different units in your population have equal probabilities of being chosen.
+Social Research Methods - Knowledge Base - Probability Sampling
+https://socialresearchmethods.net/kb/sampprob.php

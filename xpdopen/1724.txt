@@ -1,0 +1,5 @@
+P(Black) = 26/52 or ½ , P(Jack) is 4/52 or 1/13 so P(Black and Jack) = ½ * 1/13 = 1/26.
+A standard deck of cards is shuffled and one card is drawn. Find the probability that the card is a queen.
+or an ace.
+From a standard deck of cards, one card is drawn. - CSUN
+www.csun.edu/~ata20315/psy320/Cards_probability.pdf

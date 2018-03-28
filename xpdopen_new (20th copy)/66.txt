@@ -1,0 +1,4 @@
+31.36%
+The probability you will get pocket aces in any one hand is 6/1326, or once every 221 hands. According to my 10-player Texas Hold 'em section (/games/texas-hold-em/10players.html) the probability of winning with pocket aces is 31.36%, assuming all players stay in until the end. However that is a big if.
+Texas Hold 'em - Probability - Pairs - Wizard of Odds
+https://wizardofodds.com/ask-the-wizard/texas-hold-em/probability-pairs/
