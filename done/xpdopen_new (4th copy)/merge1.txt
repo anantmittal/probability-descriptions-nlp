@@ -1,0 +1,7 @@
+When there is cancer in the lymph nodes, the chance of local recurrence in 5 years,23 in 100
+When there is cancer in the lymph nodes, the chance of local recurrence in 5 years with radiation therapy,6 in 100
+chance of pregnancies ending in miscarriage,175 in 1000
+chance of recovering from a stroke almost completely,10 in 100
+chance of recovering from a stroke with minor impairment,25 in 100
+chance of recovering from a stroke with severe impairment,40 in 100
+
