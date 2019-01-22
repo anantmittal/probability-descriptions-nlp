@@ -1,0 +1,715 @@
+             If you're seeing this message, it means we're having trouble loading external resources on our website.  If you're behind a web filter, please make sure that the domains *.kastatic.org and *.kasandbox.org are unblocked.        Main content       To log in and use all the features of Khan Academy, please enable JavaScript in your browser.                                                        Probability
+of Inheritance    The value of
+  studying genetics is in understanding how we can
+  predict the likelihood of inheriting particular traits.  This can help plant and
+  animal breeders in developing varieties that have more desirable qualities.  It can
+  also help people explain and predict patterns of inheritance in family lines.  One of the
+  easiest ways to calculate the mathematical probability of inheriting a specific trait was
+  invented by an early 20th century English geneticist named Reginald Punnett  .  His
+  technique employs what we now call a Punnett square . 
+  This is a simple graphical way of discovering all of the potential combinations of genotypes that can occur in children, given the
+  genotypes of their parents.  It also shows us the odds of each of the offspring
+  genotypes occurring.  Setting up
+  and using a Punnett square is quite simple once you understand how it works. 
+  You begin by drawing a grid of perpendicular lines:      Next, you put
+  the genotype of one parent across the top and that of the other parent down the left
+  side.  For example, if parent pea plant genotypes were YY and GG respectively, the
+  setup would be:       Note that
+  only one letter goes in each box for the parents.   It does not matter which parent
+  is on the side or the top of the Punnett square.  Next, 
+  all you have to do is fill in the boxes by copying the row and column-head 
+  letters across or down into the empty squares.  This gives us the 
+  predicted frequency of all of the potential genotypes among the offspring each 
+  time reproduction occurs.      In this 
+  example,
+  100% of the offspring will likely be heterozygous (YG).  Since the Y (yellow) allele is dominant over the G (green) allele for pea
+  plants, 100% of the YG offspring will have a yellow phenotype ,
+  as Mendel observed in his breeding experiments.  In another
+  example (shown below), if the parent plants both have heterozygous (YG) genotypes, there
+  will be 25% YY, 50% YG, and 25%
+  GG offspring on average.  These percentages are
+  determined based on the fact that each of the 4 offspring boxes in a Punnett square is 25%
+  (1 out of 4).  As to phenotypes, 75% will be Y and only 25% will be
+  G.  These
+  will be the odds every time a new offspring is conceived by parents with YG
+  genotypes.      An offspring's genotype is the result of the combination of genes in the sex
+  cells or gametes (sperm and ova) that came together in its conception. 
+  One sex cell came from each parent.  Sex cells normally only have one
+  copy of the gene for each trait (e.g., one copy of the Y or G form of the gene
+  in the example above).  Each of the two Punnett square boxes in which the
+  parent genes for a trait are placed (across the top or on the left side)
+  actually represents one of the two possible genotypes for a parent sex
+  cell.  Which of the two parental copies of a gene is inherited depends on
+  which sex cell is inherited--it is a matter of chance.  By placing each
+  of the two copies in its own box has the effect of giving it a 50% chance of
+  being inherited.  If you are
+  not yet clear about how to make a Punnett Square and interpret its result, take the time to try to figure it out before going on.   Are Punnett Squares Just Academic 
+	Games?  Why is it important for you to know
+  about Punnett squares?  The answer is that they can be used as predictive
+  tools when considering having children.  Let us assume, for instance, that
+  both you and your mate are carriers for a particularly
+  unpleasant genetically inherited disease such as cystic fibrosis   .   Of course, you are worried about whether your children will be healthy
+  and normal.   For this example, let us define "A" as being
+  the dominant normal allele and "a" as the recessive abnormal one that is responsible for cystic fibrosis.  As carriers, you and your
+  mate are both heterozygous (Aa).  This disease only
+  
+  afflicts those who are homozygous recessive (aa). 
+  The Punnett square below makes it clear that at each birth, there will be a 25% chance of
+  you having a normal homozygous (AA) child, a 50% chance of a healthy
+  heterozygous (Aa) carrier child like you and your mate, and a
+  25% chance of a homozygous recessive (aa) child who  probably 
+  will eventually die from this condition.              If both parents are carriers of the 
+				recessive allele for a disorder, all of their children will face
+				the following odds of inheriting it: 25% chance of having the recessive disorder 50% chance of being a healthy carrier 25% chance of being healthy and not have the recessive allele at all       If
+  a carrier (Aa) for such a
+  recessive disease mates with someone who has it (aa), the likelihood of their children also inheriting the condition is far greater
+  (as shown below).  On average, half of the children will be heterozygous (Aa) and, therefore, carriers.  The
+  remaining half will inherit 2 recessive alleles (aa) and develop the disease.              If one parent is a carrier and the 
+				other has a recessive disorder, their children will have the following odds of inheriting it: 50% chance of being a healthy carrier 50% chance having the recessive disorder       It is likely that every one of us is a carrier 
+for a large number of recessive alleles.   Some of these alleles can cause life-threatening defects if they are inherited from both 
+parents.  In addition to cystic fibrosis, albinism, and 
+beta-thalassemia are recessive disorders.  Some disorders are caused by dominant alleles for genes.  
+Inheriting just one copy of such a dominant allele will cause the disorder.  
+This is the case with Huntington disease, achondroplastic dwarfism, and 
+polydactyly.  People who are heterozygous (Aa) are not healthy carriers.  
+They have the disorder just like homozygous dominant (AA) individuals.              If only one parent has a single copy 
+				of a dominant allele for a dominant disorder, their children will have a 50% chance of inheriting the disorder and 50% chance of being
+				entirely normal.     Punnett squares are standard tools used by 
+	genetic counselors.  Theoretically,
+  the likelihood of inheriting many traits, including useful ones, can be predicted using
+  them.   It is also possible to construct squares for more than one trait
+  at a time.   However, some traits are not inherited with the
+  simple mathematical probability suggested here.  We will explore some of these
+  exceptions in the next section of the tutorial.           Previous
+      Topic     Return to Menu     Practice Quiz     Next
+      Topic          Copyright © 1997-2012 by Dennis
+  O'Neil.
+All rights reserved.  illustration credits                 Find a tutor  How it works  Prices   More   All subjects  All locations   Maths  Biology  Chemistry  Physics   A-level  GCSE  IB    Become a tutor      Menu  Log in  Sign up        Find a tutor  How it works  Prices   More   All subjects  All locations   Maths  Biology  Chemistry  Physics   A-level  GCSE  IB    Become a tutor  Log in            Answers            What is the probability of offspring (both male and female) being affected by haemophilia if both parents are unaffected?     139 views         Haemophilia is a sex-linked genetic recessive disease, meaning it is associated with a gene located on the X chromosome. As males have only one X chromosome, inheriting that chromosome will mean that they will be affected by the disease. Females however, have two X chromosomes and as haemophilia is a recessive disease, two defective X chromosomes would have to be inherited for a female to be affected. In this case, the father is unaffected, and as he has to pass on a healthy X chromosome to his daughters, the probability of female offspring being affected is 0, regardless of the genotype of the mother. Any male offspring will inherit a Y chromosome from their father and an X chromosome from their mother, but there is a possibility that the mother might be a carrier (if she has both a healthy and a defective X chromosome) even though she is unaffected. If the mother is a carrier (which we don’t know in this question), the probability of a son inheriting the defective X chromosome and being affected by haemophilia is 50%.         About the author   Ella B. is an online   tutor
+									
+									with MyTutor studying at       Book a free video chat How MyTutor Works       Articles from our blog  View blog        Related   answers  All answers     How do I analyse a sonnet? Answered by Isadora M.       What was the START agreement? Answered by Isadora M.       Why was Charles I unpopular? Answered by Isadora M.       differentiate the following equation: y = 2(x^3) - 6x Answered by Anna W.            Still stuck? Get one-to-one help from a personally interviewed subject specialist.  95% of our customers rate us   Browse tutors         We're here to help   +44 (0)203 773 6020  support@mytutor.co.uk  Contact us          Company Information   About us  Blog  Subject answers  Become a tutor  Schools  Staying safe online  FAQs  Using the Online Lesson Space  Testimonials & press  Sitemap     Popular Requests   GCSE  A-Level  IB  University admissions  Home education  Adult learning  Expat students  Revision help  Tutoring around the UK  University advice     Other subjects   Further maths  IT  Law  Latin  Sociology  Philosophy  Politics  Religious studies       © MyTutorWeb Ltd 2013-2018   Terms & Conditions | Privacy Policy | Developed with Mercury1      Payment Security    CLICK CEOP Internet Safety          We use cookies to improve your site experience. By continuing to use this website, we'll assume that you're OK with this.       mtw:mercury1:status:ok          PROBABILITIES OF GENETIC TRAITS   Introduction  Before we investigate the probabilities of genetic traits, let's look at probability
+in general. The probabilities involved in rolling a pair of dice will be used to
+begin the investigation. When we roll each die, it lands with one side up out of
+a possible six sides. So the probability for one die to land on any specific number
+is . To calculate
+the probability of both dice landing with a four showing, we multiply the two probabilities
+together. That is:  *  so the probability of rolling two fours is . The probability of rolling a four then a one is , but the probability
+of rolling a four then a one or two is .  The probability of rolling a four and a two is a little more complicated, because
+the four could be rolled on the first die with the two on the second die or visa-versa.
+To calculate the probability of a four and a two showing on the dice, we add the
+individual double events. That is:  * .  So the probability of rolling a four and a two is arrived at by calculating the
+probability of rolling a four then a two, and adding it to the probability of rolling
+a two then a four. Therefore the probability is .   Exercises Involving Dice  When two dice are thrown, find the probability of rolling:  1. two five's 2. a five then a two 3. a five and a two   4. no fours 5. all even number 6. an odd and an even   7. two sevens 8. two values each 9. two values with a  less than five sum of a) eleven  b) ten  When we flip two coins, they have the possibility of landing heads/heads, heads/tails,
+tails/heads, or tails/tails. Each of these is equally possible to happen, so each
+represents one-fourth of all the possible occurrences. These values are also the
+probabilities of the events occurring. The probability of flipping two coins landing:  heads/heads  ,
+tails/tails  ,
+and heads with tails in any order  .  The genetic probability of traits is similar to the probability of flipping a
+coin. In human genetics, the egg and sperm each supply the baby one of two pieces
+of genetic information per trait from its parents. These pieces of genetic information
+are called alleles. Alleles are either dominant or recessive. Dominant alleles are
+indicated by capital letters, whereas recessive allels are indicated by lower case
+letters. Let's look at the probability of a baby inheriting either ridges or no ridges
+on its fingernails. We'll use the letter "R" to represent the dominant
+allele, and "r" to represent the recessive allele. Suppose the genetic
+make-up of both parents is Rr. Each allele has an equal chance of being passed to
+the child, so the probability for , and the probability for (just as in flipping a coin). Now lets see how the probability
+of genetics works.     *Note: The sum of all the probabilities for allele combinations (as above) is
+one.   Checking for Understanding  Find a baby's probability of inheriting ridged fingernails if the genetic make-up
+of the parents is as follows:  1. father = Rr, and mother = rr  Solution: Since the mother does not have an "R" allele, the baby can't
+inherit "RR", so . The possible inheritance for the baby is "Rr" (mother's first
+r), "Rr" (mother's second r), "rr", and "rr" again.    2. father = RR, and mother = Rr      3. father = rr, and mother = RR     4. father = rr, and mother = Rr      Each allele of the mother and father has an equal chance of being passed down
+to the next generation. Because of this equal chance, there is another way to calculate
+genetic probability. We can look at the ratios for the allele combinations. Let's
+rework problem 4 above. We will indicate the two lower case "r" alleles
+of the father as .
+The genetic make-up of the parents is: father  , and mother  . The only possible genetic
+make-up for the offspring is . There are just as many "rr" combinations as there are "Rr"
+combinations. That means the probability of inheriting two recessive alleles is the
+same as the probability of inheriting one dominant and one recessive allele, therefore . Since the
+sum of these probabilities is one, we conclude that .   More About Probability of Genetics  When finding the probabilities involved for inheriting two (or more) genetic traits,
+we apply what we have learned so far. The steps for the calculations are:   * find all the possible genetic combinations.  * find the probabilities for each of the inherited traits.  * multiply the probabilities together.   For example, suppose the genetic make-up of the father is AaBb and the genetic
+make-up of the mother is AaBB.  Step 1) Find the possible "A trait" genetic combinations for the child. They are AA, Aa, aA, and aa .  Find the possible "B trait" genetic combinations for the child.  They are BB, BB, bB, and bB.  Step 2) Calculate the probabilities for the "A trait".  , and .  Calculate the probabilities for the "B trait".  , and .   Step 3) Calculate each of the double allele probabilities :    *Note: if there where three traits, we would multiply three probabilities together,
+etc.  For the offspring to inherit the dominant trait, it has to receive only one dominant
+allele from one parent. With this information, let's find the probability that the
+child will inherit both the dominant "A trait" and the dominant "B
+trait".  .   Genetics Probability Exercises  Given the genetic make-up of the parents, determine the indicated probabilities.   1. If the make-up of the father = EeGg, and the mother = EEGg, then find the probability
+that the child will be:  a. EEGg b. EEgg c. Eegg   d. EeGG e. EeGg f. EEGG   2. If the make-up of the father = Ttqq, and the mother = TtQQ, then find the probability
+that the child will be:  a. TtQq b. Ttqq c. ttQq   d. TTQq e. have the f. have both dominant Q-trait dominant traits   3. If the make-up of the father = RrHh, and the mother = RrHh, then find the probability
+that the child will be:  a. RRHH b. RRHh c. Rrhh   d. RrHH e. RrHh f. RRhh   g. rrHH h. rrHh i. rrhh   j. have the dominant k. have both traits  R-trait dominant  4. If the make-up of the father = Ddtt, and the mother = DdTt, then find the probability
+that the child will be:  a. the same as the father b. the same as the mother c. DDtt  d. all dominant traits e. dominant T-trait and f. all traits  recessive d-trait recessive   5. If the make-up of the father = AaBb, and the mother = AaBb, then find the probability
+that the child will have:  a. all recessive alleles b. all recessive traits c. AaBb   d. all dominant alleles e. all dominant traits f. Aabb   g. dominant A-trait h. recessive a-trait i. aaBb   j. dominant A-trait & k. recessive a-trait &  recessive b-trait dominant B-trait   6. If the make-up of the father = EeFfGg, and the mother = eeFFGg, then find the
+probability that the child will be:  a. EEFFGG b. eeffgg c. EeFfGg   d. only the E-trait e. only the e-trait f. all 3 traits  is dominant is recessive recessive   g. 3 dominant traits h. 3 recessive traits i. 2 recessive  traits     Calculating probability and risks in pedigree analysis: Elementary principles    The pedigree
+            shows the occurrence of an autosomal
+              recessive trait, where the black squares have genotype aa .  We wish to
+            calculate the
+            probability that IV-1 (shown
+            as ? ) will be
+            either affected ( aa ),
+            or a carrier heterozygote ( Aa ).  (1) For IV-1 to be an affected recessive
+              homozygote ,
+            s/he
+            must inherit an a allele
+            from the father and  the
+            mother.  Given that II-1 must be aa , both
+            great-grandparents ( I-1 and I-2 ) must be Aa . II-2 shows the dominant
+            phenotype,
+            and therefore has at least one A allele: the probability that the other is a is 1/2 . II-3 is from outside
+            the
+            affected pedigree and can be assumed to be AA .  Like his
+            father, III-1 shows
+            the dominant phenotype,
+            and therefore has at least one A .
+            Then,
+            the probability that III-1 is Aa is the
+            probability that II-2 is heterozygous  and  passed
+            the a allele to III-1 : (1/2) x (1/2) =
+            1/4. The
+            same reasoning leads to the conclusion that III-2 is heterozygous
+            with a
+            probability of 1/4. Thus, for IV-1 to be aa , both
+            parents must be Aa ,  and  they
+            must both pass the a allele to their offspring: 1/4 x
+            1/4 x 1/4 = 1/64   (2) Alternatively, for IV-1 to be a heterozygous , carrier,
+            either s/he
+            most inherit an a allele from the father, or from the mother. The chance of
+            either parent
+            being a heterozygote is 1/4, as calculated above. Then, the
+            probability
+            that both parents are heterozygotes, and the probability
+            that two
+            heterozygotes will have a heterozygous child, is 1/4 x 1/4 x
+            1/2 = 1/32.   (3) Finally, the probability that IV-1 is a dominant homozygote is 1
+            - 1/64 - 1/32 = (64 - 1 - 2)/64 = 61/64. This can also
+            be calculated
+            more tediously by summing the alternative probabilities at
+            each of the
+            steps above.     The
+calculations
+            in this example involved a distinction between a priori  and a
+              posteriori probability, which are often presented incorrectly in
+            elementary genetics
+            textbooks . To take
+            a simple
+            case: the a priori probability of getting heads on a single toss of a penny is
+            1/2, since
+            there are two equal possibilities, H or T . Then, given
+            two pennies
+            tossed at random, HH , HT , TH ,
+            and TT are all equally
+            likely. The a prior i
+            probability of getting at least one head is 3/4 . The a priori probability that any
+            combination with at least one head will have two tails ( HT or TH vs HH )
+            is 2/3 .  However, consider an experiment in which
+            I have
+            tossed two pennies. I show you that one is H , and ask, What is the probability that
+              the other is
+              also H ? The a posteriori probability is 1/2 : given the knowledge that one coin is H ,
+            the
+            other is H or T with
+            equal probability. In anticipation of the experiment, the a
+              priori probability of HT given H- is
+            2/3 . In analyzing the
+            results of any particular experiment, the added information changes
+            probabilities a
+              posteriori .  In the above example, we know that I-1 and I-2 are heterozygotes
+            and II-2 shows the
+            dominant phenotype. We therefore know a posteriori that he
+            has inherited a dominant alleles from one parent, and the
+            probability that he will inherit a recessive alleles from
+            the other parent and be heterozygous is 1/2. It is incorrect to reason
+            that, since
+            2/3 of all unaffected children (that is, all non- aa ) are heterozygotes a priori ,
+            his individual risk is also 2/3. Stated another way, by
+            knowing the nature of one
+            allele, we have lost one statistical degree
+              of
+              freedom .  [In the simplest case: the probability
+            that the next child of I-1 and I-2 will be a
+            boy is a priori 1/2: once the child is born, the
+            probability a posterior is either 0 or 1].    Two further extensions
+            of this idea. For this
+            scenario, assume that a genetic test is available to
+            distinguish AA from Aa , but II-5 is deceased and III-2 will not take the
+            test.  (4) Suppose III-2 has a
+            heterozygous sibling. How does this change the calculation IV-I 's risk? This would
+            mean that II-5  must be a heterozygote
+            with a
+            probability of 1, not 1/2 as before. Then, the probability
+            that III-2 is a
+            heterozygote is 1/2, the
+            probability that the father ( III-1 )
+            is
+            a heterozygote remains 1/4, and the probability that IV-1 is aa is 1/2 x 1/4 x 1/4 = 1/16 .  (5) Suppose III-2 has one or
+            more siblings who test as unaffected homozygotes ( AA ). How does this
+            change the
+            calculation of IV-1 's
+            risk?
+            Note that, whereas the birth of a heterozygous sibling
+            proves that the
+            mother ( II-5 ) is a
+            heterozygote, the birth of unaffected homozygous offspring
+            cannot prove that
+            she is a homozygote.
+            However, multiple births of unaffected siblings do decrease the probability that she
+            is a heterozygote, as follows. The probability that a
+            heterozygote will not pass the a allele to an offspring
+            is 1/2.
+            Then, the probability that she will not pass it to either of two offspring is
+            (1/2)(1/2) = 0.5 2 = 1/4. The probability that
+            she will pass it to none of three offspring is 0.5 3 = 1/8, to none of four is 1/16, and so on. Less than 0.1% of
+            all families with ten children would have known with an a alleles, if II-5 were a heterozygote . In other
+            words, this is strong a
+              posteriori evidence that II-5  is a homozygote ,
+            which if true means
+            that IV-1 cannot be affected. Of
+            course, the
+            birth of an eleventh child who is Aa immediately proves that II-5 is heterozygous, and returns IV-1 's
+            risk
+            calculation to 1/16, as in (4) above..       All figure & text
+          material
+          ©2014 by Steven M. Carr   7.1;  Some means and variances of counts For pea-plants, the alleles at a single genetic locus determine the 
+flower color.  We will label the alleles R and r, and suppose that 
+plants with two R alleles (genotype RR) have red flowers, those with 
+two r alleles (genotype rr) have white flowers, and those with one of 
+each (genotype Rr) have pink flowers.  In this case, if two 
+pink-flowered pea plants are mated ("crossed" is a better word than
+"mated" for plants), 
+the offspring plants are 
+independent of each other, and each has red flowers with probability 
+1/4, pink flowers with probability 1/2, and white flowers with 
+probability 1/4.   If a plant with pink flowers is crossed with a 
+plant with white flowers, again the flower color types of the offspring 
+are independent of each other, and in this case each offspring plant 
+has pink flowers with probability 1/2, and white flowers with 
+probability 1/2. Another trait of pea plants which Mendel considered is whether the 
+seeds are wrinkled or round. Again, this is determined by the alleles a
+plant has at just one genetic locus.  In this case, the allele for wrinkled 
+seeds (W) is dominant to the allele for round seeds (w).  This means 
+that plants with both genotypes WW and Ww have wrinkled seeds, and 
+only those with genotype ww have round seeds.  If two plants of 
+genotype Ww are crossed, the probability an offspring has wrinkled 
+seeds is 3/4, and the probability it has round seeds is 1/4.  Again, 
+the characteristics of different offspring are independent of each other. NOW YOU CAN DO QUESTIONS 1,2,3 in the next section Now let's assume what is probably not true -- that is the the genetic 
+locus determining flower color is on the same pair of chromosomes as 
+the one determining seed shape, and in fact fairly close. First, we are first going to cross a plant from a variety which has, for 
+generations, had red flowers and wrinkled seeds.  We know it has 
+genotype RR for flower color, and can be pretty certain it has 
+genotype WW for seed shape. (Let's assume that.)  We are going to 
+cross it with a plant with white flowers and round seeds  (genotype 
+ww,rr).  The offspring plant must have genotype  Rr for flower color
+(pink flowers) and Ww for seed shape (wrinkled).  In fact we know 
+more:  we know the R and W came from one parent, so are on the same 
+chromosome, and also the r and w on the other chromosome, from the 
+other parent.  We write this RW/rw. Now we cross this plant to another plant with white flowers and round 
+seeds, genotype rw/rw.   This other plant will always hand on rw to its
+offspring, so we don't have to bother about that.
+Our RW/rw plant can pass on any of the four combinations RW, Rw, rW, 
+rw.  If there is no recombination between the two loci, it will hand 
+on RW or rw, each with equal probability.  If the is recombination, it will 
+hand on Rw or rW, each with equal probability.  Let's suppose the 
+recombination probability between these two loci is 0.2.  Then the 
+offspring of our cross are independent of each other, and the 
+probabilities of their types are as follows: Pink flowers,   wrinkled seeds:  probability (1/2)(1-0.2) = 0.4
+Pink flowers,   round seeds:     probability (1/2)(0.2)   = 0.1
+White flowers,  wrinkled seeds:  probability (1/2)(0.2)   = 0.1
+White flowers,  round seeds:     probability (1/2)(1-0.2) = 0.4 NOW YOU CAN DO THE REST OF THE QUESTIONS in the next section.      Skip navigation       Sign in Search         Loading...            Close           Yeah, keep it  Undo  Close       This video is unavailable.         Watch Queue Queue Watch Queue Queue   Remove all Disconnect         The next video is starting stop    Loading...          Watch Queue  Queue  __count__/__total__                       Ditch the ads.       Loading...      Want music and videos with zero ads? Get YouTube Red.         Working...            Not now  Try it free                                                     Find out why Close       How to calculate a genotype with a Rule of Probability                 Nikolay's Genetics Lessons              Loading...        Unsubscribe from Nikolay's Genetics Lessons?    Cancel  Unsubscribe           Working...            Subscribe Subscribed Unsubscribe 6.9K             Loading...          Loading...              Working...                Add to   Want to watch this again later?  Sign in to add this video to a playlist.  Sign in    Share   More      Report    Need to report the video?  Sign in to report inappropriate content.  Sign in       Transcript      Statistics     Add translations   24,523 views         94   Like this video?  Sign in to make your opinion count.  Sign in     95    18   Don't like this video?  Sign in to make your opinion count.  Sign in     19            Loading...            Loading...      Transcript      The interactive transcript could not be loaded.         Loading...         Loading...       Rating is available when the video has been rented.     This feature is not available right now. Please try again later.      Published on Dec 6, 2013 The laws of probability govern Mendelian inheritance Mendel's laws of segregation and independent assortment reflect the same laws of probability that apply to tossing coins or rolling dice. The probability scale ranges from 0 (an event with no chance of occurring) to 1 (an event that is certain to occur). The probability of tossing heads with a normal coin is 1/2. The probability of rolling a 3 with a six-sided die is 1/6, and the probability of rolling any other number is 1 ? 1/6 = 5/6. When tossing a coin, the outcome of one toss has no impact on the outcome of the next toss. Each toss is an independent event, just like the distribution of alleles into gametes. Like a coin toss, each ovum from a heterozygous parent has a 1/2 chance of carrying the dominant allele and a 1/2 chance of carrying the recessive allele. The same odds apply to the sperm. We can use the multiplication rule to determine the chance that two or more independent events will occur together in some specific combination. Compute the probability of each independent event. Multiply the individual probabilities to obtain the overall probability of these events occurring together. The probability that two coins tossed at the same time will land heads up is 1/2 × 1/2 = 1/4. Similarly, the probability that a heterozygous pea plant (Pp) will self-fertilize to produce a white-flowered offspring (pp) is the chance that a sperm with a white allele will fertilize an ovum with a white allele. This probability is 1/2 × 1/2 = 1/4. The rule of multiplication also applies to dihybrid crosses. For a heterozygous parent (YyRr) the probability of producing a YR gamete is 1/2 × 1/2 = 1/4. We can use this to predict the probability of a particular F2 genotype without constructing a 16-part Punnett square. The probability that an F2 plant from heterozygous parents will have a YYRR genotype is 1/16 (1/4 chance for a YR ovum and 1/4 chance for a YR sperm). The rule of addition also applies to genetic problems. Under the rule of addition, the probability of an event that can occur two or more different ways is the sum of the separate probabilities of those ways. For example, there are two ways that F1 gametes can combine to form a heterozygote. The dominant allele could come from the sperm and the recessive from the ovum (probability = 1/4). Or the dominant allele could come from the ovum and the recessive from the sperm (probability = 1/4). The probability of obtaining a heterozygote is 1/4 + 1/4 = 1/2. We can combine the rules of multiplication and addition to solve complex problems in Mendelian genetics. Let's determine the probability of an offspring having two recessive phenotypes for at least two of three traits resulting from a trihybrid cross between pea plants that are PpYyRr and Ppyyrr. There are five possible genotypes that fulfill this condition: ppyyRr, ppYyrr, Ppyyrr, PPyyrr, and ppyyrr. We can use the rule of multiplication to calculate the probability for each of these genotypes and then use the rule of addition to pool the probabilities for fulfilling the condition of at least two recessive traits. The probability of producing a ppyyRr offspring: The probability of producing pp = 1/2 × 1/2 = 1/4. The probability of producing yy = 1/2 × 1 = 1/2. The probability of producing Rr = 1/2 × 1 = 1/2. Therefore, the probability of all three being present (ppyyRr) in one offspring is 1/4 × 1/2 × 1/2 = 1/16. For ppYyrr: 1/4 × 1/2 × 1/2 = 1/16. For Ppyyrr: 1/2 × 1/2 × 1/2 = 1/8 or 2/16. For PPyyrr: 1/4 × 1/2 × 1/2 = 1/16. For ppyyrr: 1/4 × 1/2 × 1/2 = 1/16. Therefore, the chance that a given offspring will have at least two recessive traits is 1/16 + 2/16 + 1/16 + 1/16 = 6/16. Mendel discovered the particulate behavior of genes: a review. While we cannot predict with certainty the genotype or phenotype of any particular seed from the F2 generation of a dihybrid cross, we can predict the probability that it will have a specific genotype or phenotype. Mendel's experiments succeeded because he counted so many offspring, was able to discern the statistical nature of inheritance, and had a keen sense of the rules of chance. Mendel's laws of independent assortment and segregation explain heritable variation in terms of alternative forms of genes that are passed along according to simple rules of probability. These laws apply not just to garden peas, but to all diploid organisms that reproduce by sexual reproduction. Mendel's studies of pea inheritance endure not only in genetics, but as a case study of the power of scientific reasoning using the hypothetico-deductive approach.     Category   Education     License   Standard YouTube License       Show more  Show less       Loading...             Advertisement          Autoplay    When autoplay is enabled, a suggested video will automatically play next.       Up next       Probability in Genetics: Multiplication and Addition Rules  - Duration: 10:36.  Bozeman Science  283,660 views     10:36               Probabilities in Genetics  - Duration: 16:57.  ProfAmann  19,961 views     16:57      Genetics: Product Rule  - Duration: 5:10.  Christian D  3,121 views     5:10      How to solve genetics probability problems  - Duration: 16:58.  Shomu's Biology  61,988 views     16:58      A Beginner's Guide to Punnett Squares  - Duration: 12:15.  Bozeman Science  977,560 views     12:15      Genetics and the rule of probability (how to calculate progeny genetype)  - Duration: 9:59.  Nikolay's Genetics Lessons  11,831 views     9:59      Law of probability and genetics  - Duration: 6:08.  Nikolay's Genetics Lessons  174 views     6:08      Predicting the Genotypes and the Phenotypes of Offspring using the Punnett Square  - Duration: 7:42.  Ilonggo Siyentipiko  56,394 views     7:42      That's How You Can Confuse Your Math Teacher  - Duration: 9:13.  BRIGHT SIDE  1,647,652 views     9:13      How to solve problems and find genotype/phenotype as result of the cross?  - Duration: 9:47.  Nikolay's Genetics Lessons  28,366 views     9:47      Genetics. What is the probability have at least 2 boys out of 4 children?  - Duration: 16:29.  Nikolay's Genetics Lessons  4,989 views     16:29      Rules of Probability for Mendelian Inheritance  - Duration: 14:33.  Nikolay's Genetics Lessons  1,134 views     14:33      How to find a phenotypic ratio of dihybrid cross  - Duration: 7:05.  Nikolay's Genetics Lessons  32,503 views     7:05      "Only 1 In 1000 Can Solve" The Viral 1 + 4 = 5 Puzzle. The Correct Answer Explained  - Duration: 6:01.  MindYourDecisions  6,387,182 views     6:01      How Mendel's pea plants helped us understand genetics - Hortensia Jiménez Díaz  - Duration: 3:07.  TED-Ed  1,204,413 views     3:07      Genotypic Ratios and Phenotypic Ratios for Punnett Squares  - Duration: 7:21.  Lara McDonald  56,763 views     7:21      Trihybrid and probability.  - Duration: 8:41.  Brian Christopher  36,188 views     8:41      How to solve pedigree probability problems  - Duration: 13:40.  Nikolay's Genetics Lessons  43,249 views     13:40      Genetics and law of probability  - Duration: 5:00.  Nikolay's Genetics Lessons  2,335 views     5:00      Learn Biology: How to Draw a Punnett Square  - Duration: 4:21.  mahalodotcom  878,441 views     4:21     Loading more suggestions...   Show more                Language: English     Location: United States     Restricted Mode: Off    History  Help     Loading...       Loading...       Loading...     About  Press  Copyright  Creators  Advertise  Developers  +YouTube   Terms  Privacy  Policy & Safety  Send feedback   Test new features              Loading...               Working...             Sign in to add this to Watch Later    Add to      Loading playlists...                Skip navigation       Sign in Search         Loading...            Close           Yeah, keep it  Undo  Close       This video is unavailable.         Watch Queue Queue Watch Queue Queue   Remove all Disconnect         The next video is starting stop    Loading...          Watch Queue  Queue  __count__/__total__                       Ditch the ads.       Loading...      Want music and videos with zero ads? Get YouTube Red.         Working...            Not now  Try it free                                                     Find out why Close       How to calculate a genotype with a Rule of Probability                 Nikolay's Genetics Lessons              Loading...        Unsubscribe from Nikolay's Genetics Lessons?    Cancel  Unsubscribe           Working...            Subscribe Subscribed Unsubscribe 6.9K             Loading...          Loading...              Working...                Add to   Want to watch this again later?  Sign in to add this video to a playlist.  Sign in    Share   More      Report    Need to report the video?  Sign in to report inappropriate content.  Sign in       Transcript      Statistics     Add translations   24,523 views         94   Like this video?  Sign in to make your opinion count.  Sign in     95    18   Don't like this video?  Sign in to make your opinion count.  Sign in     19            Loading...            Loading...      Transcript      The interactive transcript could not be loaded.         Loading...         Loading...       Rating is available when the video has been rented.     This feature is not available right now. Please try again later.      Published on Dec 6, 2013 The laws of probability govern Mendelian inheritance Mendel's laws of segregation and independent assortment reflect the same laws of probability that apply to tossing coins or rolling dice. The probability scale ranges from 0 (an event with no chance of occurring) to 1 (an event that is certain to occur). The probability of tossing heads with a normal coin is 1/2. The probability of rolling a 3 with a six-sided die is 1/6, and the probability of rolling any other number is 1 ? 1/6 = 5/6. When tossing a coin, the outcome of one toss has no impact on the outcome of the next toss. Each toss is an independent event, just like the distribution of alleles into gametes. Like a coin toss, each ovum from a heterozygous parent has a 1/2 chance of carrying the dominant allele and a 1/2 chance of carrying the recessive allele. The same odds apply to the sperm. We can use the multiplication rule to determine the chance that two or more independent events will occur together in some specific combination. Compute the probability of each independent event. Multiply the individual probabilities to obtain the overall probability of these events occurring together. The probability that two coins tossed at the same time will land heads up is 1/2 × 1/2 = 1/4. Similarly, the probability that a heterozygous pea plant (Pp) will self-fertilize to produce a white-flowered offspring (pp) is the chance that a sperm with a white allele will fertilize an ovum with a white allele. This probability is 1/2 × 1/2 = 1/4. The rule of multiplication also applies to dihybrid crosses. For a heterozygous parent (YyRr) the probability of producing a YR gamete is 1/2 × 1/2 = 1/4. We can use this to predict the probability of a particular F2 genotype without constructing a 16-part Punnett square. The probability that an F2 plant from heterozygous parents will have a YYRR genotype is 1/16 (1/4 chance for a YR ovum and 1/4 chance for a YR sperm). The rule of addition also applies to genetic problems. Under the rule of addition, the probability of an event that can occur two or more different ways is the sum of the separate probabilities of those ways. For example, there are two ways that F1 gametes can combine to form a heterozygote. The dominant allele could come from the sperm and the recessive from the ovum (probability = 1/4). Or the dominant allele could come from the ovum and the recessive from the sperm (probability = 1/4). The probability of obtaining a heterozygote is 1/4 + 1/4 = 1/2. We can combine the rules of multiplication and addition to solve complex problems in Mendelian genetics. Let's determine the probability of an offspring having two recessive phenotypes for at least two of three traits resulting from a trihybrid cross between pea plants that are PpYyRr and Ppyyrr. There are five possible genotypes that fulfill this condition: ppyyRr, ppYyrr, Ppyyrr, PPyyrr, and ppyyrr. We can use the rule of multiplication to calculate the probability for each of these genotypes and then use the rule of addition to pool the probabilities for fulfilling the condition of at least two recessive traits. The probability of producing a ppyyRr offspring: The probability of producing pp = 1/2 × 1/2 = 1/4. The probability of producing yy = 1/2 × 1 = 1/2. The probability of producing Rr = 1/2 × 1 = 1/2. Therefore, the probability of all three being present (ppyyRr) in one offspring is 1/4 × 1/2 × 1/2 = 1/16. For ppYyrr: 1/4 × 1/2 × 1/2 = 1/16. For Ppyyrr: 1/2 × 1/2 × 1/2 = 1/8 or 2/16. For PPyyrr: 1/4 × 1/2 × 1/2 = 1/16. For ppyyrr: 1/4 × 1/2 × 1/2 = 1/16. Therefore, the chance that a given offspring will have at least two recessive traits is 1/16 + 2/16 + 1/16 + 1/16 = 6/16. Mendel discovered the particulate behavior of genes: a review. While we cannot predict with certainty the genotype or phenotype of any particular seed from the F2 generation of a dihybrid cross, we can predict the probability that it will have a specific genotype or phenotype. Mendel's experiments succeeded because he counted so many offspring, was able to discern the statistical nature of inheritance, and had a keen sense of the rules of chance. Mendel's laws of independent assortment and segregation explain heritable variation in terms of alternative forms of genes that are passed along according to simple rules of probability. These laws apply not just to garden peas, but to all diploid organisms that reproduce by sexual reproduction. Mendel's studies of pea inheritance endure not only in genetics, but as a case study of the power of scientific reasoning using the hypothetico-deductive approach.     Category   Education     License   Standard YouTube License       Show more  Show less       Loading...             Advertisement          Autoplay    When autoplay is enabled, a suggested video will automatically play next.       Up next       Probability in Genetics: Multiplication and Addition Rules  - Duration: 10:36.  Bozeman Science  283,660 views     10:36               Probabilities in Genetics  - Duration: 16:57.  ProfAmann  19,961 views     16:57      Genetics: Product Rule  - Duration: 5:10.  Christian D  3,121 views     5:10      How to solve genetics probability problems  - Duration: 16:58.  Shomu's Biology  61,988 views     16:58      A Beginner's Guide to Punnett Squares  - Duration: 12:15.  Bozeman Science  977,560 views     12:15      Genetics and the rule of probability (how to calculate progeny genetype)  - Duration: 9:59.  Nikolay's Genetics Lessons  11,831 views     9:59      Predicting the Genotypes and the Phenotypes of Offspring using the Punnett Square  - Duration: 7:42.  Ilonggo Siyentipiko  56,394 views     7:42      Law of probability and genetics  - Duration: 6:08.  Nikolay's Genetics Lessons  174 views     6:08      That's How You Can Confuse Your Math Teacher  - Duration: 9:13.  BRIGHT SIDE  1,647,652 views     9:13      How to solve Probability Problems in Genetics  - Duration: 11:05.  Nikolay's Genetics Lessons  460 views     11:05      Learn Biology: How to Draw a Punnett Square  - Duration: 4:21.  mahalodotcom  878,441 views     4:21      How Mendel's pea plants helped us understand genetics - Hortensia Jiménez Díaz  - Duration: 3:07.  TED-Ed  1,204,413 views     3:07      Genetics. What is the probability have at least 2 boys out of 4 children?  - Duration: 16:29.  Nikolay's Genetics Lessons  4,989 views     16:29      Genotypic Ratios and Phenotypic Ratios for Punnett Squares  - Duration: 7:21.  Lara McDonald  56,763 views     7:21      How to solve problems and find genotype/phenotype as result of the cross?  - Duration: 9:47.  Nikolay's Genetics Lessons  28,366 views     9:47      Genetics: not a problem. Product and sum rule.  - Duration: 9:37.  Cheryl Van Buskirk  16,884 views     9:37      "Only 1 In 1000 Can Solve" The Viral 1 + 4 = 5 Puzzle. The Correct Answer Explained  - Duration: 6:01.  MindYourDecisions  6,387,182 views     6:01      Trihybrid and probability.  - Duration: 8:41.  Brian Christopher  36,188 views     8:41      How to find a phenotypic ratio of dihybrid cross  - Duration: 7:05.  Nikolay's Genetics Lessons  32,503 views     7:05      Mechanisms of DNA Damage and Repair  - Duration: 11:30.  Professor Dave Explains  54,923 views     11:30     Loading more suggestions...   Show more                Language: English     Location: United States     Restricted Mode: Off    History  Help     Loading...       Loading...       Loading...     About  Press  Copyright  Creators  Advertise  Developers  +YouTube   Terms  Privacy  Policy & Safety  Send feedback   Test new features              Loading...               Working...             Sign in to add this to Watch Later    Add to      Loading playlists...                                                                   Donate Home Pigeon Breeding: Genetics At Work Independent Assortment & Probability Independent Assortment & Probability The pigeon parents on the right can produce offspring with 16 possible combinations of sex chromosomes and crest alleles . The probability of an offspring being a non-crested male is 4/16, which can be simplified to 1/4 or 25%. How did we come up with these numbers? The calculations are actually very simple, as long as you understand a little about independent assortment and probability.  Inheritance of Sex Chromosomes   The idea behind independent assortment is that genes are inherited independently of one another. In other words, the genetic factors that control crest and sex are physically separate. Because the genetic factors are physically separate, they segregate independently during gamete (egg and sperm) formation. Let’s walk through this process, first with sex. Each pigeon parent has two sex chromosomes. During gamete formation, each egg or sperm gets just one sex chromosome. So when a male bird (with two Z chromosomes) makes sperm, some sperm get one of the Z chromosomes and some get the other. And when a female bird (with one Z and one W chromosome) makes eggs, some get Z and others get W. The Punnett square shows what happens when these gametes get together to make offspring. As you can see, there are 4 possible combinations—2 male and 2 female. Inheritance of Crest The same principle applies to the inheritance of crest . Each pigeon parent has two copies, or alleles, of the crest gene. The two copies can be the same, or they can be different. Each gamete gets just one crest allele. Half of the gametes will get one of the parent’s alleles, and the other half will get the other allele. The Punnett square shows the possible crest allele combinations in the offspring. There are 4 possible combinations in all. 2 of the possible combinations make crested offspring, and the other 2 make non-crested offspring.  In the squares, the allele combination (e.g., ‘crest’ and ‘no crest,’ shown with icons) is the genotype, and the physical appearance (e.g. non-crested) is the phenotype.  Independent Inheritance of Sex & Crest   Now let’s apply the rules of independent assortment and look at the inheritance of sex and crest together. During gamete formation, each egg or sperm gets one sex chromosome and one crest allele. Remember, the genetic factors that control sex and crest are physically separate from one another, so they segregate independently during gamete formation. That means each parent can make gametes with 4 possible sex chromosome / crest allele combinations. The Punnett square shows what happens when these gametes get together to make offspring. As you can see, there are 16 possible combinations. However, many of these combinations are identical at the genotype and phenotype level. For example, as was mentioned at the top of the page, 4 of the 16 are crested males. Punnett squares are useful for showing where the alleles came from to make the possible allele combinations. But with crosses that involve increasing numbers of genes, they become awkward and not very useful. Imagine plotting a Punnett square of a cross involving sex, crest, and pattern. Each parent would have 8 possible gametes, and there would be 64 possible offspring! There is an easier way to calculate the numbers.  In female birds (and male mammals), sex-linked genes (like color ) do not segregate independently. Genetically linked genes also do not segregate independently. This is true in both males and females. Calculating Probability Using Fractions  Using multiplication, we can calculate (1) the number of possible allele combinations for a given cross, and (2) the probability of an offspring having a particular allele combination. 1. First, we’ll apply math to the sex chromosome example. Here’s the math for calculating the number of possible combinations:  The father can make sperm with 2 possible sex chromosomes: Z or the other Z.  The mother can make eggs with 2 possible sex chromosomes: Z or W.  Multiplying these numbers together gives us 4 possible offspring.  2. Here’s how to calculate the probability of the parents making a female offspring:  In the father, 2 of the 2 possible sex chromosomes (Z or Z) will contribute to making a female offspring.  In the mother, 1 of the 2 possible sex chromosomes (just W) will contribute to making a female offspring.  Notice that the denominator also tells you the number of possible combinations. To see where these numbers came from and to check the calculation, you can look back at the first Punnet square near the top of the page. 3. We can also add crest to our calculations. We’ll jump straight to the probability calculation, since we know that will also tell us the number of possible combinations. a. To make a non-crested male, the father must contribute a Z chromosome and a ‘crest’ allele. 2 out of the 2 possible sex chromosomes will give us what we need. And 2 out of the 2 possible crest alleles will give us the desired offspring. Multiplying those numbers, we get 4 out of 4. Out of the 4 possible allele combinations in the sperm (denominator), 4 will be Z + ‘crest’ (numerator). b. The mother must contribute a Z chromosome and a ‘no crest’ allele. Just 1 out of the 2 possible sex chromosomes will give us what we need. Likewise, just 1 out of the 2 possible crest alleles will give us the desired offspring. Multiplying those numbers, we get 1 out of 4. Out of the 4 possible allele combinations in the egg, 1 will be Z + ‘no crest.’ c. To get our final number, we multiple the gamete fractions together. Out of 16 possible allele combinations in the offspring, 4 will be non-crested males (ZZ and ‘crest’ ‘no crest’). Our Punnett square above gave us the same values. Calculate these values for more-complex problems is simply a matter of adding another fraction to the multiplication problem.  Visit Teach.Genetics Cite this page Feedback Disclaimer Permissions Policy Privacy Policy Copyright © University of Utah Genetic Science Learning Center APA format: Genetic Science Learning Center. (2014, December 2) Independent Assortment & Probability.
+Retrieved April 05, 2018, from http://learn.genetics.utah.edu/content/pigeons/probability/ CSE format: Independent Assortment & Probability [Internet]. Salt Lake City (UT): Genetic Science Learning Center; 2014
+[cited 2018 Apr 5] Available from http://learn.genetics.utah.edu/content/pigeons/probability/ Chicago format: Genetic Science Learning Center. "Independent Assortment & Probability." Learn.Genetics.
+December 2, 2014. Accessed April 5, 2018. http://learn.genetics.utah.edu/content/pigeons/probability/.        Probability - is the chance or possibility that a specific event         will occur.  For example, if you flip a coin, it will come up either heads or tails.         What are the chances that it will come up heads? Well, since there are         2 sides to a coin (heads and tails), there is one chance out of two that         the coin will come up heads. We can state this probability as a fraction         (1/2) or as a percent (50%) or even as a ratio (50:50).  Activity: Try this yourself. Flip a coin 10 times, keeping track of how many         heads and tails you get. Make sure they add up to 10. How close did you         get to a 50% chance of heads (5/10) and a 50% chance of tails (5/10)?         Now try it again with 50 tosses of the coin. Keep track again of the number         of heads and tails. Are you closer to a 50:50 ratio of heads:tails? Try         it one more time with 100 tosses. How does your ratio look now? With a larger sample size, we get closer to the most accurate probability.         Each individual toss is a separate entity and is not influenced by any         earlier tosses. Another example - What are the chances that a baby will be born a male?         Since there are 2 sexes (male and female), there is a one chance out of         two that the child will be a male. What are the chances that a baby will         be born a female? Does this sound anything like the coin toss? Each baby has a 50:50 chance         of being either a male or a female. It doesn't matter how many other brothers         or sisters are already in the family. Each baby is a separate entity and         its sex is not influenced by the sexes of earlier children. You can try         this either by tossing a coin with the head side representing a girl and         the tail side representing a boy. Another way to predict is to do a Punnett square showing a cross between         a male (XY) and a female (XX). What are your results? Does the Punnett         square show that in a family of 4 children, 2 will be male and 2 will         be female? Or is it showing that each child has a 50:50 chance of being         male or female?  Think about it! If a family already has         5 girls, what are the chances that the next baby will be a boy? We use probabilities to predict possible results of genetic crosses.         Punnett squares are an easy way to determine the probabilities of certain         types of offspring occurring from a specific cross. The genotypes and phenotypes of parents or offspring may also be written         as like other probabilities as: fractions, decimals, or ratios.                Print this page in Adobe Acrobat Format   Visit the Utah   State 7th Grade Integrated Science Core Curriculum Page .  Updated June   14, 2000 by: Glen   Westbroek   Science Home Page | Curriculum Home Page | Core   Home Page | USOE Home Page    Copyright © by the Utah   State Office of Education.             9-14-05    PROBABILITY/STATISTICS IN INHERITANCE      We know that when two people who are both 
+  heterozygous for a simple Mendelian autosomal gene alpha have a child, the probability 
+  that the child will show the dominant phenotype is 3/4. Let's ask
+  a somewhat more complex question. If this couple has a total of four children, 
+  what is the probability that 3 of the 4 will show the dominant phenotype? To 
+  answer this, we will first derive the appropriate formula and then use it to 
+  calculate the numerical answer. The same formula allows us to understand the 
+  expected statistical distribution of the various possible phenotype patterns 
+  in four-child ( or any other size) families in a large population.    1. Review: How can some simple overall probabilities be calculated 
+  by combining the multiplication and addition "rules" we covered earlier?  Let's start with a very simple case: asking about gender probabilities in families 
+  of three children.  What is the probability that all three children in a family will be the same 
+  gender? P(all female)= 1/2 x 1/2 x 1/2 = 1/8 P(all male ) = 1/2 x 1/2 x 1/2 = 1/8 P(all one gender) = P(all female) + P(all male) = 1/8 + 1/8 = 1/4  What is the probability that a three-child family is two girls and one boy? Each possible birth order has P=1/8. That is, P(G,G,B)=P(G,B,G)=P(B,G,G)=1/8. So, P(2G,1B)= 3/8 and P(1G,2B)= 3/8.  This allows us to write the overall gender probability distribution for families 
+  of three children as follows: 1/8 will be three girls 3/8 will be two girls and one boy 3/8 will be one girl and two boys 1/8 will be three boys Adding it all up, we have 1/8 + 3/8 + 3/8 + 1/8 = 1 (100%)     2. How can we understand and use "Pascal's triangle" 
+  and the "general rule for repeated trials of events with constant probabilities", 
+  formula 1 (page 161 in textbook)?  Consider the numerators of the fractions in the above three-child family gender 
+  equation: 1 , 3 , 3 , 1. These numbers are the coefficients in the expansion of the term 
+  (p + q) cubed. In general, the coefficients of any such binomial expansion { the 
+  term (p+q) raised to any power} give the "number of ways" that something 
+  can happen.  Figure 4.21, "Pascal's triangle", shows these coefficients for the expansion 
+  of (p + q) raised to any power up to 10. The numbers in any row can be used 
+  just as described above. For example, assume that over the next two decades 
+  you have 6 kids. There are 64 possible gender birth orders, with 20 of these 
+  resulting in you having three girls and three boys.  The terms p and q are the individual probabilities for a specific outcome from 
+  a single "event". For "gender" calculations, the probabilities p and 
+  q are equal, both = 1/2 (the equal probabilities of male and female births).  For "dominant : recessive phenotype" type of calculations, p and q will usually 
+  not be equal. For a simple Mendelian inheritance from two heterozygotic parents, 
+  p will = 3/4 (if AA and Aa give dominant phenotype) and q will 
+  = 1/4 ( aa gives recessive phenotype).  Generalizing this, we get to the formula on page 161 in your text that is "the general 
+  rule for repeated trials of events with constant probabilities". The term (n!/s!t!) 
+  is the number of possible ways (orders) of getting a certain net outcome ( "a 
+  total of n ; with s of one and t of the other"). This 
+  number can either be calculated or taken directly from Pascal's triangle.    3. Sample problem: You and your mate are both heterozygous 
+  for some simple Mendelian gene alpha (i.e., each of you has genotype Aa , and both of you show the dominant phenotype) on chromosome #1. Over 
+  the next decade, you proceed to have four children. What is the probability 
+  that 3 of your children will show the dominant phenotype and one will show the 
+  recessive phenotype? What are the probabilities of the other possible outcomes?  If we were looking at thousands of such families, we know that the overall ratio 
+  of dominant to recessive phenotypes in the children would average out to 3:1, 
+  as shown by a simple Punnett square. But for one couple having four children, 
+  what's the probability, P(3D,1r)?  To calculate P(3D,1r), we use formula 1 for the case n=4, s=3, t=1, p=3/4, 
+  q=1/4. P(3D,1r)= 4!/3! x (3/4)cubed x (1/4) = 4 x (27/64) x 1/4 = .42 ( 42% )  By also calculating the other four possibilities, we can construct a graph that shows the statistical distribution you would expect 
+  to see in a large population.      Problem S-4: "Heterozygous parents; have three children".  Modify the sample problem above to do the calculations for you and your mate (both Aa ) having THREE children. Do the calculations for the probabilities that all three, two, one, or none of the three children will show the dominant phenotype from gene alpha . Construct the graph and compare the result with the "four children" graph done in class.               If you're seeing this message, it means we're having trouble loading external resources on our website.  If you're behind a web filter, please make sure that the domains *.kastatic.org and *.kasandbox.org are unblocked.        Main content       To log in and use all the features of Khan Academy, please enable JavaScript in your browser.                                                              Probability
+of Inheritance    The value of
+  studying genetics is in understanding how we can
+  predict the likelihood of inheriting particular traits.  This can help plant and
+  animal breeders in developing varieties that have more desirable qualities.  It can
+  also help people explain and predict patterns of inheritance in family lines.  One of the
+  easiest ways to calculate the mathematical probability of inheriting a specific trait was
+  invented by an early 20th century English geneticist named Reginald Punnett  .  His
+  technique employs what we now call a Punnett square . 
+  This is a simple graphical way of discovering all of the potential combinations of genotypes that can occur in children, given the
+  genotypes of their parents.  It also shows us the odds of each of the offspring
+  genotypes occurring.  Setting up
+  and using a Punnett square is quite simple once you understand how it works. 
+  You begin by drawing a grid of perpendicular lines:      Next, you put
+  the genotype of one parent across the top and that of the other parent down the left
+  side.  For example, if parent pea plant genotypes were YY and GG respectively, the
+  setup would be:       Note that
+  only one letter goes in each box for the parents.   It does not matter which parent
+  is on the side or the top of the Punnett square.  Next, 
+  all you have to do is fill in the boxes by copying the row and column-head 
+  letters across or down into the empty squares.  This gives us the 
+  predicted frequency of all of the potential genotypes among the offspring each 
+  time reproduction occurs.      In this 
+  example,
+  100% of the offspring will likely be heterozygous (YG).  Since the Y (yellow) allele is dominant over the G (green) allele for pea
+  plants, 100% of the YG offspring will have a yellow phenotype ,
+  as Mendel observed in his breeding experiments.  In another
+  example (shown below), if the parent plants both have heterozygous (YG) genotypes, there
+  will be 25% YY, 50% YG, and 25%
+  GG offspring on average.  These percentages are
+  determined based on the fact that each of the 4 offspring boxes in a Punnett square is 25%
+  (1 out of 4).  As to phenotypes, 75% will be Y and only 25% will be
+  G.  These
+  will be the odds every time a new offspring is conceived by parents with YG
+  genotypes.      An offspring's genotype is the result of the combination of genes in the sex
+  cells or gametes (sperm and ova) that came together in its conception. 
+  One sex cell came from each parent.  Sex cells normally only have one
+  copy of the gene for each trait (e.g., one copy of the Y or G form of the gene
+  in the example above).  Each of the two Punnett square boxes in which the
+  parent genes for a trait are placed (across the top or on the left side)
+  actually represents one of the two possible genotypes for a parent sex
+  cell.  Which of the two parental copies of a gene is inherited depends on
+  which sex cell is inherited--it is a matter of chance.  By placing each
+  of the two copies in its own box has the effect of giving it a 50% chance of
+  being inherited.  If you are
+  not yet clear about how to make a Punnett Square and interpret its result, take the time to try to figure it out before going on.   Are Punnett Squares Just Academic 
+	Games?  Why is it important for you to know
+  about Punnett squares?  The answer is that they can be used as predictive
+  tools when considering having children.  Let us assume, for instance, that
+  both you and your mate are carriers for a particularly
+  unpleasant genetically inherited disease such as cystic fibrosis   .   Of course, you are worried about whether your children will be healthy
+  and normal.   For this example, let us define "A" as being
+  the dominant normal allele and "a" as the recessive abnormal one that is responsible for cystic fibrosis.  As carriers, you and your
+  mate are both heterozygous (Aa).  This disease only
+  
+  afflicts those who are homozygous recessive (aa). 
+  The Punnett square below makes it clear that at each birth, there will be a 25% chance of
+  you having a normal homozygous (AA) child, a 50% chance of a healthy
+  heterozygous (Aa) carrier child like you and your mate, and a
+  25% chance of a homozygous recessive (aa) child who  probably 
+  will eventually die from this condition.              If both parents are carriers of the 
+				recessive allele for a disorder, all of their children will face
+				the following odds of inheriting it: 25% chance of having the recessive disorder 50% chance of being a healthy carrier 25% chance of being healthy and not have the recessive allele at all       If
+  a carrier (Aa) for such a
+  recessive disease mates with someone who has it (aa), the likelihood of their children also inheriting the condition is far greater
+  (as shown below).  On average, half of the children will be heterozygous (Aa) and, therefore, carriers.  The
+  remaining half will inherit 2 recessive alleles (aa) and develop the disease.              If one parent is a carrier and the 
+				other has a recessive disorder, their children will have the following odds of inheriting it: 50% chance of being a healthy carrier 50% chance having the recessive disorder       It is likely that every one of us is a carrier 
+for a large number of recessive alleles.   Some of these alleles can cause life-threatening defects if they are inherited from both 
+parents.  In addition to cystic fibrosis, albinism, and 
+beta-thalassemia are recessive disorders.  Some disorders are caused by dominant alleles for genes.  
+Inheriting just one copy of such a dominant allele will cause the disorder.  
+This is the case with Huntington disease, achondroplastic dwarfism, and 
+polydactyly.  People who are heterozygous (Aa) are not healthy carriers.  
+They have the disorder just like homozygous dominant (AA) individuals.              If only one parent has a single copy 
+				of a dominant allele for a dominant disorder, their children will have a 50% chance of inheriting the disorder and 50% chance of being
+				entirely normal.     Punnett squares are standard tools used by 
+	genetic counselors.  Theoretically,
+  the likelihood of inheriting many traits, including useful ones, can be predicted using
+  them.   It is also possible to construct squares for more than one trait
+  at a time.   However, some traits are not inherited with the
+  simple mathematical probability suggested here.  We will explore some of these
+  exceptions in the next section of the tutorial.           Previous
+      Topic     Return to Menu     Practice Quiz     Next
+      Topic          Copyright © 1997-2012 by Dennis
+  O'Neil.
+All rights reserved.  illustration credits                 Find a tutor  How it works  Prices   More   All subjects  All locations   Maths  Biology  Chemistry  Physics   A-level  GCSE  IB    Become a tutor      Menu  Log in  Sign up        Find a tutor  How it works  Prices   More   All subjects  All locations   Maths  Biology  Chemistry  Physics   A-level  GCSE  IB    Become a tutor  Log in            Answers            What is the probability of offspring (both male and female) being affected by haemophilia if both parents are unaffected?     140 views         Haemophilia is a sex-linked genetic recessive disease, meaning it is associated with a gene located on the X chromosome. As males have only one X chromosome, inheriting that chromosome will mean that they will be affected by the disease. Females however, have two X chromosomes and as haemophilia is a recessive disease, two defective X chromosomes would have to be inherited for a female to be affected. In this case, the father is unaffected, and as he has to pass on a healthy X chromosome to his daughters, the probability of female offspring being affected is 0, regardless of the genotype of the mother. Any male offspring will inherit a Y chromosome from their father and an X chromosome from their mother, but there is a possibility that the mother might be a carrier (if she has both a healthy and a defective X chromosome) even though she is unaffected. If the mother is a carrier (which we don’t know in this question), the probability of a son inheriting the defective X chromosome and being affected by haemophilia is 50%.         About the author   Ella B. is an online   tutor
+									
+									with MyTutor studying at       Book a free video chat How MyTutor Works       Articles from our blog  View blog        Related   answers  All answers     How do I analyse a sonnet? Answered by Isadora M.       What was the START agreement? Answered by Isadora M.       Why was Charles I unpopular? Answered by Isadora M.       differentiate the following equation: y = 2(x^3) - 6x Answered by Anna W.            Still stuck? Get one-to-one help from a personally interviewed subject specialist.  95% of our customers rate us   Browse tutors         We're here to help   +44 (0)203 773 6020  support@mytutor.co.uk  Contact us          Company Information   About us  Blog  Subject answers  Become a tutor  Schools  Staying safe online  FAQs  Using the Online Lesson Space  Testimonials & press  Sitemap     Popular Requests   GCSE  A-Level  IB  University admissions  Home education  Adult learning  Expat students  Revision help  Tutoring around the UK  University advice     Other subjects   Further maths  IT  Law  Latin  Sociology  Philosophy  Politics  Religious studies       © MyTutorWeb Ltd 2013-2018   Terms & Conditions | Privacy Policy | Developed with Mercury1      Payment Security    CLICK CEOP Internet Safety          We use cookies to improve your site experience. By continuing to use this website, we'll assume that you're OK with this.       mtw:mercury1:status:ok          PROBABILITIES OF GENETIC TRAITS   Introduction  Before we investigate the probabilities of genetic traits, let's look at probability
+in general. The probabilities involved in rolling a pair of dice will be used to
+begin the investigation. When we roll each die, it lands with one side up out of
+a possible six sides. So the probability for one die to land on any specific number
+is . To calculate
+the probability of both dice landing with a four showing, we multiply the two probabilities
+together. That is:  *  so the probability of rolling two fours is . The probability of rolling a four then a one is , but the probability
+of rolling a four then a one or two is .  The probability of rolling a four and a two is a little more complicated, because
+the four could be rolled on the first die with the two on the second die or visa-versa.
+To calculate the probability of a four and a two showing on the dice, we add the
+individual double events. That is:  * .  So the probability of rolling a four and a two is arrived at by calculating the
+probability of rolling a four then a two, and adding it to the probability of rolling
+a two then a four. Therefore the probability is .   Exercises Involving Dice  When two dice are thrown, find the probability of rolling:  1. two five's 2. a five then a two 3. a five and a two   4. no fours 5. all even number 6. an odd and an even   7. two sevens 8. two values each 9. two values with a  less than five sum of a) eleven  b) ten  When we flip two coins, they have the possibility of landing heads/heads, heads/tails,
+tails/heads, or tails/tails. Each of these is equally possible to happen, so each
+represents one-fourth of all the possible occurrences. These values are also the
+probabilities of the events occurring. The probability of flipping two coins landing:  heads/heads  ,
+tails/tails  ,
+and heads with tails in any order  .  The genetic probability of traits is similar to the probability of flipping a
+coin. In human genetics, the egg and sperm each supply the baby one of two pieces
+of genetic information per trait from its parents. These pieces of genetic information
+are called alleles. Alleles are either dominant or recessive. Dominant alleles are
+indicated by capital letters, whereas recessive allels are indicated by lower case
+letters. Let's look at the probability of a baby inheriting either ridges or no ridges
+on its fingernails. We'll use the letter "R" to represent the dominant
+allele, and "r" to represent the recessive allele. Suppose the genetic
+make-up of both parents is Rr. Each allele has an equal chance of being passed to
+the child, so the probability for , and the probability for (just as in flipping a coin). Now lets see how the probability
+of genetics works.     *Note: The sum of all the probabilities for allele combinations (as above) is
+one.   Checking for Understanding  Find a baby's probability of inheriting ridged fingernails if the genetic make-up
+of the parents is as follows:  1. father = Rr, and mother = rr  Solution: Since the mother does not have an "R" allele, the baby can't
+inherit "RR", so . The possible inheritance for the baby is "Rr" (mother's first
+r), "Rr" (mother's second r), "rr", and "rr" again.    2. father = RR, and mother = Rr      3. father = rr, and mother = RR     4. father = rr, and mother = Rr      Each allele of the mother and father has an equal chance of being passed down
+to the next generation. Because of this equal chance, there is another way to calculate
+genetic probability. We can look at the ratios for the allele combinations. Let's
+rework problem 4 above. We will indicate the two lower case "r" alleles
+of the father as .
+The genetic make-up of the parents is: father  , and mother  . The only possible genetic
+make-up for the offspring is . There are just as many "rr" combinations as there are "Rr"
+combinations. That means the probability of inheriting two recessive alleles is the
+same as the probability of inheriting one dominant and one recessive allele, therefore . Since the
+sum of these probabilities is one, we conclude that .   More About Probability of Genetics  When finding the probabilities involved for inheriting two (or more) genetic traits,
+we apply what we have learned so far. The steps for the calculations are:   * find all the possible genetic combinations.  * find the probabilities for each of the inherited traits.  * multiply the probabilities together.   For example, suppose the genetic make-up of the father is AaBb and the genetic
+make-up of the mother is AaBB.  Step 1) Find the possible "A trait" genetic combinations for the child. They are AA, Aa, aA, and aa .  Find the possible "B trait" genetic combinations for the child.  They are BB, BB, bB, and bB.  Step 2) Calculate the probabilities for the "A trait".  , and .  Calculate the probabilities for the "B trait".  , and .   Step 3) Calculate each of the double allele probabilities :    *Note: if there where three traits, we would multiply three probabilities together,
+etc.  For the offspring to inherit the dominant trait, it has to receive only one dominant
+allele from one parent. With this information, let's find the probability that the
+child will inherit both the dominant "A trait" and the dominant "B
+trait".  .   Genetics Probability Exercises  Given the genetic make-up of the parents, determine the indicated probabilities.   1. If the make-up of the father = EeGg, and the mother = EEGg, then find the probability
+that the child will be:  a. EEGg b. EEgg c. Eegg   d. EeGG e. EeGg f. EEGG   2. If the make-up of the father = Ttqq, and the mother = TtQQ, then find the probability
+that the child will be:  a. TtQq b. Ttqq c. ttQq   d. TTQq e. have the f. have both dominant Q-trait dominant traits   3. If the make-up of the father = RrHh, and the mother = RrHh, then find the probability
+that the child will be:  a. RRHH b. RRHh c. Rrhh   d. RrHH e. RrHh f. RRhh   g. rrHH h. rrHh i. rrhh   j. have the dominant k. have both traits  R-trait dominant  4. If the make-up of the father = Ddtt, and the mother = DdTt, then find the probability
+that the child will be:  a. the same as the father b. the same as the mother c. DDtt  d. all dominant traits e. dominant T-trait and f. all traits  recessive d-trait recessive   5. If the make-up of the father = AaBb, and the mother = AaBb, then find the probability
+that the child will have:  a. all recessive alleles b. all recessive traits c. AaBb   d. all dominant alleles e. all dominant traits f. Aabb   g. dominant A-trait h. recessive a-trait i. aaBb   j. dominant A-trait & k. recessive a-trait &  recessive b-trait dominant B-trait   6. If the make-up of the father = EeFfGg, and the mother = eeFFGg, then find the
+probability that the child will be:  a. EEFFGG b. eeffgg c. EeFfGg   d. only the E-trait e. only the e-trait f. all 3 traits  is dominant is recessive recessive   g. 3 dominant traits h. 3 recessive traits i. 2 recessive  traits     Calculating probability and risks in pedigree analysis: Elementary principles    The pedigree
+            shows the occurrence of an autosomal
+              recessive trait, where the black squares have genotype aa .  We wish to
+            calculate the
+            probability that IV-1 (shown
+            as ? ) will be
+            either affected ( aa ),
+            or a carrier heterozygote ( Aa ).  (1) For IV-1 to be an affected recessive
+              homozygote ,
+            s/he
+            must inherit an a allele
+            from the father and  the
+            mother.  Given that II-1 must be aa , both
+            great-grandparents ( I-1 and I-2 ) must be Aa . II-2 shows the dominant
+            phenotype,
+            and therefore has at least one A allele: the probability that the other is a is 1/2 . II-3 is from outside
+            the
+            affected pedigree and can be assumed to be AA .  Like his
+            father, III-1 shows
+            the dominant phenotype,
+            and therefore has at least one A .
+            Then,
+            the probability that III-1 is Aa is the
+            probability that II-2 is heterozygous  and  passed
+            the a allele to III-1 : (1/2) x (1/2) =
+            1/4. The
+            same reasoning leads to the conclusion that III-2 is heterozygous
+            with a
+            probability of 1/4. Thus, for IV-1 to be aa , both
+            parents must be Aa ,  and  they
+            must both pass the a allele to their offspring: 1/4 x
+            1/4 x 1/4 = 1/64   (2) Alternatively, for IV-1 to be a heterozygous , carrier,
+            either s/he
+            most inherit an a allele from the father, or from the mother. The chance of
+            either parent
+            being a heterozygote is 1/4, as calculated above. Then, the
+            probability
+            that both parents are heterozygotes, and the probability
+            that two
+            heterozygotes will have a heterozygous child, is 1/4 x 1/4 x
+            1/2 = 1/32.   (3) Finally, the probability that IV-1 is a dominant homozygote is 1
+            - 1/64 - 1/32 = (64 - 1 - 2)/64 = 61/64. This can also
+            be calculated
+            more tediously by summing the alternative probabilities at
+            each of the
+            steps above.     The
+calculations
+            in this example involved a distinction between a priori  and a
+              posteriori probability, which are often presented incorrectly in
+            elementary genetics
+            textbooks . To take
+            a simple
+            case: the a priori probability of getting heads on a single toss of a penny is
+            1/2, since
+            there are two equal possibilities, H or T . Then, given
+            two pennies
+            tossed at random, HH , HT , TH ,
+            and TT are all equally
+            likely. The a prior i
+            probability of getting at least one head is 3/4 . The a priori probability that any
+            combination with at least one head will have two tails ( HT or TH vs HH )
+            is 2/3 .  However, consider an experiment in which
+            I have
+            tossed two pennies. I show you that one is H , and ask, What is the probability that
+              the other is
+              also H ? The a posteriori probability is 1/2 : given the knowledge that one coin is H ,
+            the
+            other is H or T with
+            equal probability. In anticipation of the experiment, the a
+              priori probability of HT given H- is
+            2/3 . In analyzing the
+            results of any particular experiment, the added information changes
+            probabilities a
+              posteriori .  In the above example, we know that I-1 and I-2 are heterozygotes
+            and II-2 shows the
+            dominant phenotype. We therefore know a posteriori that he
+            has inherited a dominant alleles from one parent, and the
+            probability that he will inherit a recessive alleles from
+            the other parent and be heterozygous is 1/2. It is incorrect to reason
+            that, since
+            2/3 of all unaffected children (that is, all non- aa ) are heterozygotes a priori ,
+            his individual risk is also 2/3. Stated another way, by
+            knowing the nature of one
+            allele, we have lost one statistical degree
+              of
+              freedom .  [In the simplest case: the probability
+            that the next child of I-1 and I-2 will be a
+            boy is a priori 1/2: once the child is born, the
+            probability a posterior is either 0 or 1].    Two further extensions
+            of this idea. For this
+            scenario, assume that a genetic test is available to
+            distinguish AA from Aa , but II-5 is deceased and III-2 will not take the
+            test.  (4) Suppose III-2 has a
+            heterozygous sibling. How does this change the calculation IV-I 's risk? This would
+            mean that II-5  must be a heterozygote
+            with a
+            probability of 1, not 1/2 as before. Then, the probability
+            that III-2 is a
+            heterozygote is 1/2, the
+            probability that the father ( III-1 )
+            is
+            a heterozygote remains 1/4, and the probability that IV-1 is aa is 1/2 x 1/4 x 1/4 = 1/16 .  (5) Suppose III-2 has one or
+            more siblings who test as unaffected homozygotes ( AA ). How does this
+            change the
+            calculation of IV-1 's
+            risk?
+            Note that, whereas the birth of a heterozygous sibling
+            proves that the
+            mother ( II-5 ) is a
+            heterozygote, the birth of unaffected homozygous offspring
+            cannot prove that
+            she is a homozygote.
+            However, multiple births of unaffected siblings do decrease the probability that she
+            is a heterozygote, as follows. The probability that a
+            heterozygote will not pass the a allele to an offspring
+            is 1/2.
+            Then, the probability that she will not pass it to either of two offspring is
+            (1/2)(1/2) = 0.5 2 = 1/4. The probability that
+            she will pass it to none of three offspring is 0.5 3 = 1/8, to none of four is 1/16, and so on. Less than 0.1% of
+            all families with ten children would have known with an a alleles, if II-5 were a heterozygote . In other
+            words, this is strong a
+              posteriori evidence that II-5  is a homozygote ,
+            which if true means
+            that IV-1 cannot be affected. Of
+            course, the
+            birth of an eleventh child who is Aa immediately proves that II-5 is heterozygous, and returns IV-1 's
+            risk
+            calculation to 1/16, as in (4) above..       All figure & text
+          material
+          ©2014 by Steven M. Carr   7.1;  Some means and variances of counts For pea-plants, the alleles at a single genetic locus determine the 
+flower color.  We will label the alleles R and r, and suppose that 
+plants with two R alleles (genotype RR) have red flowers, those with 
+two r alleles (genotype rr) have white flowers, and those with one of 
+each (genotype Rr) have pink flowers.  In this case, if two 
+pink-flowered pea plants are mated ("crossed" is a better word than
+"mated" for plants), 
+the offspring plants are 
+independent of each other, and each has red flowers with probability 
+1/4, pink flowers with probability 1/2, and white flowers with 
+probability 1/4.   If a plant with pink flowers is crossed with a 
+plant with white flowers, again the flower color types of the offspring 
+are independent of each other, and in this case each offspring plant 
+has pink flowers with probability 1/2, and white flowers with 
+probability 1/2. Another trait of pea plants which Mendel considered is whether the 
+seeds are wrinkled or round. Again, this is determined by the alleles a
+plant has at just one genetic locus.  In this case, the allele for wrinkled 
+seeds (W) is dominant to the allele for round seeds (w).  This means 
+that plants with both genotypes WW and Ww have wrinkled seeds, and 
+only those with genotype ww have round seeds.  If two plants of 
+genotype Ww are crossed, the probability an offspring has wrinkled 
+seeds is 3/4, and the probability it has round seeds is 1/4.  Again, 
+the characteristics of different offspring are independent of each other. NOW YOU CAN DO QUESTIONS 1,2,3 in the next section Now let's assume what is probably not true -- that is the the genetic 
+locus determining flower color is on the same pair of chromosomes as 
+the one determining seed shape, and in fact fairly close. First, we are first going to cross a plant from a variety which has, for 
+generations, had red flowers and wrinkled seeds.  We know it has 
+genotype RR for flower color, and can be pretty certain it has 
+genotype WW for seed shape. (Let's assume that.)  We are going to 
+cross it with a plant with white flowers and round seeds  (genotype 
+ww,rr).  The offspring plant must have genotype  Rr for flower color
+(pink flowers) and Ww for seed shape (wrinkled).  In fact we know 
+more:  we know the R and W came from one parent, so are on the same 
+chromosome, and also the r and w on the other chromosome, from the 
+other parent.  We write this RW/rw. Now we cross this plant to another plant with white flowers and round 
+seeds, genotype rw/rw.   This other plant will always hand on rw to its
+offspring, so we don't have to bother about that.
+Our RW/rw plant can pass on any of the four combinations RW, Rw, rW, 
+rw.  If there is no recombination between the two loci, it will hand 
+on RW or rw, each with equal probability.  If the is recombination, it will 
+hand on Rw or rW, each with equal probability.  Let's suppose the 
+recombination probability between these two loci is 0.2.  Then the 
+offspring of our cross are independent of each other, and the 
+probabilities of their types are as follows: Pink flowers,   wrinkled seeds:  probability (1/2)(1-0.2) = 0.4
+Pink flowers,   round seeds:     probability (1/2)(0.2)   = 0.1
+White flowers,  wrinkled seeds:  probability (1/2)(0.2)   = 0.1
+White flowers,  round seeds:     probability (1/2)(1-0.2) = 0.4 NOW YOU CAN DO THE REST OF THE QUESTIONS in the next section.      Skip navigation       Sign in Search         Loading...            Close           Yeah, keep it  Undo  Close       This video is unavailable.         Watch Queue Queue Watch Queue Queue   Remove all Disconnect         The next video is starting stop    Loading...          Watch Queue  Queue  __count__/__total__                       Ditch the ads.       Loading...      Want music and videos with zero ads? Get YouTube Red.         Working...            Not now  Try it free                                                     Find out why Close       How to calculate a genotype with a Rule of Probability                 Nikolay's Genetics Lessons              Loading...        Unsubscribe from Nikolay's Genetics Lessons?    Cancel  Unsubscribe           Working...            Subscribe Subscribed Unsubscribe 6.9K             Loading...          Loading...              Working...                Add to   Want to watch this again later?  Sign in to add this video to a playlist.  Sign in    Share   More      Report    Need to report the video?  Sign in to report inappropriate content.  Sign in       Transcript      Statistics     Add translations   24,523 views         94   Like this video?  Sign in to make your opinion count.  Sign in     95    18   Don't like this video?  Sign in to make your opinion count.  Sign in     19            Loading...            Loading...      Transcript      The interactive transcript could not be loaded.         Loading...         Loading...       Rating is available when the video has been rented.     This feature is not available right now. Please try again later.      Published on Dec 6, 2013 The laws of probability govern Mendelian inheritance Mendel's laws of segregation and independent assortment reflect the same laws of probability that apply to tossing coins or rolling dice. The probability scale ranges from 0 (an event with no chance of occurring) to 1 (an event that is certain to occur). The probability of tossing heads with a normal coin is 1/2. The probability of rolling a 3 with a six-sided die is 1/6, and the probability of rolling any other number is 1 ? 1/6 = 5/6. When tossing a coin, the outcome of one toss has no impact on the outcome of the next toss. Each toss is an independent event, just like the distribution of alleles into gametes. Like a coin toss, each ovum from a heterozygous parent has a 1/2 chance of carrying the dominant allele and a 1/2 chance of carrying the recessive allele. The same odds apply to the sperm. We can use the multiplication rule to determine the chance that two or more independent events will occur together in some specific combination. Compute the probability of each independent event. Multiply the individual probabilities to obtain the overall probability of these events occurring together. The probability that two coins tossed at the same time will land heads up is 1/2 × 1/2 = 1/4. Similarly, the probability that a heterozygous pea plant (Pp) will self-fertilize to produce a white-flowered offspring (pp) is the chance that a sperm with a white allele will fertilize an ovum with a white allele. This probability is 1/2 × 1/2 = 1/4. The rule of multiplication also applies to dihybrid crosses. For a heterozygous parent (YyRr) the probability of producing a YR gamete is 1/2 × 1/2 = 1/4. We can use this to predict the probability of a particular F2 genotype without constructing a 16-part Punnett square. The probability that an F2 plant from heterozygous parents will have a YYRR genotype is 1/16 (1/4 chance for a YR ovum and 1/4 chance for a YR sperm). The rule of addition also applies to genetic problems. Under the rule of addition, the probability of an event that can occur two or more different ways is the sum of the separate probabilities of those ways. For example, there are two ways that F1 gametes can combine to form a heterozygote. The dominant allele could come from the sperm and the recessive from the ovum (probability = 1/4). Or the dominant allele could come from the ovum and the recessive from the sperm (probability = 1/4). The probability of obtaining a heterozygote is 1/4 + 1/4 = 1/2. We can combine the rules of multiplication and addition to solve complex problems in Mendelian genetics. Let's determine the probability of an offspring having two recessive phenotypes for at least two of three traits resulting from a trihybrid cross between pea plants that are PpYyRr and Ppyyrr. There are five possible genotypes that fulfill this condition: ppyyRr, ppYyrr, Ppyyrr, PPyyrr, and ppyyrr. We can use the rule of multiplication to calculate the probability for each of these genotypes and then use the rule of addition to pool the probabilities for fulfilling the condition of at least two recessive traits. The probability of producing a ppyyRr offspring: The probability of producing pp = 1/2 × 1/2 = 1/4. The probability of producing yy = 1/2 × 1 = 1/2. The probability of producing Rr = 1/2 × 1 = 1/2. Therefore, the probability of all three being present (ppyyRr) in one offspring is 1/4 × 1/2 × 1/2 = 1/16. For ppYyrr: 1/4 × 1/2 × 1/2 = 1/16. For Ppyyrr: 1/2 × 1/2 × 1/2 = 1/8 or 2/16. For PPyyrr: 1/4 × 1/2 × 1/2 = 1/16. For ppyyrr: 1/4 × 1/2 × 1/2 = 1/16. Therefore, the chance that a given offspring will have at least two recessive traits is 1/16 + 2/16 + 1/16 + 1/16 = 6/16. Mendel discovered the particulate behavior of genes: a review. While we cannot predict with certainty the genotype or phenotype of any particular seed from the F2 generation of a dihybrid cross, we can predict the probability that it will have a specific genotype or phenotype. Mendel's experiments succeeded because he counted so many offspring, was able to discern the statistical nature of inheritance, and had a keen sense of the rules of chance. Mendel's laws of independent assortment and segregation explain heritable variation in terms of alternative forms of genes that are passed along according to simple rules of probability. These laws apply not just to garden peas, but to all diploid organisms that reproduce by sexual reproduction. Mendel's studies of pea inheritance endure not only in genetics, but as a case study of the power of scientific reasoning using the hypothetico-deductive approach.     Category   Education     License   Standard YouTube License       Show more  Show less       Loading...             Advertisement          Autoplay    When autoplay is enabled, a suggested video will automatically play next.       Up next       Probability in Genetics: Multiplication and Addition Rules  - Duration: 10:36.  Bozeman Science  283,660 views     10:36               Probabilities in Genetics  - Duration: 16:57.  ProfAmann  19,961 views     16:57      Genetics: Product Rule  - Duration: 5:10.  Christian D  3,121 views     5:10      How to solve genetics probability problems  - Duration: 16:58.  Shomu's Biology  61,988 views     16:58      A Beginner's Guide to Punnett Squares  - Duration: 12:15.  Bozeman Science  977,560 views     12:15      Genetics and the rule of probability (how to calculate progeny genetype)  - Duration: 9:59.  Nikolay's Genetics Lessons  11,831 views     9:59      Law of probability and genetics  - Duration: 6:08.  Nikolay's Genetics Lessons  174 views     6:08      Predicting the Genotypes and the Phenotypes of Offspring using the Punnett Square  - Duration: 7:42.  Ilonggo Siyentipiko  56,394 views     7:42      How to solve Probability Problems in Genetics  - Duration: 11:05.  Nikolay's Genetics Lessons  460 views     11:05      That's How You Can Confuse Your Math Teacher  - Duration: 9:13.  BRIGHT SIDE  1,647,652 views     9:13      How to solve problems and find genotype/phenotype as result of the cross?  - Duration: 9:47.  Nikolay's Genetics Lessons  28,366 views     9:47      Genetics. What is the probability have at least 2 boys out of 4 children?  - Duration: 16:29.  Nikolay's Genetics Lessons  4,989 views     16:29      Rules of Probability for Mendelian Inheritance  - Duration: 14:33.  Nikolay's Genetics Lessons  1,134 views     14:33      How to find a phenotypic ratio of dihybrid cross  - Duration: 7:05.  Nikolay's Genetics Lessons  32,503 views     7:05      "Only 1 In 1000 Can Solve" The Viral 1 + 4 = 5 Puzzle. The Correct Answer Explained  - Duration: 6:01.  MindYourDecisions  6,387,182 views     6:01      How Mendel's pea plants helped us understand genetics - Hortensia Jiménez Díaz  - Duration: 3:07.  TED-Ed  1,204,413 views     3:07      Genotypic Ratios and Phenotypic Ratios for Punnett Squares  - Duration: 7:21.  Lara McDonald  56,763 views     7:21      Trihybrid and probability.  - Duration: 8:41.  Brian Christopher  36,188 views     8:41      How to solve pedigree probability problems  - Duration: 13:40.  Nikolay's Genetics Lessons  43,249 views     13:40      Genetics and law of probability  - Duration: 5:00.  Nikolay's Genetics Lessons  2,335 views     5:00     Loading more suggestions...   Show more                Language: English     Location: United States     Restricted Mode: Off    History  Help     Loading...       Loading...       Loading...     About  Press  Copyright  Creators  Advertise  Developers  +YouTube   Terms  Privacy  Policy & Safety  Send feedback   Test new features              Loading...               Working...             Sign in to add this to Watch Later    Add to      Loading playlists...                Skip navigation       Sign in Search         Loading...            Close           Yeah, keep it  Undo  Close       This video is unavailable.         Watch Queue Queue Watch Queue Queue   Remove all Disconnect         The next video is starting stop    Loading...          Watch Queue  Queue  __count__/__total__                       Want no interruptions?       Loading...      No problem. Get more with YouTube Red         Working...            Not now  Try it free                                                     Find out why Close       How to calculate a genotype with a Rule of Probability                 Nikolay's Genetics Lessons              Loading...        Unsubscribe from Nikolay's Genetics Lessons?    Cancel  Unsubscribe           Working...            Subscribe Subscribed Unsubscribe 6.9K             Loading...          Loading...              Working...                Add to   Want to watch this again later?  Sign in to add this video to a playlist.  Sign in    Share   More      Report    Need to report the video?  Sign in to report inappropriate content.  Sign in       Transcript      Statistics     Add translations   24,523 views         94   Like this video?  Sign in to make your opinion count.  Sign in     95    18   Don't like this video?  Sign in to make your opinion count.  Sign in     19            Loading...            Loading...      Transcript      The interactive transcript could not be loaded.         Loading...         Loading...       Rating is available when the video has been rented.     This feature is not available right now. Please try again later.      Published on Dec 6, 2013 The laws of probability govern Mendelian inheritance Mendel's laws of segregation and independent assortment reflect the same laws of probability that apply to tossing coins or rolling dice. The probability scale ranges from 0 (an event with no chance of occurring) to 1 (an event that is certain to occur). The probability of tossing heads with a normal coin is 1/2. The probability of rolling a 3 with a six-sided die is 1/6, and the probability of rolling any other number is 1 ? 1/6 = 5/6. When tossing a coin, the outcome of one toss has no impact on the outcome of the next toss. Each toss is an independent event, just like the distribution of alleles into gametes. Like a coin toss, each ovum from a heterozygous parent has a 1/2 chance of carrying the dominant allele and a 1/2 chance of carrying the recessive allele. The same odds apply to the sperm. We can use the multiplication rule to determine the chance that two or more independent events will occur together in some specific combination. Compute the probability of each independent event. Multiply the individual probabilities to obtain the overall probability of these events occurring together. The probability that two coins tossed at the same time will land heads up is 1/2 × 1/2 = 1/4. Similarly, the probability that a heterozygous pea plant (Pp) will self-fertilize to produce a white-flowered offspring (pp) is the chance that a sperm with a white allele will fertilize an ovum with a white allele. This probability is 1/2 × 1/2 = 1/4. The rule of multiplication also applies to dihybrid crosses. For a heterozygous parent (YyRr) the probability of producing a YR gamete is 1/2 × 1/2 = 1/4. We can use this to predict the probability of a particular F2 genotype without constructing a 16-part Punnett square. The probability that an F2 plant from heterozygous parents will have a YYRR genotype is 1/16 (1/4 chance for a YR ovum and 1/4 chance for a YR sperm). The rule of addition also applies to genetic problems. Under the rule of addition, the probability of an event that can occur two or more different ways is the sum of the separate probabilities of those ways. For example, there are two ways that F1 gametes can combine to form a heterozygote. The dominant allele could come from the sperm and the recessive from the ovum (probability = 1/4). Or the dominant allele could come from the ovum and the recessive from the sperm (probability = 1/4). The probability of obtaining a heterozygote is 1/4 + 1/4 = 1/2. We can combine the rules of multiplication and addition to solve complex problems in Mendelian genetics. Let's determine the probability of an offspring having two recessive phenotypes for at least two of three traits resulting from a trihybrid cross between pea plants that are PpYyRr and Ppyyrr. There are five possible genotypes that fulfill this condition: ppyyRr, ppYyrr, Ppyyrr, PPyyrr, and ppyyrr. We can use the rule of multiplication to calculate the probability for each of these genotypes and then use the rule of addition to pool the probabilities for fulfilling the condition of at least two recessive traits. The probability of producing a ppyyRr offspring: The probability of producing pp = 1/2 × 1/2 = 1/4. The probability of producing yy = 1/2 × 1 = 1/2. The probability of producing Rr = 1/2 × 1 = 1/2. Therefore, the probability of all three being present (ppyyRr) in one offspring is 1/4 × 1/2 × 1/2 = 1/16. For ppYyrr: 1/4 × 1/2 × 1/2 = 1/16. For Ppyyrr: 1/2 × 1/2 × 1/2 = 1/8 or 2/16. For PPyyrr: 1/4 × 1/2 × 1/2 = 1/16. For ppyyrr: 1/4 × 1/2 × 1/2 = 1/16. Therefore, the chance that a given offspring will have at least two recessive traits is 1/16 + 2/16 + 1/16 + 1/16 = 6/16. Mendel discovered the particulate behavior of genes: a review. While we cannot predict with certainty the genotype or phenotype of any particular seed from the F2 generation of a dihybrid cross, we can predict the probability that it will have a specific genotype or phenotype. Mendel's experiments succeeded because he counted so many offspring, was able to discern the statistical nature of inheritance, and had a keen sense of the rules of chance. Mendel's laws of independent assortment and segregation explain heritable variation in terms of alternative forms of genes that are passed along according to simple rules of probability. These laws apply not just to garden peas, but to all diploid organisms that reproduce by sexual reproduction. Mendel's studies of pea inheritance endure not only in genetics, but as a case study of the power of scientific reasoning using the hypothetico-deductive approach.     Category   Education     License   Standard YouTube License       Show more  Show less       Loading...             Advertisement          Autoplay    When autoplay is enabled, a suggested video will automatically play next.       Up next       Probability in Genetics: Multiplication and Addition Rules  - Duration: 10:36.  Bozeman Science  283,660 views     10:36               Probabilities in Genetics  - Duration: 16:57.  ProfAmann  19,961 views     16:57      Genetics: Product Rule  - Duration: 5:10.  Christian D  3,121 views     5:10      How to solve genetics probability problems  - Duration: 16:58.  Shomu's Biology  61,988 views     16:58      A Beginner's Guide to Punnett Squares  - Duration: 12:15.  Bozeman Science  977,560 views     12:15      Genetics and the rule of probability (how to calculate progeny genetype)  - Duration: 9:59.  Nikolay's Genetics Lessons  11,831 views     9:59      Law of probability and genetics  - Duration: 6:08.  Nikolay's Genetics Lessons  174 views     6:08      Predicting the Genotypes and the Phenotypes of Offspring using the Punnett Square  - Duration: 7:42.  Ilonggo Siyentipiko  56,394 views     7:42      How to solve Probability Problems in Genetics  - Duration: 11:05.  Nikolay's Genetics Lessons  460 views     11:05      That's How You Can Confuse Your Math Teacher  - Duration: 9:13.  BRIGHT SIDE  1,647,652 views     9:13      How to solve problems and find genotype/phenotype as result of the cross?  - Duration: 9:47.  Nikolay's Genetics Lessons  28,366 views     9:47      Genetics. What is the probability have at least 2 boys out of 4 children?  - Duration: 16:29.  Nikolay's Genetics Lessons  4,989 views     16:29      Rules of Probability for Mendelian Inheritance  - Duration: 14:33.  Nikolay's Genetics Lessons  1,134 views     14:33      How to find a phenotypic ratio of dihybrid cross  - Duration: 7:05.  Nikolay's Genetics Lessons  32,503 views     7:05      "Only 1 In 1000 Can Solve" The Viral 1 + 4 = 5 Puzzle. The Correct Answer Explained  - Duration: 6:01.  MindYourDecisions  6,387,182 views     6:01      How Mendel's pea plants helped us understand genetics - Hortensia Jiménez Díaz  - Duration: 3:07.  TED-Ed  1,204,413 views     3:07      Genotypic Ratios and Phenotypic Ratios for Punnett Squares  - Duration: 7:21.  Lara McDonald  56,763 views     7:21      Trihybrid and probability.  - Duration: 8:41.  Brian Christopher  36,188 views     8:41      How to solve pedigree probability problems  - Duration: 13:40.  Nikolay's Genetics Lessons  43,249 views     13:40      Genetics and law of probability  - Duration: 5:00.  Nikolay's Genetics Lessons  2,335 views     5:00     Loading more suggestions...   Show more                Language: English     Location: United States     Restricted Mode: Off    History  Help     Loading...       Loading...       Loading...     About  Press  Copyright  Creators  Advertise  Developers  +YouTube   Terms  Privacy  Policy & Safety  Send feedback   Test new features              Loading...               Working...             Sign in to add this to Watch Later    Add to      Loading playlists...                                                                  Donate Home Pigeon Breeding: Genetics At Work Independent Assortment & Probability Independent Assortment & Probability The pigeon parents on the right can produce offspring with 16 possible combinations of sex chromosomes and crest alleles . The probability of an offspring being a non-crested male is 4/16, which can be simplified to 1/4 or 25%. How did we come up with these numbers? The calculations are actually very simple, as long as you understand a little about independent assortment and probability.  Inheritance of Sex Chromosomes   The idea behind independent assortment is that genes are inherited independently of one another. In other words, the genetic factors that control crest and sex are physically separate. Because the genetic factors are physically separate, they segregate independently during gamete (egg and sperm) formation. Let’s walk through this process, first with sex. Each pigeon parent has two sex chromosomes. During gamete formation, each egg or sperm gets just one sex chromosome. So when a male bird (with two Z chromosomes) makes sperm, some sperm get one of the Z chromosomes and some get the other. And when a female bird (with one Z and one W chromosome) makes eggs, some get Z and others get W. The Punnett square shows what happens when these gametes get together to make offspring. As you can see, there are 4 possible combinations—2 male and 2 female. Inheritance of Crest The same principle applies to the inheritance of crest . Each pigeon parent has two copies, or alleles, of the crest gene. The two copies can be the same, or they can be different. Each gamete gets just one crest allele. Half of the gametes will get one of the parent’s alleles, and the other half will get the other allele. The Punnett square shows the possible crest allele combinations in the offspring. There are 4 possible combinations in all. 2 of the possible combinations make crested offspring, and the other 2 make non-crested offspring.  In the squares, the allele combination (e.g., ‘crest’ and ‘no crest,’ shown with icons) is the genotype, and the physical appearance (e.g. non-crested) is the phenotype.  Independent Inheritance of Sex & Crest   Now let’s apply the rules of independent assortment and look at the inheritance of sex and crest together. During gamete formation, each egg or sperm gets one sex chromosome and one crest allele. Remember, the genetic factors that control sex and crest are physically separate from one another, so they segregate independently during gamete formation. That means each parent can make gametes with 4 possible sex chromosome / crest allele combinations. The Punnett square shows what happens when these gametes get together to make offspring. As you can see, there are 16 possible combinations. However, many of these combinations are identical at the genotype and phenotype level. For example, as was mentioned at the top of the page, 4 of the 16 are crested males. Punnett squares are useful for showing where the alleles came from to make the possible allele combinations. But with crosses that involve increasing numbers of genes, they become awkward and not very useful. Imagine plotting a Punnett square of a cross involving sex, crest, and pattern. Each parent would have 8 possible gametes, and there would be 64 possible offspring! There is an easier way to calculate the numbers.  In female birds (and male mammals), sex-linked genes (like color ) do not segregate independently. Genetically linked genes also do not segregate independently. This is true in both males and females. Calculating Probability Using Fractions  Using multiplication, we can calculate (1) the number of possible allele combinations for a given cross, and (2) the probability of an offspring having a particular allele combination. 1. First, we’ll apply math to the sex chromosome example. Here’s the math for calculating the number of possible combinations:  The father can make sperm with 2 possible sex chromosomes: Z or the other Z.  The mother can make eggs with 2 possible sex chromosomes: Z or W.  Multiplying these numbers together gives us 4 possible offspring.  2. Here’s how to calculate the probability of the parents making a female offspring:  In the father, 2 of the 2 possible sex chromosomes (Z or Z) will contribute to making a female offspring.  In the mother, 1 of the 2 possible sex chromosomes (just W) will contribute to making a female offspring.  Notice that the denominator also tells you the number of possible combinations. To see where these numbers came from and to check the calculation, you can look back at the first Punnet square near the top of the page. 3. We can also add crest to our calculations. We’ll jump straight to the probability calculation, since we know that will also tell us the number of possible combinations. a. To make a non-crested male, the father must contribute a Z chromosome and a ‘crest’ allele. 2 out of the 2 possible sex chromosomes will give us what we need. And 2 out of the 2 possible crest alleles will give us the desired offspring. Multiplying those numbers, we get 4 out of 4. Out of the 4 possible allele combinations in the sperm (denominator), 4 will be Z + ‘crest’ (numerator). b. The mother must contribute a Z chromosome and a ‘no crest’ allele. Just 1 out of the 2 possible sex chromosomes will give us what we need. Likewise, just 1 out of the 2 possible crest alleles will give us the desired offspring. Multiplying those numbers, we get 1 out of 4. Out of the 4 possible allele combinations in the egg, 1 will be Z + ‘no crest.’ c. To get our final number, we multiple the gamete fractions together. Out of 16 possible allele combinations in the offspring, 4 will be non-crested males (ZZ and ‘crest’ ‘no crest’). Our Punnett square above gave us the same values. Calculate these values for more-complex problems is simply a matter of adding another fraction to the multiplication problem.  Visit Teach.Genetics Cite this page Feedback Disclaimer Permissions Policy Privacy Policy Copyright © University of Utah Genetic Science Learning Center APA format: Genetic Science Learning Center. (2014, December 2) Independent Assortment & Probability.
+Retrieved April 05, 2018, from http://learn.genetics.utah.edu/content/pigeons/probability/ CSE format: Independent Assortment & Probability [Internet]. Salt Lake City (UT): Genetic Science Learning Center; 2014
+[cited 2018 Apr 5] Available from http://learn.genetics.utah.edu/content/pigeons/probability/ Chicago format: Genetic Science Learning Center. "Independent Assortment & Probability." Learn.Genetics.
+December 2, 2014. Accessed April 5, 2018. http://learn.genetics.utah.edu/content/pigeons/probability/.        Probability - is the chance or possibility that a specific event         will occur.  For example, if you flip a coin, it will come up either heads or tails.         What are the chances that it will come up heads? Well, since there are         2 sides to a coin (heads and tails), there is one chance out of two that         the coin will come up heads. We can state this probability as a fraction         (1/2) or as a percent (50%) or even as a ratio (50:50).  Activity: Try this yourself. Flip a coin 10 times, keeping track of how many         heads and tails you get. Make sure they add up to 10. How close did you         get to a 50% chance of heads (5/10) and a 50% chance of tails (5/10)?         Now try it again with 50 tosses of the coin. Keep track again of the number         of heads and tails. Are you closer to a 50:50 ratio of heads:tails? Try         it one more time with 100 tosses. How does your ratio look now? With a larger sample size, we get closer to the most accurate probability.         Each individual toss is a separate entity and is not influenced by any         earlier tosses. Another example - What are the chances that a baby will be born a male?         Since there are 2 sexes (male and female), there is a one chance out of         two that the child will be a male. What are the chances that a baby will         be born a female? Does this sound anything like the coin toss? Each baby has a 50:50 chance         of being either a male or a female. It doesn't matter how many other brothers         or sisters are already in the family. Each baby is a separate entity and         its sex is not influenced by the sexes of earlier children. You can try         this either by tossing a coin with the head side representing a girl and         the tail side representing a boy. Another way to predict is to do a Punnett square showing a cross between         a male (XY) and a female (XX). What are your results? Does the Punnett         square show that in a family of 4 children, 2 will be male and 2 will         be female? Or is it showing that each child has a 50:50 chance of being         male or female?  Think about it! If a family already has         5 girls, what are the chances that the next baby will be a boy? We use probabilities to predict possible results of genetic crosses.         Punnett squares are an easy way to determine the probabilities of certain         types of offspring occurring from a specific cross. The genotypes and phenotypes of parents or offspring may also be written         as like other probabilities as: fractions, decimals, or ratios.                Print this page in Adobe Acrobat Format   Visit the Utah   State 7th Grade Integrated Science Core Curriculum Page .  Updated June   14, 2000 by: Glen   Westbroek   Science Home Page | Curriculum Home Page | Core   Home Page | USOE Home Page    Copyright © by the Utah   State Office of Education.             9-14-05    PROBABILITY/STATISTICS IN INHERITANCE      We know that when two people who are both 
+  heterozygous for a simple Mendelian autosomal gene alpha have a child, the probability 
+  that the child will show the dominant phenotype is 3/4. Let's ask
+  a somewhat more complex question. If this couple has a total of four children, 
+  what is the probability that 3 of the 4 will show the dominant phenotype? To 
+  answer this, we will first derive the appropriate formula and then use it to 
+  calculate the numerical answer. The same formula allows us to understand the 
+  expected statistical distribution of the various possible phenotype patterns 
+  in four-child ( or any other size) families in a large population.    1. Review: How can some simple overall probabilities be calculated 
+  by combining the multiplication and addition "rules" we covered earlier?  Let's start with a very simple case: asking about gender probabilities in families 
+  of three children.  What is the probability that all three children in a family will be the same 
+  gender? P(all female)= 1/2 x 1/2 x 1/2 = 1/8 P(all male ) = 1/2 x 1/2 x 1/2 = 1/8 P(all one gender) = P(all female) + P(all male) = 1/8 + 1/8 = 1/4  What is the probability that a three-child family is two girls and one boy? Each possible birth order has P=1/8. That is, P(G,G,B)=P(G,B,G)=P(B,G,G)=1/8. So, P(2G,1B)= 3/8 and P(1G,2B)= 3/8.  This allows us to write the overall gender probability distribution for families 
+  of three children as follows: 1/8 will be three girls 3/8 will be two girls and one boy 3/8 will be one girl and two boys 1/8 will be three boys Adding it all up, we have 1/8 + 3/8 + 3/8 + 1/8 = 1 (100%)     2. How can we understand and use "Pascal's triangle" 
+  and the "general rule for repeated trials of events with constant probabilities", 
+  formula 1 (page 161 in textbook)?  Consider the numerators of the fractions in the above three-child family gender 
+  equation: 1 , 3 , 3 , 1. These numbers are the coefficients in the expansion of the term 
+  (p + q) cubed. In general, the coefficients of any such binomial expansion { the 
+  term (p+q) raised to any power} give the "number of ways" that something 
+  can happen.  Figure 4.21, "Pascal's triangle", shows these coefficients for the expansion 
+  of (p + q) raised to any power up to 10. The numbers in any row can be used 
+  just as described above. For example, assume that over the next two decades 
+  you have 6 kids. There are 64 possible gender birth orders, with 20 of these 
+  resulting in you having three girls and three boys.  The terms p and q are the individual probabilities for a specific outcome from 
+  a single "event". For "gender" calculations, the probabilities p and 
+  q are equal, both = 1/2 (the equal probabilities of male and female births).  For "dominant : recessive phenotype" type of calculations, p and q will usually 
+  not be equal. For a simple Mendelian inheritance from two heterozygotic parents, 
+  p will = 3/4 (if AA and Aa give dominant phenotype) and q will 
+  = 1/4 ( aa gives recessive phenotype).  Generalizing this, we get to the formula on page 161 in your text that is "the general 
+  rule for repeated trials of events with constant probabilities". The term (n!/s!t!) 
+  is the number of possible ways (orders) of getting a certain net outcome ( "a 
+  total of n ; with s of one and t of the other"). This 
+  number can either be calculated or taken directly from Pascal's triangle.    3. Sample problem: You and your mate are both heterozygous 
+  for some simple Mendelian gene alpha (i.e., each of you has genotype Aa , and both of you show the dominant phenotype) on chromosome #1. Over 
+  the next decade, you proceed to have four children. What is the probability 
+  that 3 of your children will show the dominant phenotype and one will show the 
+  recessive phenotype? What are the probabilities of the other possible outcomes?  If we were looking at thousands of such families, we know that the overall ratio 
+  of dominant to recessive phenotypes in the children would average out to 3:1, 
+  as shown by a simple Punnett square. But for one couple having four children, 
+  what's the probability, P(3D,1r)?  To calculate P(3D,1r), we use formula 1 for the case n=4, s=3, t=1, p=3/4, 
+  q=1/4. P(3D,1r)= 4!/3! x (3/4)cubed x (1/4) = 4 x (27/64) x 1/4 = .42 ( 42% )  By also calculating the other four possibilities, we can construct a graph that shows the statistical distribution you would expect 
+  to see in a large population.      Problem S-4: "Heterozygous parents; have three children".  Modify the sample problem above to do the calculations for you and your mate (both Aa ) having THREE children. Do the calculations for the probabilities that all three, two, one, or none of the three children will show the dominant phenotype from gene alpha . Construct the graph and compare the result with the "four children" graph done in class.  

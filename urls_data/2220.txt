@@ -1,0 +1,843 @@
+   Probability  The probability of an event is a number describing the chance that the event will happen. An event
+that is certain to happen has a probability of 1. An event that cannot possibly happen has
+a probability of zero. If there is a chance that an event will happen, then
+its probability is between zero and 1.    Examples of Events:   tossing a coin and it landing on heads  tossing a coin and it landing on tails  rolling a '3' on a die rolling a number > 4 on a die it rains two days in a row drawing a card from the suit of clubs guessing a certain number between 000 and 999 (lottery)    Events that are certain:     If it is Thursday, the probability that tomorrow is Friday is certain,
+    therefore the probability is 1. If you are sixteen, the probability of you turning seventeen on your
+    next birthday is 1. This is a certain event.      Events that are uncertain:     The probability that tomorrow is Friday if today is Monday is 0. The probability that you will be seventeen on your next birthday, if
+    you were just born is 0.      Let's take a closer look at tossing the coin. When you
+toss a coin, there are two possible outcomes , "heads" or "tails."    Examples of outcomes:   When rolling a die for a board game, the outcomes possible are 1,2,3,4,5,
+  and 6. The outcomes when choosing the days of a week are Sunday, Monday, Tuesday,
+  Wednesday, Thursday, Friday, and Saturday. When selecting a door to be chosen behind on the game show "Let's
+  Make a Deal," the outcome of the choices is door 1, door 2, and door
+  3.    The set of all possible outcomes of an experiment
+is the sample space for the experiment.   A die is rolled and the number on the top face is recorded. All the
+  integers from 1 to 6 are possible. So S = {1, 2, 3, 4, 5, 6}. A pair of dice are rolled and the sum of the numbers on the top faces
+  is recorded. The smallest sum is 1 + 1 = 2; the largest is 6 + 6 = 12;
+  and all the integers in-between are possible. So S = {2, 3, 4, ...,
+  11, 12}.  The two outcomes of tossing a coin are equally likely , which means that each has
+the same chance of happening. When all outcomes of an event are equally
+likely, the probability that the event will happen is given by the ration
+below.   When looking at the probability of the event that the coin
+lands on tail we get the following:          These events are equally likely to happen:   When there is a 50% chance of rain, that means that there
+  a chance that it might rain, but that there is also a chance that it might
+  not rain. These chances are the same so the event is equally likely to
+  happen.  When one rolls a game die, he/she has exactly the same
+  chance of landing on any of the six sides. Therefore the probability of
+  landing on any one specific side would be 1/6. This is also true for any
+  spinner. Say a spinner is divided into 10 sections. Then there is an equally
+  likely chance that the spinner can land on any of the sections. Thus the
+  probability for the spinner to land in any designated section is 1/10.  The probability of selecting one of the three doors on
+  the game show is also equally likely. There is no bias over the contestants
+  decision so each door has a probability of 1/3 being chosen. This is true
+  if there are no arrows pointing towards one of the doors.    When the outcome of one event does not affect the outcome
+of a second event, the events are independent . When the outcome of one event does affect the outcome of the
+second event, the events are dependent . Let's look at the following five examples. Decide which pair
+of events are dependent or independent.  1. Toss a coin. Then roll a number cube (die).  2. Choose a bracelet and put it on. Choose another bracelet.  3. Select a card. Do not replace it. Then select another
+card.  4. Select a card. Replace it. Select another card.  5. Pick one flower from a garden, then pick another.          The events above that are independent are numbers 1 and
+4.  Probability of Two Independent
+Events   Given a coin and a die, what is the probability
+of tossing a head and rolling a 5?       The events above that are dependent events are numbers
+2, 3, and 5.  Probability of Two Dependent
+Events   Given a deck of cards, what is the probability
+that the second card drawn will be from the same suit if the first card
+drawn is the Queen of Hearts?     The
+Counting Principle  The number of outcomes of an event is the
+product of the number of outcomes for each stage of the event.    Let's suppose that we want to find out how many different
+license plates are possible, when the license plate is composed of three
+digits then three letters. To do this you can use the counting principle .
+The product below gives the number of different plates possible.    We can use this same principle even if there are stipulations
+on the problem. For example say that a number or letter can only be used
+once.   What if we wanted to know which plate system provided more
+possible outcomes, one with five letters or one with seven digits?    Five letters:  Seven digits:    So we see by using the counting principle that there are
+more possibilities if we use five letters instead of seven digits.     Statistics
+for Middle School    RETURN TO OUR HOME PAGES      Cathy
+Brooks  Laura Dickerson                                           Mathplanet      Menu     Pre-Algebra  /  Probability and statistic  /    Probability of events   Probability is a type of ratio where we compare how many times an outcome can occur compared to all possible outcomes.  $$Probability=\frac{The\, number\, of\, wanted \, outcomes}{The\, number \,of\, possible\, outcomes}$$   Example  What is the probability to get a 6 when you roll a die?  A die has 6 sides, 1 side contain the number 6 that give us 1 wanted outcome in 6 possible outcomes.   Independent events: Two events are independent when the outcome of the first event does not influence the outcome of the second event.  When we determine the probability of two independent events we multiply the probability of the first event by the probability of the second event.  $$P(X \, and \, Y)=P(X)\cdot P(Y)$$  To find the probability of an independent event we are using this rule:   Example  If one has three dice what is the probability of getting three 4s?  The probability of getting a 4 on one die is 1/6  The probability of getting 3 4s is:  $$P\left ( 4\, and\, 4\, and\, 4 \right )=\frac{1}{6}\cdot \frac{1}{6}\cdot\frac{1}{6}=\frac{1}{216}$$  When the outcome affects the second outcome, which is what we called dependent events.  Dependent events: Two events are dependent when the outcome of the first event influences the outcome of the second event. The probability of two dependent events is the product of the probability of X and the probability of Y AFTER X occurs.  $$P(X \, and \, Y)=P(X)\cdot P(Y\: after\: x)$$   Example  What is the probability for you to choose two red cards in a deck of cards?  A deck of cards has 26 black and 26 red cards. The probability of choosing a red card randomly is:  $$P\left ( red \right )=\frac{26}{52}=\frac{1}{2}$$  The probability of choosing a second red card from the deck is now:  $$P\left ( red \right )=\frac{25}{51}$$  The probability:  $$P\left ( 2\,red \right )=\frac{1}{2}\cdot \frac{25}{51}=\frac{25}{102}$$  Two events are mutually exclusive when two events cannot happen at the same time. The probability that one of the mutually exclusive events occur is the sum of their individual probabilities.  $$P(X \, or \, Y)=P(X)+ P(Y)$$  An example of two mutually exclusive events is a wheel of fortune. Let's say you win a bar of chocolate if you end up in a red or a pink field.   What is the probability that the wheel stops at red or pink?  P(red or pink)=P(red)+P(pink)  $$P\left (red \right )=\frac{2}{8}=\frac{1}{4}$$  $$P\left (pink \right )=\frac{1}{8}$$  $$P\left ( red\, or\, pink \right )=\frac{1}{8}+\frac{2}{8}=\frac{3}{8}$$  Inclusive events are events that can happen at the same time. To find the probability of an inclusive event we first add the probabilities of the individual events and then subtract the probability of the two events happening at the same time.  $$P\left (X \, or \, Y \right )=P\left (X \right )+ P\left (Y \right )-P\left (X \, and \, Y \right )$$   Example  What is the probability of drawing a black card or a ten in a deck of cards?  There are 4 tens in a deck of cards P(10) = 4/52  There are 26 black cards P(black) = 26/52  There are 2 black tens P(black and 10) = 2/52  $$P\left ( black\, or\, ten \right )=\frac{4}{52}+\frac{26}{52}-\frac{2}{52}=\frac{30}{52}-\frac{2}{52}=\frac{28}{52}=\frac{7}{13}$$   Video lesson  At Ann's 7-years olds party all 20 invited guests are going to get some candy from the fish pond. In 12 of the bags there is an extra chocolate bar. Tina and James are first and second out, what is the probability that they both get a bag with an extra chocolate bar?          More classes on this subject     Pre-Algebra  Probability and statistic: The mean, the median and the mode      Pre-Algebra  Probability and statistic: Stem-and-Leaf Plots and Box-and-Whiskers Plot      Pre-Algebra  Probability and statistic: Calculating the outcome      Pre-Algebra  Probability and statistic: Combinations and permutations      Pre-Algebra  Probability and statistic: Finding the odds            Share on Facebook         Next Chapter:       PRE-ALGEBRA –  Introducing geometry                  Search         Pre-Algebra        All courses        Pre-Algebra  Overview     Introducing Algebra         Pre-Algebra     Introducing Algebra    Overview    Operations in the correct order    Evaluate expressions    Identify properties    Equations with variables    Coordinate system and ordered pairs    Inequalities         Explore and understand integers         Pre-Algebra     Explore and understand integers    Overview    Absolute value    Adding and subtracting integers    Multiplying  and dividing with integers         Inequalities and one-step equations         Pre-Algebra     Inequalities and one-step equations    Overview    Different ways to solve equations    Calculating the area and the perimeter    Solving inequalities    Understanding inequalities and equations         Discover fractions and factors         Pre-Algebra     Discover fractions and factors    Overview    Monomials and adding or subtracting polynomials    Powers and exponents    Multiplying polynomials and binomials    Factorization and prime numbers    Finding the greatest common factor    Finding the least common multiple         More about the four rules of arithmetic         Pre-Algebra     More about the four rules of arithmetic    Overview    Integers and rational numbers    Learn how to estimate calculations    Calculating with decimals and fractions    Geometric sequences of numbers    Scientific notation         More about equation and inequalities         Pre-Algebra     More about equation and inequalities    Overview    Fundamentals in solving Equations in one or more steps    Calculating the circumference of a circle         Graphing and functions         Pre-Algebra     Graphing and functions    Overview    Linear equations in the coordinate plane    The slope of a linear function    Graphing linear inequalities    Solve systems of equations by graphing         Ratios and percent         Pre-Algebra     Ratios and percent    Overview    Rates and ratios    Proportions and percent    Solving problems with percent         Probability and statistic         Pre-Algebra     Probability and statistic    Overview    The mean, the median and the mode    Stem-and-Leaf Plots and Box-and-Whiskers Plot    Calculating the outcome    Combinations and permutations    Finding the odds    Probability of events           About Mathplanet                       Introducing geometry         Pre-Algebra     Introducing geometry    Overview    Geometry – fundamental statements    Circle graphs    Angles and parallel lines    Triangles    Quadrilaterals, polygons and transformations         Area and Volume         Pre-Algebra     Area and Volume    Overview    Measure areas    Pyramids, prisms, cylinders and cones         Right triangles and algebra         Pre-Algebra     Right triangles and algebra    Overview    Square roots and real numbers    The Pythagorean Theorem    Trigonometry               Algebra 1        All courses        Algebra 1  Overview          Algebra 2        All courses        Algebra 2  Overview          Geometry        All courses        Geometry  Overview          SAT        All courses        SAT  Overview          ACT        All courses        ACT  Overview              Mathplanet is licensed by Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 Internationell-licens .  Our websites: matteboken.se  webmatematik.dk  formelsamlingen.se  kodboken.se  webmatte.no                    Event (probability theory)   From Wikipedia, the free encyclopedia   Jump to: navigation , search         This article needs additional citations for verification . Please help improve this article by adding citations to reliable sources . Unsourced material may be challenged and removed.  (January 2018)  ( Learn how and when to remove this template message )       Part of a series on Statistics    Probability theory         Probability axioms        Probability space  Sample space  Elementary event  Event  Random variable  Probability measure        Complementary event  Joint probability  Marginal probability  Conditional probability        Independence  Conditional independence  Law of total probability  Law of large numbers  Bayes' theorem  Boole's inequality        Venn diagram  Tree diagram         v  t  e       In probability theory , an event is a set of outcomes of an experiment (a subset of the sample space ) to which a probability is assigned. [1] A single outcome may be an element of many different events, [2] and different events in an experiment are usually not equally likely, since they may include very different groups of outcomes. [3] An event defines a complementary event , namely the complementary set (the event not occurring), and together these define a Bernoulli trial : did the event occur or not?  Typically, when the sample space is finite, any subset of the sample space is an event ( i . e . all elements of the power set of the sample space are defined as events). However, this approach does not work well in cases where the sample space is uncountably infinite . So, when defining a probability space it is possible, and often necessary, to exclude certain subsets of the sample space from being events (see Events in probabiliity spaces , below).     Contents    1  A simple example  2  Events in probability spaces  3  A note on notation  4  See also  5  Notes  6  External links     A simple example [ edit ]  If we assemble a deck of 52 playing cards with no jokers, and draw a single card from the deck, then the sample space is a 52-element set, as each card is a possible outcome. An event, however, is any subset of the sample space, including any singleton set (an elementary event ), the empty set (an impossible event, with probability zero) and the sample space itself (a certain event, with probability one). Other events are proper subsets of the sample space that contain multiple elements. So, for example, potential events include:     A Euler diagram of an event. B is the sample space and A is an event. By the ratio of their areas, the probability of A is approximately 0.4.     "Red and black at the same time without being a joker" (0 elements),  "The 5 of Hearts" (1 element),  "A King" (4 elements),  "A Face card" (12 elements),  "A Spade" (13 elements),  "A Face card or a red suit" (32 elements),  "A card" (52 elements).   Since all events are sets, they are usually written as sets (e.g. {1, 2, 3}), and represented graphically using Venn diagrams . In the situation where each outcome in the sample space Ω is equally likely, the probability     P    {\displaystyle P}   of an event A is the following formula :        P   (  A  )  =      |   A   |      |   Ω   |          (    alternatively:     Pr  (  A  )  =      |   A   |      |   Ω   |       )     {\displaystyle \mathrm {P} (A)={\frac {|A|}{|\Omega |}}\,\ \left({\text{alternatively:}}\ \Pr(A)={\frac {|A|}{|\Omega |}}\right)}     This rule can readily be applied to each of the example events above.  Events in probability spaces [ edit ]  Defining all subsets of the sample space as events works well when there are only finitely many outcomes, but gives rise to problems when the sample space is infinite. For many standard probability distributions , such as the normal distribution , the sample space is the set of real numbers or some subset of the real numbers . Attempts to define probabilities for all subsets of the real numbers run into difficulties when one considers 'badly behaved' sets, such as those that are nonmeasurable . Hence, it is necessary to restrict attention to a more limited family of subsets. For the standard tools of probability theory, such as joint and conditional probabilities , to work, it is necessary to use a σ-algebra , that is, a family closed under complementation and countable unions of its members. The most natural choice is the Borel measurable set derived from unions and intersections of intervals. However, the larger class of Lebesgue measurable sets proves more useful in practice.  In the general measure-theoretic description of probability spaces , an event may be defined as an element of a selected σ-algebra of subsets of the sample space. Under this definition, any subset of the sample space that is not an element of the σ-algebra is not an event, and does not have a probability. With a reasonable specification of the probability space, however, all events of interest are elements of the σ-algebra.  A note on notation [ edit ]  Even though events are subsets of some sample space Ω, they are often written as propositional formulas involving random variables . For example, if X is a real-valued random variable defined on the sample space Ω, the event       {  ω  ∈  Ω  ∣  u  <  X  (  ω  )  ≤  v  }     {\displaystyle \{\omega \in \Omega \mid u<X(\omega )\leq v\}\,}     can be written more conveniently as, simply,       u  <  X  ≤  v   .    {\displaystyle u<X\leq v\,.}     This is especially common in formulas for a probability , such as       Pr  (  u  <  X  ≤  v  )  =  F  (  v  )  −  F  (  u  )   .    {\displaystyle \Pr(u<X\leq v)=F(v)-F(u)\,.}     The set  u < X ≤ v is an example of an inverse image under the mapping  X because     ω  ∈   X   −  1    (  (  u  ,  v  ]  )    {\displaystyle \omega \in X^{-1}((u,v])}   if and only if     u  <  X  (  ω  )  ≤  v    {\displaystyle u<X(\omega )\leq v}   .  See also [ edit ]   Complementary event  Elementary event  Independent event   Notes [ edit ]     ^  Leon-Garcia, Alberto (2008). Probability, statistics and random processes for electrical engineering . Upper Saddle River, NJ: Pearson.   ^  Pfeiffer, Paul E. (1978). Concepts of probability theory . Dover Publications. p. 18. ISBN  978-0-486-63677-1 .   ^  Foerster, Paul A. (2006). Algebra and trigonometry: Functions and applications, Teacher's edition (Classics ed.). Upper Saddle River, NJ: Prentice Hall . p. 634. ISBN  0-13-165711-9 .      External links [ edit ]   Hazewinkel, Michiel , ed. (2001) [1994], "Random event" , Encyclopedia of Mathematics , Springer Science+Business Media B.V. / Kluwer Academic Publishers, ISBN  978-1-55608-010-4   Formal definition in the Mizar system .        Retrieved from " https://en.wikipedia.org/w/index.php?title=Event_(probability_theory)&oldid=822836484 "  Categories : Experiment (probability theory) Hidden categories: Articles needing additional references from January 2018 All articles needing additional references      Navigation menu    Personal tools   Not logged in Talk Contributions Create account Log in      Namespaces   Article Talk       Variants           Views   Read Edit View history      More         Search              Navigation    Main page Contents Featured content Current events Random article Donate to Wikipedia Wikipedia store      Interaction    Help About Wikipedia Community portal Recent changes Contact page      Tools    What links here Related changes Upload file Special pages Permanent link Page information Wikidata item Cite this page      Print/export    Create a book Download as PDF Printable version      Languages    العربية বাংলা Català Чӑвашла Čeština Deutsch Eesti Ελληνικά Español Esperanto Euskara فارسی Français Íslenska Italiano עברית ქართული Magyar Nederlands Polski Português Русский Slovenščina کوردی Српски / srpski Suomi Svenska தமிழ் ไทย Türkçe Українська اردو Tiếng Việt 吴语 粵語 中文   Edit links        This page was last edited on 28 January 2018, at 20:07.  Text is available under the Creative Commons Attribution-ShareAlike License ;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization.    Privacy policy  About Wikipedia  Disclaimers  Contact Wikipedia  Developers  Cookie statement  Mobile view                                                   Log in  Sign up     Find a Tutor     Search for Tutors    Request a Tutor    Online Tutoring      How It Works     For Students    FAQ    What Customers Say      Resources     College Scholarship    Answers    Lessons      Become a Tutor     Apply Now    About Tutoring Jobs    Find Tutoring Jobs    How It Works For Tutors    FAQ      About Us     About Us    Our Team    Careers    Contact Us             Log in    Sign up    Find a Tutor    Search for Tutors    Request a Tutor    Online Tutoring      How It Works    For Students    FAQ    What Customers Say      Resources    College Scholarship    Answers    Lessons      Tutors    Apply Now    About Tutoring Jobs    Find Tutoring Jobs    How It Works For Tutors    FAQ      About Wyzant    About Us    Our Team    Careers    Contact Us         Subject     ZIP       Search        Sign In   Answers   Blogs   Files   Lessons   Videos                     or   Ask a Question            Resources  /    Lessons  /    Math  /    Statistics and Probability  /    Probability  /  Further Concepts in Proba...     Lessons  All  Answers  Blogs  Files  Videos                      Further Concepts in Probability  The study of probability mostly deals with combining different events and studying these
+            events alongside each other. How these different events relate to each other determines
+            the methods and rules to follow when we're studying their probabilities.  Events can be pided into two major categories dependent or Independent events.  Independent Events  When two events are said to be independent of each other, what this means is that
+            the probability that one event occurs in no way affects the probability of the other
+            event occurring. An example of two independent events is as follows; say you rolled
+            a die and flipped a coin. The probability of getting any number face on the die
+            in no way influences the probability of getting a head or a tail on the coin.  Dependent Events  When two events are said to be dependent, the probability of one event occurring
+            influences the likelihood of the other event.  For example, if you were to draw a two cards from a deck of 52 cards. If on your
+            first draw you had an ace and you put that aside, the probability of drawing an
+            ace on the second draw is greatly changed because you drew an ace the first time.
+            Let's calculate these different probabilities to see what's going on.  There are 4 Aces in a deck of 52 cards    On your first draw, the probability of getting an ace is given by:    If we don't return this card into the deck, the probability of drawing an ace on
+            the second pick is given by        As you can clearly see, the above two probabilities are different, so we say that
+            the two events are dependent. The likelihood of the second event depends on what
+            happens in the first event.  Conditional Probability  We have already defined dependent and independent events and seen how probability
+            of one event relates to the probability of the other event.  Having those concepts in mind, we can now look at conditional probability.  Conditional probability deals with further defining dependence of events by looking
+            at probability of an event given that some other event first occurs.  Conditional probability is denoted by the following:    The above is read as the probability that B occurs given that A has already occurred .  The above is mathematically defined as:    Set Theory in Probability  A sample space is defined as a universal set of all possible outcomes from a given
+            experiment.  Given two events A and B and given that these events are part of a
+            sample space S . This sample space is represented as a set as in the diagram
+            below.    The entire sample space of S is given by:    Remember the following from set theory:      The different regions of the set S can be explained as using the rules of
+            probability.  Rules of Probability  When dealing with more than one event, there are certain rules that we must follow
+            when studying probability of these events. These rules depend greatly on whether
+            the events we are looking at are Independent or dependent on each other.  First acknowledge that    Multiplication Rule (A∩B)  This region is referred to as 'A intersection B' and in probability; this region
+            refers to the event that both A and B happen. When we use the word and we are referring to multiplication, thus A and B can be thought
+            of as AxB or (using dot notation which is more popular in probability) A • B  If A and B are dependent events, the probability of this event happening
+            can be calculated as shown below:    If A and B are independent events, the probability of this event happening
+            can be calculated as shown below:    Conditional probability for two independent events can be redefined using the relationship
+            above to become:        The above is consistent with the definition of independent events, the occurrence
+            of event A in no way influences the occurrence of event B , and so
+            the probability that event B occurs given that event A has occurred
+            is the same as the probability of event B .  Additive Rule (A∪B)  In probability we refer to the addition operator ( + ) as or . Thus when
+            we want to we want to define some event such that the event can be A or B, to find
+            the probability of that event:      Thus it follows that:    But remember from set theory that and from the way we defined our sample space above:    and that:   So we can now redefine out event as     The above is sometimes referred to as the subtraction rule.  Mutual Exclusivity  Certain special pairs of events have a unique relationship referred to as mutual
+            exclusivity.  Two events are said to be mutually exclusive if they can't occur at the same time.
+            For a given sample space, its either one or the other but not both. As a consequence,
+            mutually exclusive events have their probability defined as follows:    An example of mutually exclusive events are the outcomes of a fair coin flip. When
+            you flip a fair coin, you either get a head or a tail but not both, we can prove
+            that these events are mutually exclusive by adding their probabilities:    For any given pair of events, if the sum of their probabilities is equal to one,
+            then those two events are mutually exclusive.  Rules of Probability for Mutually Exclusive Events    Multiplication Rule  From the definition of mutually exclusive events, we should quickly conclude the
+                    following:      Addition Rule  As we defined above, the addition rule applies to mutually exclusive events as follows:      Subtraction Rule  From the addition rule above, we can conclude that the subtraction rule for mutually
+                    exclusive events takes the form;      Conditional Probability for Mutually Exclusive Events  We have defined conditional probability with the following equation:    We can redefine the above using the multiplication rule    hence    Below is a venn diagram of a set containing two mutually exclusive events A and B .       Sign up for free to access more probability resources like . Wyzant Resources features blogs, videos, lessons, and more about probability and over 250 other subjects. Stop struggling and start learning today with thousands of free resources!     Next ( Tutors) >>       Probability Set Theory       Mark favorite             Related
+                     Answers    how do i find the number of elements in this set??  If the company charges this customer an annual premium of $270, what is the company's expected value of this insurance policy?  If the Expected Value is negative, be sure to include the "-" sign with the answer. Express the answer rounded to two decimal places.  The probability of drawing a red ball from an urn is five twenties- fives. What is the probability that a red ball is not drawn from the urn?       Related
+                     Blogs    Homeschool Math Support and Accelerated Math Development for Public and Private School Students  Summer Tutoring  Math Challenge Problem #1  About a question asked in Forum       Related
+                     Lessons    Probability Distributions and Random Variables  Joint Probability Distributions  Probability Distributions          math    Algebra    Elementary Math    Prealgebra    Geometry    Trigonometry    Precalculus    Calculus    Statistics and Probability    Introduction    Averages    Probability    Further Concepts in Probability      Probability Distributions    Expected Value    Hypothesis testing   Statistics Tutors       Other Categories  English  Accounting  History  Science  Spanish  Study Skills  Test Prep     Related Tutors  Han China Tutors  Intermediate Portuguese Tutors  Midys Theorem Tutors  Poetry Analysis Tutors  Sustainable Development Theory Tutors             Download our free app   Enter your number and we’ll text you a download link. (We won’t spam you—promise. But message and data rates may apply.)    A link to the app was sent to your phone.   Please provide a valid phone number.       App for Students  App for Tutors     Send A Link     Google Play   App Store              GET TO KNOW US   About Us  Contact Us  FAQ  Reviews  Safety  Security  In the News     LEARN WITH US   Find a Tutor  Request a Tutor  Online Tutoring  Get Math Help  Learning Resources  Wyzant Scholarships     WORK WITH US   Careers at Wyzant  Apply to Tutor  Tutor Job Board  Partners         DOWNLOAD OUR FREE APP    Google Play   App Store     LET’S KEEP IN TOUCH         FEELING A LITTLE LOST?  Start here or give us a call: (312) 646-6365    BEST IN BUSINESS SINCE 2005               TUTORS BY SUBJECT       Algebra Tutors  Calculus Tutors  Chemistry Tutors  Computer tutors  Elementary Tutors  English Tutors      Geometry Tutors  Language Tutors  Math Tutors  Music Lessons  Physics Tutors  Reading Tutors      SAT Tutors  Science Tutors  Spanish Tutors  Statistics Tutors  Test Prep Tutors  Writing Tutors         TUTORS BY LOCATION       Atlanta Tutors  Boston Tutors  Brooklyn Tutors  Chicago Tutors  Dallas Tutors  Denver Tutors      Detroit Tutors  Houston Tutors  Los Angeles Tutors  Miami Tutors  New York City Tutors  Orange County Tutors      Philadelphia Tutors  Phoenix Tutors  San Francisco Tutors  Seattle Tutors  San Diego Tutors  Washington, DC Tutors         Sitemap  Terms of Use  Privacy Policy   © 2005 - 2018 Wyzant, Inc. - All Rights Reserved      if (isMyPost) { }   Probability  The probability of an event is a number describing the chance that the event will happen. An event
+that is certain to happen has a probability of 1. An event that cannot possibly happen has
+a probability of zero. If there is a chance that an event will happen, then
+its probability is between zero and 1.    Examples of Events:   tossing a coin and it landing on heads  tossing a coin and it landing on tails  rolling a '3' on a die rolling a number > 4 on a die it rains two days in a row drawing a card from the suit of clubs guessing a certain number between 000 and 999 (lottery)    Events that are certain:     If it is Thursday, the probability that tomorrow is Friday is certain,
+    therefore the probability is 1. If you are sixteen, the probability of you turning seventeen on your
+    next birthday is 1. This is a certain event.      Events that are uncertain:     The probability that tomorrow is Friday if today is Monday is 0. The probability that you will be seventeen on your next birthday, if
+    you were just born is 0.      Let's take a closer look at tossing the coin. When you
+toss a coin, there are two possible outcomes , "heads" or "tails."    Examples of outcomes:   When rolling a die for a board game, the outcomes possible are 1,2,3,4,5,
+  and 6. The outcomes when choosing the days of a week are Sunday, Monday, Tuesday,
+  Wednesday, Thursday, Friday, and Saturday. When selecting a door to be chosen behind on the game show "Let's
+  Make a Deal," the outcome of the choices is door 1, door 2, and door
+  3.    The set of all possible outcomes of an experiment
+is the sample space for the experiment.   A die is rolled and the number on the top face is recorded. All the
+  integers from 1 to 6 are possible. So S = {1, 2, 3, 4, 5, 6}. A pair of dice are rolled and the sum of the numbers on the top faces
+  is recorded. The smallest sum is 1 + 1 = 2; the largest is 6 + 6 = 12;
+  and all the integers in-between are possible. So S = {2, 3, 4, ...,
+  11, 12}.  The two outcomes of tossing a coin are equally likely , which means that each has
+the same chance of happening. When all outcomes of an event are equally
+likely, the probability that the event will happen is given by the ration
+below.   When looking at the probability of the event that the coin
+lands on tail we get the following:          These events are equally likely to happen:   When there is a 50% chance of rain, that means that there
+  a chance that it might rain, but that there is also a chance that it might
+  not rain. These chances are the same so the event is equally likely to
+  happen.  When one rolls a game die, he/she has exactly the same
+  chance of landing on any of the six sides. Therefore the probability of
+  landing on any one specific side would be 1/6. This is also true for any
+  spinner. Say a spinner is divided into 10 sections. Then there is an equally
+  likely chance that the spinner can land on any of the sections. Thus the
+  probability for the spinner to land in any designated section is 1/10.  The probability of selecting one of the three doors on
+  the game show is also equally likely. There is no bias over the contestants
+  decision so each door has a probability of 1/3 being chosen. This is true
+  if there are no arrows pointing towards one of the doors.    When the outcome of one event does not affect the outcome
+of a second event, the events are independent . When the outcome of one event does affect the outcome of the
+second event, the events are dependent . Let's look at the following five examples. Decide which pair
+of events are dependent or independent.  1. Toss a coin. Then roll a number cube (die).  2. Choose a bracelet and put it on. Choose another bracelet.  3. Select a card. Do not replace it. Then select another
+card.  4. Select a card. Replace it. Select another card.  5. Pick one flower from a garden, then pick another.          The events above that are independent are numbers 1 and
+4.  Probability of Two Independent
+Events   Given a coin and a die, what is the probability
+of tossing a head and rolling a 5?       The events above that are dependent events are numbers
+2, 3, and 5.  Probability of Two Dependent
+Events   Given a deck of cards, what is the probability
+that the second card drawn will be from the same suit if the first card
+drawn is the Queen of Hearts?     The
+Counting Principle  The number of outcomes of an event is the
+product of the number of outcomes for each stage of the event.    Let's suppose that we want to find out how many different
+license plates are possible, when the license plate is composed of three
+digits then three letters. To do this you can use the counting principle .
+The product below gives the number of different plates possible.    We can use this same principle even if there are stipulations
+on the problem. For example say that a number or letter can only be used
+once.   What if we wanted to know which plate system provided more
+possible outcomes, one with five letters or one with seven digits?    Five letters:  Seven digits:    So we see by using the counting principle that there are
+more possibilities if we use five letters instead of seven digits.     Statistics
+for Middle School    RETURN TO OUR HOME PAGES      Cathy
+Brooks  Laura Dickerson                                 If you're seeing this message, it means we're having trouble loading external resources on our website.  If you're behind a web filter, please make sure that the domains *.kastatic.org and *.kasandbox.org are unblocked.        Main content       To log in and use all the features of Khan Academy, please enable JavaScript in your browser.                                                                                     If you're seeing this message, it means we're having trouble loading external resources on our website.  If you're behind a web filter, please make sure that the domains *.kastatic.org and *.kasandbox.org are unblocked.        Main content       To log in and use all the features of Khan Academy, please enable JavaScript in your browser.                                                               Advanced          Show Ads  Hide Ads  About Ads                   Probability: Independent Events   Life is full of random events!  You need to get a "feel" for them to be a smart and successful person.  The toss of a coin, throwing  dice and  lottery draws are all examples of  random events.  Sometimes an event can affect the next event.   Example: taking colored marbles from a bag: as you take each marble there are less marbles left in the bag, so the probabilities change.   We call those Dependent Events , because what happens depends on what happened before (learn more about this at Conditional probability ).  But otherwise they are Independent Events ...  Independent Events   Independent Events are not affected by previous events.  This is an important idea!  A coin does not "know"  it came up heads before.  And each toss of a coin is a perfect isolated thing.   Example: You toss a coin and it comes up "Heads" three times ... what is the chance that the next toss will also be a "Head"?  The chance is simply ½ (or 0.5) just like ANY toss of the coin.  What it did in the past will not affect the current toss!   Some people think "it is overdue for a Tail", but really truly the next toss of the coin is totally independent of any previous tosses.  Saying "a Tail is due", or "just one more go, my luck is due"			is called The Gambler's Fallacy   Of course your luck may change, because each toss of the coin has an equal chance.  Probability of Independent Events  "Probability" (or  "Chance") is how likely something is to happen.  So how do we calculate probability?   Probability of an event happening =  Number of ways it can happen  Total number of outcomes         Example: what is the probability of getting a "Head" when tossing a coin?  Number of ways it can happen: 1 (Head)  Total number of outcomes: 2 (Head and Tail)  So the probability =  1  2  = 0.5     Example: what is the probability of getting a "4" or "6" when rolling a die?  Number of ways it can happen: 2 ("4" and  "6")  Total number of outcomes: 6 ("1",  "2", "3",  "4", "5" and  "6")  So the probability =  2  6  =  1  3  = 0.333...   Ways of Showing Probability  Probability goes from 0 (imposssible) to 1 (certain):   It is often shown as a decimal or fraction .   Example: the probability of getting a "Head" when tossing a coin:   As a decimal: 0.5  As a fraction: 1/2  As a percentage: 50%  Or sometimes like this: 1-in-2    Two or More Events  We can calculate the chances of two or more independent events by multiplying the chances.   Example: Probability of 3 Heads in a Row  For each toss of a coin a "Head" has a probability of 0.5:   And so the chance of getting 3 Heads in a row is 0.125   So each toss of a coin  has a ½ chance of being Heads, but lots of Heads in a row is unlikely.   Example: Why is it  unlikely to get, say, 7 heads in a row, when each toss of a coin  has a ½ chance of being Heads?  Because we are asking two different questions:  Question 1:  What is the probability of 7 heads in a row?  Answer: ½×½×½×½×½×½×½ = 0.0078125 (less than 1%).  Question 2:  Given that we have just got 6 heads in a row, what is the probability   that the next toss is also a head?  Answer: ½ , as the previous tosses don't affect the next toss.   You can have a play with the Quincunx to see how lots of independent effects can still have a pattern.  Notation  We use "P" to mean "Probability Of",  So, for Independent Events:  P(A and B) = P(A) × P(B)  Probability of A and B equals the probability of A times the probability of B   Example: your boss (to be fair) randomly assigns everyone an extra 2 hours work on  weekend evenings between 4 and midnight.  What are the chances you get  Saturday between 6 and 8?   Day: there are two days on the weekend, so P(Saturday) = 0.5  Time: you want the 2 hours of 6-to-8, out of the 8 hours of 4-to-midnight):  P(Your Time) = 2/8 = 0.25  And:    P(Saturday and Your Time)  = P(Saturday) × P(Your Time)      = 0.5 × 0.25      = 0.125    Or a 12.5% Chance  (Note: we could ALSO have worked out that you wanted 2 hours out of a total possible  16 hours, which is 2/16 = 0.125. Both methods work here.)   Another Example  Imagine there are two groups:   A member of each group gets randomly chosen for the winners circle,  then one of those gets randomly chosen to get the big money prize:    What is your chance of winnning the big prize?   there is a 1/5 chance of going to the winners circle  and a 1/2 chance of winning the big prize   So you have a 1/5 chance followed by a 1/2 chance ... which makes a 1/10 chance overall:  1 5 × 1 2 = 1 5 × 2 = 1 10  Or we can  calculate using decimals (1/5 is 0.2, and 1/2 is 0.5):  0.2 x 0.5 = 0.1  So your chance of winning the big money is 0.1 (which is the same as 1/10).  Coincidence!  Many "Coincidences" are, in fact,  likely.   Example:  you are in a room with 30 people, and find that Zach and Anna  celebrate their birthday on the same day.  Do you say:   "Wow, how strange !", or  "That seems reasonable, with so many people here"   In fact there is a 70% chance that would happen ... so it is likely .   Why is the chance so high?  Because you are comparing everyone to everyone else (not just one to many).  And with 30 people that is 435 comparisons    (Read Shared Birthdays to find out more.)     Example:  Snap!  Did you ever say something at exactly the same time as someone else ?  Wow, how amazing!  But you were probably sharing an experience (movie, journey, whatever) and so your thoughts were similar.  And there are only so many ways of saying something ...  ... so it is like the card game "Snap!" (also called Slaps or Slapjack) ...  ... if you speak enough words together, they will eventually match up.  So, maybe not so amazing, just simple chance at work.   Can you think of other cases where a "coincidence" was simply a likely thing?  Conclusion    Probability is: (Number of ways it can happen) / (Total number of outcomes)  Dependent Events (such as removing marbles from a bag) are affected by previous events  Independent events (such as a coin toss) are not affected by previous events  We can calculate the probability of 2 or more Independent events by multiplying  Not all coincidences are really unlikely (when you think about them).         Probability  Data Index          Copyright © 2017 MathsIsFun.com                         Basic Concepts   Author(s)  David M. Lane  Prerequisites  Introduction 
+                to Probability  Learning Objectives  Compute probability in a situation where there are equally-likely outcomes  Apply concepts to cards and dice  Compute the probability of two independent events both occurring  Compute the probability of either of two independent events  occurring  Do problems that involve conditional probabilities  Compute the probability that in a room of N people, at least two share
+        a birthday  Describe the gambler's fallacy     Probability of a Single Event  If you roll a six-sided die, there are six possible 
+                outcomes, and each of these outcomes is equally likely. A six 
+                is as likely to come up as a three, and likewise for the other 
+                four sides of the die. What, then, is the probability that a one 
+                will come up? Since there are six possible outcomes, the probability 
+                is 1/6. What is the probability that either a one or a six will 
+                come up? The two outcomes about which we are concerned (a one 
+                or a six coming up) are called favorable 
+                outcomes . Given that all outcomes are equally likely, we can 
+                compute the probability of a one or a six using the formula:     In this case there are two favorable outcomes and six possible 
+                outcomes. So the probability of throwing either a one or six is 
+                1/3. Don't be misled by our use of the term "favorable," 
+                by the way. You should understand it in the sense of "favorable 
+                to the event in question happening." That event might not 
+                be favorable to your well-being. You might be betting on a three, 
+                for example.  The above formula applies to many games of chance. 
+                For example, what is the probability that a card drawn at random 
+                from a deck of playing cards will be an ace? Since the deck has 
+                four aces, there are four favorable outcomes; since the deck has 
+                52 cards, there are 52 possible outcomes. The probability is therefore 
+                4/52 = 1/13. What about the probability that the card will be 
+                a club? Since there are 13 clubs, the probability is 13/52 = 1/4.  Let's say you have a bag with 20 cherries: 14 sweet 
+                and 6 sour. If you pick a cherry at random, what is the probability 
+                that it will be sweet? There are 20 possible cherries that could 
+                be picked, so the number of possible outcomes is 20. Of these 
+                20 possible outcomes, 14 are favorable (sweet), so the probability 
+                that the cherry will be sweet is 14/20 = 7/10. There is one potential 
+                complication to this example, however. It must be assumed that 
+                the probability of picking any of the cherries is the same as 
+                the probability of picking any other. This wouldn't be true if 
+                (let us imagine) the sweet cherries are smaller than the sour 
+                ones. (The sour cherries would come to hand more readily when 
+                you sampled from the bag.) Let us keep in mind, therefore, that 
+                when we assess probabilities in terms of the ratio of favorable 
+                to all potential cases, we rely heavily on the assumption of equal 
+                probability for all outcomes.  Here is a more complex example. You throw 2 dice. 
+                What is the probability that the sum of the two dice will be 6? 
+                To solve this problem, list all the possible outcomes. There are 
+                36 of them since each die can come up one of six ways. The 36 
+                possibilities are shown below.       Die 1  Die 2  Total    Die 1  Die 2  Total    Die 1  Die 2  Total    1  1  2    3  1  4    5  1  6    1  2  3    3  2  5    5  2  7    1  3  4    3  3  6    5  3  8    1  4  5    3  4  7    5  4  9    1  5  6    3  5  8    5  5  10    1  6  7    3  6  9    5  6  11    2  1  3    4  1  5    6  1  7    2  2  4    4  2  6    6  2  8    2  3  5    4  3  7    6  3  9    2  4  6    4  4  8    6  4  10    2  5  7    4  5  9    6  5  11    2  6  8    4  6  10    6  6  12     You can see that 5 of the 36 possibilities total 6. Therefore, 
+                the probability is 5/36.  If you know the probability of an event occurring, 
+                it is easy to compute the probability that the event does not 
+                occur. If P(A) is the probability of Event A, then 1 - P(A) is 
+                the probability that the event does not occur. For the last example, 
+                the probability that the total is 6 is 5/36. Therefore, the probability 
+                that the total is not 6 is 1 - 5/36 = 31/36.  Probability of Two (or more) Independent Events  Events A and B are independent
+                   events if the probability of Event B occurring is the
+                   same  whether or not Event A occurs. Let's take a simple example.
+                   A  fair coin is tossed two times. The probability that a head
+                   comes  up on the second toss is 1/2 regardless of whether
+                   or not a head  came up on the first toss. The two events are
+                   (1) first toss is  a head and (2) second toss is a head. So
+                   these events are independent.  Consider the two events (1) "It
+                   will rain tomorrow in Houston" 
+                and (2) "It will rain tomorrow in Galveston" (a city near
+                 Houston). These events are not independent because it is more
+                 likely that it will rain in Galveston on days it rains in Houston
+                 than on days it does not.  Probability of A and B  When two events are independent, the probability
+                 of both occurring is the product of the probabilities of the
+                individual  events. More formally, if events A and B are independent,
+                then  the probability of both A and B occurring is:  P(A and B) = P(A) x P(B)  where P(A and B) is the probability of events
+                 A and B both occurring, P(A) is the probability of event A occurring,
+                 and P(B) is the probability of event B occurring.  If you flip a coin twice, what is the probability 
+                that it will come up heads both times? Event A is that the coin 
+                comes up heads on the first flip and Event B is that the coin 
+                comes up heads on the second flip. Since both P(A) and P(B) equal 
+                1/2, the probability that both events occur is  1/2 x 1/2 = 1/4.  Let's take another example. If you flip a coin
+                 and roll a six-sided die, what is the probability that the coin
+                 comes up heads and the die comes up 1? Since the two events
+                are  independent, the probability is simply the probability of
+                a head  (which is 1/2) times the probability of the die coming
+                up 1 (which  is 1/6). Therefore, the probability of both events
+                occurring is  1/2 x 1/6 = 1/12.  One final example: You draw a card from a deck of 
+                cards, put it back, and then draw another card. What is the probability 
+                that the first card is a heart and the second card is black? Since 
+                there are 52 cards in a deck and 13 of them are hearts, the probability 
+                that the first card is a heart is 13/52 = 1/4. Since there are 
+                26 black cards in the deck, the probability that the second card 
+                is black is 26/52 = 1/2. The probability of both events occurring 
+                is therefore 1/4 x 1/2 = 1/8.  See the section on conditional probabilities on
+                this page to see how to compute P(A and
+                B) when A and B are not independent.  Probability of A or B  If Events A and B are independent, the probability 
+                that either Event A or Event B occurs is:  P(A or B) = P(A) + P(B) - P(A and B)  In this discussion, when we say "A or B occurs" 
+                we include three possibilities:   A occurs and B does not occur  B occurs and A does not occur  Both A and B occur   This use of the word "or" is technically 
+                called inclusive or because it includes 
+                the case in which both A and B occur. If we included only the 
+                first two cases, then we would be using an exclusive 
+                or .   (Optional) We can derive the law for P(A-or-B) 
+                  from our law about P(A-and-B). The event "A-or-B" 
+                  can happen in any of the following ways:   A-and-B happens  A-and-not-B happens  not-A-and-B happens.   The simple event A can happen if either A-and-B 
+                  happens or A-and-not-B happens. Similarly, the simple event 
+                  B happens if either A-and-B happens or not-A-and-B happens. 
+                  P(A) + P(B) is therefore P(A-and-B) + P(A-and-not-B) + P(A-and-B) 
+                  + P(not-A-and-B), whereas P(A-or-B) is P(A-and-B) + P(A-and-not-B) 
+                  + P(not-A-and-B). We can make these two sums equal by subtracting 
+                  one occurrence of P(A-and-B) from the first. Hence, P(A-or-B) 
+                  = P(A) + P(B) - P(A-and-B).     Now for some examples. If you flip a coin two times, 
+                what is the probability that you will get a head on the first 
+                flip or a head on the second flip (or both)? Letting Event A be 
+                a head on the first flip and Event B be a head on the second flip, 
+                then P(A) = 1/2, P(B) = 1/2, and P(A and B) = 1/4. Therefore,  P(A or B) = 1/2 + 1/2 - 1/4 = 3/4.  If you throw a six-sided die and then flip a coin, 
+                what is the probability that you will get either a 6 on the die 
+                or a head on the coin flip (or both)? Using the formula,  P(6 or head) = P(6) + P(head) - P(6 and head) = 
+                (1/6) + (1/2) - (1/6)(1/2) = 
+                7/12  An alternate approach to computing this value 
+                is to start by computing the probability of not getting either 
+                a 6 or a head. Then subtract this value from 1 to compute the 
+                probability of getting a 6 or a head. Although this is a complicated 
+                method, it has the advantage of being applicable to problems with 
+                more than two events. Here is the calculation in the present case. 
+                The probability of not getting either a 6 or a head can be recast 
+                as the probability of  (not getting a 6) AND (not getting a head).  This follows because if you did not get a 6 and 
+                you did not get a head, then you did not get a 6 or a head. The 
+                probability of not getting a six is 1 - 1/6 = 5/6. The probability 
+                of not getting a head is 1 - 1/2 = 1/2. The probability of not 
+                getting a six and not getting a head is 5/6 x 1/2 = 5/12. This 
+                is therefore the probability of not getting a 6 or a head. The 
+                probability of getting a six or a head is therefore (once again) 
+                1 - 5/12 = 7/12.  If you throw a die three times, what is the probability 
+                that one or more of your throws will come up with a 1? That is, 
+                what is the probability of getting a 1 on the first throw OR a 
+                1 on the second throw OR a 1 on the third throw? The easiest way 
+                to approach this problem is to compute the probability of  NOT getting a 1 on the first throw AND not getting a 1 on the second throw AND not getting a 1 on the third throw.  The answer will be 1 minus this probability. The 
+                probability of not getting a 1 on any of the three throws is 5/6 
+                x 5/6 x 5/6 = 125/216. Therefore, the probability of getting a 
+                1 on at least one of the throws is 1 - 125/216 = 91/216.  Conditional Probabilities  Often it is required to compute the probability
+                 of an event given that another event has occurred. For example,
+                 what is the probability that two cards drawn at random from
+                a  deck of playing cards will both be aces? It might seem that
+                you  could use the formula for the probability of two independent
+                events  and simply multiply 4/52 x 4/52 = 1/169. This would be incorrect ,
+                 however, because the two events are not independent. If the
+                first  card drawn is an ace, then the probability that the second
+                card  is also an ace would be lower because there would only
+                be three  aces left in the deck.  Once the first card chosen is an ace, the probability 
+                that the second card chosen is also an ace is called the conditional 
+                probability of drawing an ace. In this case, the "condition" 
+                is that the first card is an ace. Symbolically, we write this 
+                as:  P(ace on second draw | an ace on the first draw)  The vertical bar "|" is read as "given," 
+                so the above expression is short for: "The probability that
+                 an ace is drawn on the second draw given that an ace was drawn
+                 on the first draw." What is this probability? Since after
+                  an ace is drawn on the first draw, there are 3 aces out of
+                 51  total cards left. This means that the probability that one
+                 of these  aces will be drawn is 3/51 = 1/17.  If Events A and B are not independent, then 
+                P(A and B) = P(A) x P(B|A).  Applying this to the problem of two aces, the 
+                probability of drawing two aces from a deck is 4/52 x 3/51 = 1/221.  One more example: If you draw two cards from a deck, 
+                what is the probability that you will get the Ace of Diamonds 
+                and a black card? There are two ways you can satisfy this condition: 
+                (a) You can get the Ace of Diamonds first and then a black card 
+                or (b) you can get a black card first and then the Ace of Diamonds. 
+                Let's calculate Case A. The probability that the first card is 
+                the Ace of Diamonds is 1/52. The probability that the second card 
+                is black given that the first card is the Ace of Diamonds is 26/51 
+                because 26 of the remaining 51 cards are black. The probability 
+                is therefore 1/52 x 26/51 = 1/102. Now for Case B: the probability 
+                that the first card is black is 26/52 = 1/2. The probability that 
+                the second card is the Ace of Diamonds given that the first card 
+                is black is 1/51. The probability of Case B is therefore 1/2 x 
+                1/51 = 1/102, the same as the probability of Case A. Recall that 
+                the probability of A or B is P(A) + P(B) - P(A and B). In this 
+                problem, P(A and B) = 0 since a card cannot be the Ace of Diamonds 
+                and be a black card. Therefore, the probability of Case A or Case 
+                B is 1/102 + 1/102 = 2/102 = 1/51. So, 1/51 is the probability that 
+                you will get the Ace of Diamonds and a black card when drawing 
+                two cards from a deck.  Birthday Problem  If there are 25 people in a room, what is the 
+                probability that at least two of them share the same birthday. 
+                If your first thought is that it is 25/365 = 0.068, you will be 
+                surprised to learn it is much higher than that. This problem requires 
+                the application of the sections on P(A and B) and conditional 
+                probability.  This problem is best approached by asking what is 
+                the probability that no two people have the same birthday. Once 
+                we know this probability, we can simply subtract it from 1 to 
+                find the probability that two people share a birthday.  If we choose two people at random, what is the
+                probability  that they do not share a birthday? Of the 365 days
+                on which the  second person could have a birthday, 364 of them
+                are different  from the first person's birthday. Therefore the
+                probability is  364/365. Let's define P2 as the probability that
+                the second person  drawn does not share a birthday with the person
+                drawn previously.  P2 is therefore 364/365. Now define P3 as
+                the probability that  the third person drawn does not share a
+                birthday with anyone drawn  previously given that
+                there are  no previous birthday matches. P3 is therefore a conditional
+                probability.  If there are no previous birthday matches, then
+                two of the 365  days have been "used up," leaving 363
+                non-matching days.  Therefore P3 = 363/365. In like manner, P4
+                = 362/365, P5 = 361/365,  and so on up to P25 = 341/365.  In order for there to be no matches, the second 
+                person must not match any previous person and the third person must not match any previous person, and the fourth person must not match any previous person, etc. Since 
+                P(A and B) = P(A)P(B), all we have to do is multiply P2, P3, P4 
+                ...P25 together. The result is 0.431. Therefore the probability 
+                of at least one match is 0.569.  Gambler's Fallacy  A fair coin is flipped five times and comes up
+                 heads each time. What is the probability that it will come up
+                 heads on the sixth flip? The correct answer is, of course, 1/2.
+                 But many people believe that a tail is more likely to occur
+                after  throwing five heads. Their faulty
+                reasoning may go something like this: "In the long run, the number
+                of  heads and tails will be the same, so the tails have some
+                catching  up to do." The flaws in this logic are exposed
+                in the simulation in this chapter.         Please answer the questions:    feedback                  Conditional Probability The conditional probability B A P(B|A) probability of B given A A B independent A B B A B P(B)  If events A and B are not independent, then the probability
+of the intersection of A and B (the probability that both events
+occur) is defined by P(A and B) = P(A)P(B|A). From this definition, the conditional probability P(B|A) is easily
+obtained by dividing by P(A) :  Note: This expression is only valid when P(A) is greater than 0.   Examples In a card game, suppose a player needs to draw two cards of the same suit in order 
+to win.  Of the 52 cards, there are 13 cards in each suit.  Suppose first the player 
+draws a heart.  Now the player wishes to draw a second heart.  Since one
+heart has already been chosen, there are now 12 hearts remaining in a deck of 51 cards.
+So the conditional probability P(Draw second heart|First card a heart) = 12/51. Suppose an individual applying to a college determines that he has an 80% chance of
+being accepted, and he knows that dormitory housing will only be provided for 60% of 
+all of the accepted students.  The chance of the student being accepted and receiving dormitory housing is defined by  P(Accepted and Dormitory Housing) = P(Dormitory Housing|Accepted)P(Accepted) = 
+(0.60)*(0.80) = 0.48.  To calculate the probability of the intersection of more than two events, the conditional
+probabilities of all of the preceding events must be considered.  In the case of
+three events, A , B , and C , the probability of the intersection P(A and B and C) = P(A)P(B|A)P(C|A and B) .  Consider the college applicant who has determined that he has 0.80 probability of 
+acceptance and that only 60% of the accepted students will receive dormitory housing.  
+Of the accepted students who receive dormitory housing, 80% will have at least one roommate.
+The probability of being accepted and receiving dormitory housing and having
+no roommates is calculated by:  P(Accepted and Dormitory Housing and No Roommates) = 
+P(Accepted)P(Dormitory Housing|Accepted)P(No Roomates|Dormitory Housing and Accepted) = (0.80)*(0.60)*(0.20) = 0.096.  The student has about a 10% chance of receiving
+a single room at the college. Another important method for calculating conditional probabilities is given by Bayes's formula P(B) = P(B|A)P(A) + P(B|A c )P(A c ) B B A A B P(B)P(A) + P(B)P(A c ) = P(B)(P(A) + 
+P(A c )) = P(B)(1) = P(B), Example By Bayes's formula, P(Voter lives in state B|Voter supports liberal candidate) =
+P(Voter supports liberal candidate|Voter lives in state B)P(Voter lives in state B)/
+	(P(Voter supports lib. cand.|Voter lives in state A)P(Voter lives in state A) + 
+	 P(Voter supports lib. cand.|Voter lives in state B)P(Voter lives in state B) +
+	 P(Voter supports lib. cand.|Voter lives in state C)P(Voter lives in state C)) = (0.60)*(0.25)/((0.50)*(0.40) + (0.60)*(0.25) + (0.35)*(0.35)) 
+= (0.15)/(0.20 + 0.15 + 0.1225) = 0.15/0.4725 = 0.3175.  The probability that the voter lives in state B is approximately 0.32. For some more definitions and examples, see the probability index in Valerie J. Easton and John H. McColl's Statistics Glossary v1.1 .    PROBABILITIES OF "OR" AND "NOT" EVENTS     Sometimes we are interested in computing probabilities of
+more complicated events. Here we introduce two basic probability rules. The
+first rule is useful for finding the probability of one event or another
+event. The second rule tells us how to compute the probability that an event does
+not occur.  The addition rule (for computing probabilities of "or" events)  We will illustrate this rule with an example. Suppose Ohio has a two-digit lottery game and the winning number will be chosen at random
+from all possible two-digit numbers  {00, 01, 02, 03, ...,
+97, 98, 99}.  There are 100 possible winning numbers and since each has the same chance of
+being chosen, we assign a probability of 1/100 = .01 to each number.  Suppose we want to find the probability that the winning number has the same
+two digits or the winning number is between 89 and 96 inclusive. If
+these two events ("same two digits" and "between 89 and 96")
+are nonoverlapping, then we can find the probability of "same two digits"
+or "between 89 and 96" by adding:  Prob("same two
+digits" or "between 89 and 96") = Prob("same two
+digits")+Prob("between 89 and 96")  Are these two events nonoverlapping? Nonoverlapping means that it is
+impossible for the two events to occur at the same time. Here "same two
+digits" means the winning number is from the set {00, 11, 22, 33, 44, 55,
+66, 77, 88, 99}. "Between 89 and 96" means that the number is in the
+set {89, 90, 91, 92, 93, 94, 95, 96}. Note that these two sets have nothing in
+common; in other words, it is impossible for the winning number to have the
+same two digits and be between 89 and 96. So we can add the probabilities to
+find the probability of the "or" event. The probability of "same
+two digits" is 10/100 and the probability of "between 89 and 96"
+is 8/100. Therefore the probability of interest is  Prob("same two
+digits" or "between 89 and 96") = 10/100 + 8/100 = 18/100 = .18  What if we wanted to find the probability of "same two digits" or
+"an even second digit"? Here we can't use this addition rule, since
+these two events are overlapping. It is possible for the winning to have the
+same two digits and have an even second digit -- the number 44 (and other
+numbers) is in both events. So this rule cannot be used in this case.  This rule is also applicable in the case where you want to find the
+probability of a collection of different outcomes. Suppose you toss a coin five
+times and you wish to find the probability that the number of heads is 2 or
+fewer. You can think of the event "2 or fewer heads" as an
+"or" event:  {2 or fewer heads} =
+{0 heads} or {1 head} or {2 heads}  By definition, the three outcomes {0 heads}, {1 heads} and {2 heads}, since
+you can only observe at most one of these outcomes when you toss the coin three
+times. So the addition rule can be used and  Prob(2 or fewer
+heads) = Prob(0 heads) + Prob(1 head) + Prob(2 heads)  The complement rule (for computing probabilities of "not" events)  Let's return to our lottery example. What if you're
+interested in the probability that the winning number does not have
+the same two digits. The rule for "not" events is called the complement rule:  Probability("not"
+an event) = 1 - Probability(event)  In this case, we can write  Probability(not same
+digits) = 1 - Probability(same digits)  We have already found the probability that the winning number has the same
+two digits, so the probability of interest is  Probability(not same
+digits) = 1 - 10/100 = 90/100  The complement rule is especially useful in the case where it hard to
+compute the probability of an event, but it is relatively easy to compute the
+probability of "not" the event. For example, suppose we wish to
+compute the probability of tossing at least one head in 10 tosses of a coin. In
+this case, it would make sense to first perform the easier computation, the
+probability of "not at least one head" or "no heads". Then
+we apply the complement rule to find the probability of the event of interest.  Probability(at least
+one head) = 1 - Probability(no heads)  Return to AN INTRODUCTION TO PROBABILITY     Page Author: Jim Albert (© 2005) albert@bayes.bgsu.edu Document: http://www-math.bgsu.edu/~albert/m115/probability/add_probs.html Last Modified: February 18, 2005         Probability  The probability of an event is a number describing the chance that the event will happen. An event
+that is certain to happen has a probability of 1. An event that cannot possibly happen has
+a probability of zero. If there is a chance that an event will happen, then
+its probability is between zero and 1.    Examples of Events:   tossing a coin and it landing on heads  tossing a coin and it landing on tails  rolling a '3' on a die rolling a number > 4 on a die it rains two days in a row drawing a card from the suit of clubs guessing a certain number between 000 and 999 (lottery)    Events that are certain:     If it is Thursday, the probability that tomorrow is Friday is certain,
+    therefore the probability is 1. If you are sixteen, the probability of you turning seventeen on your
+    next birthday is 1. This is a certain event.      Events that are uncertain:     The probability that tomorrow is Friday if today is Monday is 0. The probability that you will be seventeen on your next birthday, if
+    you were just born is 0.      Let's take a closer look at tossing the coin. When you
+toss a coin, there are two possible outcomes , "heads" or "tails."    Examples of outcomes:   When rolling a die for a board game, the outcomes possible are 1,2,3,4,5,
+  and 6. The outcomes when choosing the days of a week are Sunday, Monday, Tuesday,
+  Wednesday, Thursday, Friday, and Saturday. When selecting a door to be chosen behind on the game show "Let's
+  Make a Deal," the outcome of the choices is door 1, door 2, and door
+  3.    The set of all possible outcomes of an experiment
+is the sample space for the experiment.   A die is rolled and the number on the top face is recorded. All the
+  integers from 1 to 6 are possible. So S = {1, 2, 3, 4, 5, 6}. A pair of dice are rolled and the sum of the numbers on the top faces
+  is recorded. The smallest sum is 1 + 1 = 2; the largest is 6 + 6 = 12;
+  and all the integers in-between are possible. So S = {2, 3, 4, ...,
+  11, 12}.  The two outcomes of tossing a coin are equally likely , which means that each has
+the same chance of happening. When all outcomes of an event are equally
+likely, the probability that the event will happen is given by the ration
+below.   When looking at the probability of the event that the coin
+lands on tail we get the following:          These events are equally likely to happen:   When there is a 50% chance of rain, that means that there
+  a chance that it might rain, but that there is also a chance that it might
+  not rain. These chances are the same so the event is equally likely to
+  happen.  When one rolls a game die, he/she has exactly the same
+  chance of landing on any of the six sides. Therefore the probability of
+  landing on any one specific side would be 1/6. This is also true for any
+  spinner. Say a spinner is divided into 10 sections. Then there is an equally
+  likely chance that the spinner can land on any of the sections. Thus the
+  probability for the spinner to land in any designated section is 1/10.  The probability of selecting one of the three doors on
+  the game show is also equally likely. There is no bias over the contestants
+  decision so each door has a probability of 1/3 being chosen. This is true
+  if there are no arrows pointing towards one of the doors.    When the outcome of one event does not affect the outcome
+of a second event, the events are independent . When the outcome of one event does affect the outcome of the
+second event, the events are dependent . Let's look at the following five examples. Decide which pair
+of events are dependent or independent.  1. Toss a coin. Then roll a number cube (die).  2. Choose a bracelet and put it on. Choose another bracelet.  3. Select a card. Do not replace it. Then select another
+card.  4. Select a card. Replace it. Select another card.  5. Pick one flower from a garden, then pick another.          The events above that are independent are numbers 1 and
+4.  Probability of Two Independent
+Events   Given a coin and a die, what is the probability
+of tossing a head and rolling a 5?       The events above that are dependent events are numbers
+2, 3, and 5.  Probability of Two Dependent
+Events   Given a deck of cards, what is the probability
+that the second card drawn will be from the same suit if the first card
+drawn is the Queen of Hearts?     The
+Counting Principle  The number of outcomes of an event is the
+product of the number of outcomes for each stage of the event.    Let's suppose that we want to find out how many different
+license plates are possible, when the license plate is composed of three
+digits then three letters. To do this you can use the counting principle .
+The product below gives the number of different plates possible.    We can use this same principle even if there are stipulations
+on the problem. For example say that a number or letter can only be used
+once.   What if we wanted to know which plate system provided more
+possible outcomes, one with five letters or one with seven digits?    Five letters:  Seven digits:    So we see by using the counting principle that there are
+more possibilities if we use five letters instead of seven digits.     Statistics
+for Middle School    RETURN TO OUR HOME PAGES      Cathy
+Brooks  Laura Dickerson                                           Mathplanet      Menu     Pre-Algebra  /  Probability and statistic  /    Probability of events   Probability is a type of ratio where we compare how many times an outcome can occur compared to all possible outcomes.  $$Probability=\frac{The\, number\, of\, wanted \, outcomes}{The\, number \,of\, possible\, outcomes}$$   Example  What is the probability to get a 6 when you roll a die?  A die has 6 sides, 1 side contain the number 6 that give us 1 wanted outcome in 6 possible outcomes.   Independent events: Two events are independent when the outcome of the first event does not influence the outcome of the second event.  When we determine the probability of two independent events we multiply the probability of the first event by the probability of the second event.  $$P(X \, and \, Y)=P(X)\cdot P(Y)$$  To find the probability of an independent event we are using this rule:   Example  If one has three dice what is the probability of getting three 4s?  The probability of getting a 4 on one die is 1/6  The probability of getting 3 4s is:  $$P\left ( 4\, and\, 4\, and\, 4 \right )=\frac{1}{6}\cdot \frac{1}{6}\cdot\frac{1}{6}=\frac{1}{216}$$  When the outcome affects the second outcome, which is what we called dependent events.  Dependent events: Two events are dependent when the outcome of the first event influences the outcome of the second event. The probability of two dependent events is the product of the probability of X and the probability of Y AFTER X occurs.  $$P(X \, and \, Y)=P(X)\cdot P(Y\: after\: x)$$   Example  What is the probability for you to choose two red cards in a deck of cards?  A deck of cards has 26 black and 26 red cards. The probability of choosing a red card randomly is:  $$P\left ( red \right )=\frac{26}{52}=\frac{1}{2}$$  The probability of choosing a second red card from the deck is now:  $$P\left ( red \right )=\frac{25}{51}$$  The probability:  $$P\left ( 2\,red \right )=\frac{1}{2}\cdot \frac{25}{51}=\frac{25}{102}$$  Two events are mutually exclusive when two events cannot happen at the same time. The probability that one of the mutually exclusive events occur is the sum of their individual probabilities.  $$P(X \, or \, Y)=P(X)+ P(Y)$$  An example of two mutually exclusive events is a wheel of fortune. Let's say you win a bar of chocolate if you end up in a red or a pink field.   What is the probability that the wheel stops at red or pink?  P(red or pink)=P(red)+P(pink)  $$P\left (red \right )=\frac{2}{8}=\frac{1}{4}$$  $$P\left (pink \right )=\frac{1}{8}$$  $$P\left ( red\, or\, pink \right )=\frac{1}{8}+\frac{2}{8}=\frac{3}{8}$$  Inclusive events are events that can happen at the same time. To find the probability of an inclusive event we first add the probabilities of the individual events and then subtract the probability of the two events happening at the same time.  $$P\left (X \, or \, Y \right )=P\left (X \right )+ P\left (Y \right )-P\left (X \, and \, Y \right )$$   Example  What is the probability of drawing a black card or a ten in a deck of cards?  There are 4 tens in a deck of cards P(10) = 4/52  There are 26 black cards P(black) = 26/52  There are 2 black tens P(black and 10) = 2/52  $$P\left ( black\, or\, ten \right )=\frac{4}{52}+\frac{26}{52}-\frac{2}{52}=\frac{30}{52}-\frac{2}{52}=\frac{28}{52}=\frac{7}{13}$$   Video lesson  At Ann's 7-years olds party all 20 invited guests are going to get some candy from the fish pond. In 12 of the bags there is an extra chocolate bar. Tina and James are first and second out, what is the probability that they both get a bag with an extra chocolate bar?          More classes on this subject     Pre-Algebra  Probability and statistic: The mean, the median and the mode      Pre-Algebra  Probability and statistic: Stem-and-Leaf Plots and Box-and-Whiskers Plot      Pre-Algebra  Probability and statistic: Calculating the outcome      Pre-Algebra  Probability and statistic: Combinations and permutations      Pre-Algebra  Probability and statistic: Finding the odds            Share on Facebook         Next Chapter:       PRE-ALGEBRA –  Introducing geometry                  Search         Pre-Algebra        All courses        Pre-Algebra  Overview     Introducing Algebra         Pre-Algebra     Introducing Algebra    Overview    Operations in the correct order    Evaluate expressions    Identify properties    Equations with variables    Coordinate system and ordered pairs    Inequalities         Explore and understand integers         Pre-Algebra     Explore and understand integers    Overview    Absolute value    Adding and subtracting integers    Multiplying  and dividing with integers         Inequalities and one-step equations         Pre-Algebra     Inequalities and one-step equations    Overview    Different ways to solve equations    Calculating the area and the perimeter    Solving inequalities    Understanding inequalities and equations         Discover fractions and factors         Pre-Algebra     Discover fractions and factors    Overview    Monomials and adding or subtracting polynomials    Powers and exponents    Multiplying polynomials and binomials    Factorization and prime numbers    Finding the greatest common factor    Finding the least common multiple         More about the four rules of arithmetic         Pre-Algebra     More about the four rules of arithmetic    Overview    Integers and rational numbers    Learn how to estimate calculations    Calculating with decimals and fractions    Geometric sequences of numbers    Scientific notation         More about equation and inequalities         Pre-Algebra     More about equation and inequalities    Overview    Fundamentals in solving Equations in one or more steps    Calculating the circumference of a circle         Graphing and functions         Pre-Algebra     Graphing and functions    Overview    Linear equations in the coordinate plane    The slope of a linear function    Graphing linear inequalities    Solve systems of equations by graphing         Ratios and percent         Pre-Algebra     Ratios and percent    Overview    Rates and ratios    Proportions and percent    Solving problems with percent         Probability and statistic         Pre-Algebra     Probability and statistic    Overview    The mean, the median and the mode    Stem-and-Leaf Plots and Box-and-Whiskers Plot    Calculating the outcome    Combinations and permutations    Finding the odds    Probability of events           About Mathplanet                       Introducing geometry         Pre-Algebra     Introducing geometry    Overview    Geometry – fundamental statements    Circle graphs    Angles and parallel lines    Triangles    Quadrilaterals, polygons and transformations         Area and Volume         Pre-Algebra     Area and Volume    Overview    Measure areas    Pyramids, prisms, cylinders and cones         Right triangles and algebra         Pre-Algebra     Right triangles and algebra    Overview    Square roots and real numbers    The Pythagorean Theorem    Trigonometry               Algebra 1        All courses        Algebra 1  Overview          Algebra 2        All courses        Algebra 2  Overview          Geometry        All courses        Geometry  Overview          SAT        All courses        SAT  Overview          ACT        All courses        ACT  Overview              Mathplanet is licensed by Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 Internationell-licens .  Our websites: matteboken.se  webmatematik.dk  formelsamlingen.se  kodboken.se  webmatte.no                    Event (probability theory)   From Wikipedia, the free encyclopedia   Jump to: navigation , search         This article needs additional citations for verification . Please help improve this article by adding citations to reliable sources . Unsourced material may be challenged and removed.  (January 2018)  ( Learn how and when to remove this template message )       Part of a series on Statistics    Probability theory         Probability axioms        Probability space  Sample space  Elementary event  Event  Random variable  Probability measure        Complementary event  Joint probability  Marginal probability  Conditional probability        Independence  Conditional independence  Law of total probability  Law of large numbers  Bayes' theorem  Boole's inequality        Venn diagram  Tree diagram         v  t  e       In probability theory , an event is a set of outcomes of an experiment (a subset of the sample space ) to which a probability is assigned. [1] A single outcome may be an element of many different events, [2] and different events in an experiment are usually not equally likely, since they may include very different groups of outcomes. [3] An event defines a complementary event , namely the complementary set (the event not occurring), and together these define a Bernoulli trial : did the event occur or not?  Typically, when the sample space is finite, any subset of the sample space is an event ( i . e . all elements of the power set of the sample space are defined as events). However, this approach does not work well in cases where the sample space is uncountably infinite . So, when defining a probability space it is possible, and often necessary, to exclude certain subsets of the sample space from being events (see Events in probabiliity spaces , below).     Contents    1  A simple example  2  Events in probability spaces  3  A note on notation  4  See also  5  Notes  6  External links     A simple example [ edit ]  If we assemble a deck of 52 playing cards with no jokers, and draw a single card from the deck, then the sample space is a 52-element set, as each card is a possible outcome. An event, however, is any subset of the sample space, including any singleton set (an elementary event ), the empty set (an impossible event, with probability zero) and the sample space itself (a certain event, with probability one). Other events are proper subsets of the sample space that contain multiple elements. So, for example, potential events include:     A Euler diagram of an event. B is the sample space and A is an event. By the ratio of their areas, the probability of A is approximately 0.4.     "Red and black at the same time without being a joker" (0 elements),  "The 5 of Hearts" (1 element),  "A King" (4 elements),  "A Face card" (12 elements),  "A Spade" (13 elements),  "A Face card or a red suit" (32 elements),  "A card" (52 elements).   Since all events are sets, they are usually written as sets (e.g. {1, 2, 3}), and represented graphically using Venn diagrams . In the situation where each outcome in the sample space Ω is equally likely, the probability     P    {\displaystyle P}   of an event A is the following formula :        P   (  A  )  =      |   A   |      |   Ω   |          (    alternatively:     Pr  (  A  )  =      |   A   |      |   Ω   |       )     {\displaystyle \mathrm {P} (A)={\frac {|A|}{|\Omega |}}\,\ \left({\text{alternatively:}}\ \Pr(A)={\frac {|A|}{|\Omega |}}\right)}     This rule can readily be applied to each of the example events above.  Events in probability spaces [ edit ]  Defining all subsets of the sample space as events works well when there are only finitely many outcomes, but gives rise to problems when the sample space is infinite. For many standard probability distributions , such as the normal distribution , the sample space is the set of real numbers or some subset of the real numbers . Attempts to define probabilities for all subsets of the real numbers run into difficulties when one considers 'badly behaved' sets, such as those that are nonmeasurable . Hence, it is necessary to restrict attention to a more limited family of subsets. For the standard tools of probability theory, such as joint and conditional probabilities , to work, it is necessary to use a σ-algebra , that is, a family closed under complementation and countable unions of its members. The most natural choice is the Borel measurable set derived from unions and intersections of intervals. However, the larger class of Lebesgue measurable sets proves more useful in practice.  In the general measure-theoretic description of probability spaces , an event may be defined as an element of a selected σ-algebra of subsets of the sample space. Under this definition, any subset of the sample space that is not an element of the σ-algebra is not an event, and does not have a probability. With a reasonable specification of the probability space, however, all events of interest are elements of the σ-algebra.  A note on notation [ edit ]  Even though events are subsets of some sample space Ω, they are often written as propositional formulas involving random variables . For example, if X is a real-valued random variable defined on the sample space Ω, the event       {  ω  ∈  Ω  ∣  u  <  X  (  ω  )  ≤  v  }     {\displaystyle \{\omega \in \Omega \mid u<X(\omega )\leq v\}\,}     can be written more conveniently as, simply,       u  <  X  ≤  v   .    {\displaystyle u<X\leq v\,.}     This is especially common in formulas for a probability , such as       Pr  (  u  <  X  ≤  v  )  =  F  (  v  )  −  F  (  u  )   .    {\displaystyle \Pr(u<X\leq v)=F(v)-F(u)\,.}     The set  u < X ≤ v is an example of an inverse image under the mapping  X because     ω  ∈   X   −  1    (  (  u  ,  v  ]  )    {\displaystyle \omega \in X^{-1}((u,v])}   if and only if     u  <  X  (  ω  )  ≤  v    {\displaystyle u<X(\omega )\leq v}   .  See also [ edit ]   Complementary event  Elementary event  Independent event   Notes [ edit ]     ^  Leon-Garcia, Alberto (2008). Probability, statistics and random processes for electrical engineering . Upper Saddle River, NJ: Pearson.   ^  Pfeiffer, Paul E. (1978). Concepts of probability theory . Dover Publications. p. 18. ISBN  978-0-486-63677-1 .   ^  Foerster, Paul A. (2006). Algebra and trigonometry: Functions and applications, Teacher's edition (Classics ed.). Upper Saddle River, NJ: Prentice Hall . p. 634. ISBN  0-13-165711-9 .      External links [ edit ]   Hazewinkel, Michiel , ed. (2001) [1994], "Random event" , Encyclopedia of Mathematics , Springer Science+Business Media B.V. / Kluwer Academic Publishers, ISBN  978-1-55608-010-4   Formal definition in the Mizar system .        Retrieved from " https://en.wikipedia.org/w/index.php?title=Event_(probability_theory)&oldid=822836484 "  Categories : Experiment (probability theory) Hidden categories: Articles needing additional references from January 2018 All articles needing additional references      Navigation menu    Personal tools   Not logged in Talk Contributions Create account Log in      Namespaces   Article Talk       Variants           Views   Read Edit View history      More         Search              Navigation    Main page Contents Featured content Current events Random article Donate to Wikipedia Wikipedia store      Interaction    Help About Wikipedia Community portal Recent changes Contact page      Tools    What links here Related changes Upload file Special pages Permanent link Page information Wikidata item Cite this page      Print/export    Create a book Download as PDF Printable version      Languages    العربية বাংলা Català Чӑвашла Čeština Deutsch Eesti Ελληνικά Español Esperanto Euskara فارسی Français Íslenska Italiano עברית ქართული Magyar Nederlands Polski Português Русский Slovenščina کوردی Српски / srpski Suomi Svenska தமிழ் ไทย Türkçe Українська اردو Tiếng Việt 吴语 粵語 中文   Edit links        This page was last edited on 28 January 2018, at 20:07.  Text is available under the Creative Commons Attribution-ShareAlike License ;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization.    Privacy policy  About Wikipedia  Disclaimers  Contact Wikipedia  Developers  Cookie statement  Mobile view                                                   Log in  Sign up     Find a Tutor     Search for Tutors    Request a Tutor    Online Tutoring      How It Works     For Students    FAQ    What Customers Say      Resources     College Scholarship    Answers    Lessons      Become a Tutor     Apply Now    About Tutoring Jobs    Find Tutoring Jobs    How It Works For Tutors    FAQ      About Us     About Us    Our Team    Careers    Contact Us             Log in    Sign up    Find a Tutor    Search for Tutors    Request a Tutor    Online Tutoring      How It Works    For Students    FAQ    What Customers Say      Resources    College Scholarship    Answers    Lessons      Tutors    Apply Now    About Tutoring Jobs    Find Tutoring Jobs    How It Works For Tutors    FAQ      About Wyzant    About Us    Our Team    Careers    Contact Us         Subject     ZIP       Search        Sign In   Answers   Blogs   Files   Lessons   Videos                     or   Ask a Question            Resources  /    Lessons  /    Math  /    Statistics and Probability  /    Probability  /  Further Concepts in Proba...     Lessons  All  Answers  Blogs  Files  Videos                      Further Concepts in Probability  The study of probability mostly deals with combining different events and studying these
+            events alongside each other. How these different events relate to each other determines
+            the methods and rules to follow when we're studying their probabilities.  Events can be pided into two major categories dependent or Independent events.  Independent Events  When two events are said to be independent of each other, what this means is that
+            the probability that one event occurs in no way affects the probability of the other
+            event occurring. An example of two independent events is as follows; say you rolled
+            a die and flipped a coin. The probability of getting any number face on the die
+            in no way influences the probability of getting a head or a tail on the coin.  Dependent Events  When two events are said to be dependent, the probability of one event occurring
+            influences the likelihood of the other event.  For example, if you were to draw a two cards from a deck of 52 cards. If on your
+            first draw you had an ace and you put that aside, the probability of drawing an
+            ace on the second draw is greatly changed because you drew an ace the first time.
+            Let's calculate these different probabilities to see what's going on.  There are 4 Aces in a deck of 52 cards    On your first draw, the probability of getting an ace is given by:    If we don't return this card into the deck, the probability of drawing an ace on
+            the second pick is given by        As you can clearly see, the above two probabilities are different, so we say that
+            the two events are dependent. The likelihood of the second event depends on what
+            happens in the first event.  Conditional Probability  We have already defined dependent and independent events and seen how probability
+            of one event relates to the probability of the other event.  Having those concepts in mind, we can now look at conditional probability.  Conditional probability deals with further defining dependence of events by looking
+            at probability of an event given that some other event first occurs.  Conditional probability is denoted by the following:    The above is read as the probability that B occurs given that A has already occurred .  The above is mathematically defined as:    Set Theory in Probability  A sample space is defined as a universal set of all possible outcomes from a given
+            experiment.  Given two events A and B and given that these events are part of a
+            sample space S . This sample space is represented as a set as in the diagram
+            below.    The entire sample space of S is given by:    Remember the following from set theory:      The different regions of the set S can be explained as using the rules of
+            probability.  Rules of Probability  When dealing with more than one event, there are certain rules that we must follow
+            when studying probability of these events. These rules depend greatly on whether
+            the events we are looking at are Independent or dependent on each other.  First acknowledge that    Multiplication Rule (A∩B)  This region is referred to as 'A intersection B' and in probability; this region
+            refers to the event that both A and B happen. When we use the word and we are referring to multiplication, thus A and B can be thought
+            of as AxB or (using dot notation which is more popular in probability) A • B  If A and B are dependent events, the probability of this event happening
+            can be calculated as shown below:    If A and B are independent events, the probability of this event happening
+            can be calculated as shown below:    Conditional probability for two independent events can be redefined using the relationship
+            above to become:        The above is consistent with the definition of independent events, the occurrence
+            of event A in no way influences the occurrence of event B , and so
+            the probability that event B occurs given that event A has occurred
+            is the same as the probability of event B .  Additive Rule (A∪B)  In probability we refer to the addition operator ( + ) as or . Thus when
+            we want to we want to define some event such that the event can be A or B, to find
+            the probability of that event:      Thus it follows that:    But remember from set theory that and from the way we defined our sample space above:    and that:   So we can now redefine out event as     The above is sometimes referred to as the subtraction rule.  Mutual Exclusivity  Certain special pairs of events have a unique relationship referred to as mutual
+            exclusivity.  Two events are said to be mutually exclusive if they can't occur at the same time.
+            For a given sample space, its either one or the other but not both. As a consequence,
+            mutually exclusive events have their probability defined as follows:    An example of mutually exclusive events are the outcomes of a fair coin flip. When
+            you flip a fair coin, you either get a head or a tail but not both, we can prove
+            that these events are mutually exclusive by adding their probabilities:    For any given pair of events, if the sum of their probabilities is equal to one,
+            then those two events are mutually exclusive.  Rules of Probability for Mutually Exclusive Events    Multiplication Rule  From the definition of mutually exclusive events, we should quickly conclude the
+                    following:      Addition Rule  As we defined above, the addition rule applies to mutually exclusive events as follows:      Subtraction Rule  From the addition rule above, we can conclude that the subtraction rule for mutually
+                    exclusive events takes the form;      Conditional Probability for Mutually Exclusive Events  We have defined conditional probability with the following equation:    We can redefine the above using the multiplication rule    hence    Below is a venn diagram of a set containing two mutually exclusive events A and B .       Sign up for free to access more probability resources like . Wyzant Resources features blogs, videos, lessons, and more about probability and over 250 other subjects. Stop struggling and start learning today with thousands of free resources!     Next ( Tutors) >>       Probability Set Theory       Mark favorite             Related
+                     Answers    how do i find the number of elements in this set??  If the company charges this customer an annual premium of $270, what is the company's expected value of this insurance policy?  If the Expected Value is negative, be sure to include the "-" sign with the answer. Express the answer rounded to two decimal places.  The probability of drawing a red ball from an urn is five twenties- fives. What is the probability that a red ball is not drawn from the urn?       Related
+                     Blogs    Homeschool Math Support and Accelerated Math Development for Public and Private School Students  Summer Tutoring  Math Challenge Problem #1  About a question asked in Forum       Related
+                     Lessons    Probability Distributions and Random Variables  Joint Probability Distributions  Probability Distributions          math    Algebra    Elementary Math    Prealgebra    Geometry    Trigonometry    Precalculus    Calculus    Statistics and Probability    Introduction    Averages    Probability    Further Concepts in Probability      Probability Distributions    Expected Value    Hypothesis testing   Statistics Tutors       Other Categories  English  Accounting  History  Science  Spanish  Study Skills  Test Prep     Related Tutors  Han China Tutors  Intermediate Portuguese Tutors  Midys Theorem Tutors  Poetry Analysis Tutors  Sustainable Development Theory Tutors             Download our free app   Enter your number and we’ll text you a download link. (We won’t spam you—promise. But message and data rates may apply.)    A link to the app was sent to your phone.   Please provide a valid phone number.       App for Students  App for Tutors     Send A Link     Google Play   App Store              GET TO KNOW US   About Us  Contact Us  FAQ  Reviews  Safety  Security  In the News     LEARN WITH US   Find a Tutor  Request a Tutor  Online Tutoring  Get Math Help  Learning Resources  Wyzant Scholarships     WORK WITH US   Careers at Wyzant  Apply to Tutor  Tutor Job Board  Partners         DOWNLOAD OUR FREE APP    Google Play   App Store     LET’S KEEP IN TOUCH         FEELING A LITTLE LOST?  Start here or give us a call: (312) 646-6365    BEST IN BUSINESS SINCE 2005               TUTORS BY SUBJECT       Algebra Tutors  Calculus Tutors  Chemistry Tutors  Computer tutors  Elementary Tutors  English Tutors      Geometry Tutors  Language Tutors  Math Tutors  Music Lessons  Physics Tutors  Reading Tutors      SAT Tutors  Science Tutors  Spanish Tutors  Statistics Tutors  Test Prep Tutors  Writing Tutors         TUTORS BY LOCATION       Atlanta Tutors  Boston Tutors  Brooklyn Tutors  Chicago Tutors  Dallas Tutors  Denver Tutors      Detroit Tutors  Houston Tutors  Los Angeles Tutors  Miami Tutors  New York City Tutors  Orange County Tutors      Philadelphia Tutors  Phoenix Tutors  San Francisco Tutors  Seattle Tutors  San Diego Tutors  Washington, DC Tutors         Sitemap  Terms of Use  Privacy Policy   © 2005 - 2018 Wyzant, Inc. - All Rights Reserved      if (isMyPost) { }   Probability  The probability of an event is a number describing the chance that the event will happen. An event
+that is certain to happen has a probability of 1. An event that cannot possibly happen has
+a probability of zero. If there is a chance that an event will happen, then
+its probability is between zero and 1.    Examples of Events:   tossing a coin and it landing on heads  tossing a coin and it landing on tails  rolling a '3' on a die rolling a number > 4 on a die it rains two days in a row drawing a card from the suit of clubs guessing a certain number between 000 and 999 (lottery)    Events that are certain:     If it is Thursday, the probability that tomorrow is Friday is certain,
+    therefore the probability is 1. If you are sixteen, the probability of you turning seventeen on your
+    next birthday is 1. This is a certain event.      Events that are uncertain:     The probability that tomorrow is Friday if today is Monday is 0. The probability that you will be seventeen on your next birthday, if
+    you were just born is 0.      Let's take a closer look at tossing the coin. When you
+toss a coin, there are two possible outcomes , "heads" or "tails."    Examples of outcomes:   When rolling a die for a board game, the outcomes possible are 1,2,3,4,5,
+  and 6. The outcomes when choosing the days of a week are Sunday, Monday, Tuesday,
+  Wednesday, Thursday, Friday, and Saturday. When selecting a door to be chosen behind on the game show "Let's
+  Make a Deal," the outcome of the choices is door 1, door 2, and door
+  3.    The set of all possible outcomes of an experiment
+is the sample space for the experiment.   A die is rolled and the number on the top face is recorded. All the
+  integers from 1 to 6 are possible. So S = {1, 2, 3, 4, 5, 6}. A pair of dice are rolled and the sum of the numbers on the top faces
+  is recorded. The smallest sum is 1 + 1 = 2; the largest is 6 + 6 = 12;
+  and all the integers in-between are possible. So S = {2, 3, 4, ...,
+  11, 12}.  The two outcomes of tossing a coin are equally likely , which means that each has
+the same chance of happening. When all outcomes of an event are equally
+likely, the probability that the event will happen is given by the ration
+below.   When looking at the probability of the event that the coin
+lands on tail we get the following:          These events are equally likely to happen:   When there is a 50% chance of rain, that means that there
+  a chance that it might rain, but that there is also a chance that it might
+  not rain. These chances are the same so the event is equally likely to
+  happen.  When one rolls a game die, he/she has exactly the same
+  chance of landing on any of the six sides. Therefore the probability of
+  landing on any one specific side would be 1/6. This is also true for any
+  spinner. Say a spinner is divided into 10 sections. Then there is an equally
+  likely chance that the spinner can land on any of the sections. Thus the
+  probability for the spinner to land in any designated section is 1/10.  The probability of selecting one of the three doors on
+  the game show is also equally likely. There is no bias over the contestants
+  decision so each door has a probability of 1/3 being chosen. This is true
+  if there are no arrows pointing towards one of the doors.    When the outcome of one event does not affect the outcome
+of a second event, the events are independent . When the outcome of one event does affect the outcome of the
+second event, the events are dependent . Let's look at the following five examples. Decide which pair
+of events are dependent or independent.  1. Toss a coin. Then roll a number cube (die).  2. Choose a bracelet and put it on. Choose another bracelet.  3. Select a card. Do not replace it. Then select another
+card.  4. Select a card. Replace it. Select another card.  5. Pick one flower from a garden, then pick another.          The events above that are independent are numbers 1 and
+4.  Probability of Two Independent
+Events   Given a coin and a die, what is the probability
+of tossing a head and rolling a 5?       The events above that are dependent events are numbers
+2, 3, and 5.  Probability of Two Dependent
+Events   Given a deck of cards, what is the probability
+that the second card drawn will be from the same suit if the first card
+drawn is the Queen of Hearts?     The
+Counting Principle  The number of outcomes of an event is the
+product of the number of outcomes for each stage of the event.    Let's suppose that we want to find out how many different
+license plates are possible, when the license plate is composed of three
+digits then three letters. To do this you can use the counting principle .
+The product below gives the number of different plates possible.    We can use this same principle even if there are stipulations
+on the problem. For example say that a number or letter can only be used
+once.   What if we wanted to know which plate system provided more
+possible outcomes, one with five letters or one with seven digits?    Five letters:  Seven digits:    So we see by using the counting principle that there are
+more possibilities if we use five letters instead of seven digits.     Statistics
+for Middle School    RETURN TO OUR HOME PAGES      Cathy
+Brooks  Laura Dickerson                                 If you're seeing this message, it means we're having trouble loading external resources on our website.  If you're behind a web filter, please make sure that the domains *.kastatic.org and *.kasandbox.org are unblocked.        Main content       To log in and use all the features of Khan Academy, please enable JavaScript in your browser.                                                                                If you're seeing this message, it means we're having trouble loading external resources on our website.  If you're behind a web filter, please make sure that the domains *.kastatic.org and *.kasandbox.org are unblocked.        Main content       To log in and use all the features of Khan Academy, please enable JavaScript in your browser.                                                                     Advanced          Show Ads  Hide Ads  About Ads                   Probability: Independent Events   Life is full of random events!  You need to get a "feel" for them to be a smart and successful person.  The toss of a coin, throwing  dice and  lottery draws are all examples of  random events.  Sometimes an event can affect the next event.   Example: taking colored marbles from a bag: as you take each marble there are less marbles left in the bag, so the probabilities change.   We call those Dependent Events , because what happens depends on what happened before (learn more about this at Conditional probability ).  But otherwise they are Independent Events ...  Independent Events   Independent Events are not affected by previous events.  This is an important idea!  A coin does not "know"  it came up heads before.  And each toss of a coin is a perfect isolated thing.   Example: You toss a coin and it comes up "Heads" three times ... what is the chance that the next toss will also be a "Head"?  The chance is simply ½ (or 0.5) just like ANY toss of the coin.  What it did in the past will not affect the current toss!   Some people think "it is overdue for a Tail", but really truly the next toss of the coin is totally independent of any previous tosses.  Saying "a Tail is due", or "just one more go, my luck is due"			is called The Gambler's Fallacy   Of course your luck may change, because each toss of the coin has an equal chance.  Probability of Independent Events  "Probability" (or  "Chance") is how likely something is to happen.  So how do we calculate probability?   Probability of an event happening =  Number of ways it can happen  Total number of outcomes         Example: what is the probability of getting a "Head" when tossing a coin?  Number of ways it can happen: 1 (Head)  Total number of outcomes: 2 (Head and Tail)  So the probability =  1  2  = 0.5     Example: what is the probability of getting a "4" or "6" when rolling a die?  Number of ways it can happen: 2 ("4" and  "6")  Total number of outcomes: 6 ("1",  "2", "3",  "4", "5" and  "6")  So the probability =  2  6  =  1  3  = 0.333...   Ways of Showing Probability  Probability goes from 0 (imposssible) to 1 (certain):   It is often shown as a decimal or fraction .   Example: the probability of getting a "Head" when tossing a coin:   As a decimal: 0.5  As a fraction: 1/2  As a percentage: 50%  Or sometimes like this: 1-in-2    Two or More Events  We can calculate the chances of two or more independent events by multiplying the chances.   Example: Probability of 3 Heads in a Row  For each toss of a coin a "Head" has a probability of 0.5:   And so the chance of getting 3 Heads in a row is 0.125   So each toss of a coin  has a ½ chance of being Heads, but lots of Heads in a row is unlikely.   Example: Why is it  unlikely to get, say, 7 heads in a row, when each toss of a coin  has a ½ chance of being Heads?  Because we are asking two different questions:  Question 1:  What is the probability of 7 heads in a row?  Answer: ½×½×½×½×½×½×½ = 0.0078125 (less than 1%).  Question 2:  Given that we have just got 6 heads in a row, what is the probability   that the next toss is also a head?  Answer: ½ , as the previous tosses don't affect the next toss.   You can have a play with the Quincunx to see how lots of independent effects can still have a pattern.  Notation  We use "P" to mean "Probability Of",  So, for Independent Events:  P(A and B) = P(A) × P(B)  Probability of A and B equals the probability of A times the probability of B   Example: your boss (to be fair) randomly assigns everyone an extra 2 hours work on  weekend evenings between 4 and midnight.  What are the chances you get  Saturday between 6 and 8?   Day: there are two days on the weekend, so P(Saturday) = 0.5  Time: you want the 2 hours of 6-to-8, out of the 8 hours of 4-to-midnight):  P(Your Time) = 2/8 = 0.25  And:    P(Saturday and Your Time)  = P(Saturday) × P(Your Time)      = 0.5 × 0.25      = 0.125    Or a 12.5% Chance  (Note: we could ALSO have worked out that you wanted 2 hours out of a total possible  16 hours, which is 2/16 = 0.125. Both methods work here.)   Another Example  Imagine there are two groups:   A member of each group gets randomly chosen for the winners circle,  then one of those gets randomly chosen to get the big money prize:    What is your chance of winnning the big prize?   there is a 1/5 chance of going to the winners circle  and a 1/2 chance of winning the big prize   So you have a 1/5 chance followed by a 1/2 chance ... which makes a 1/10 chance overall:  1 5 × 1 2 = 1 5 × 2 = 1 10  Or we can  calculate using decimals (1/5 is 0.2, and 1/2 is 0.5):  0.2 x 0.5 = 0.1  So your chance of winning the big money is 0.1 (which is the same as 1/10).  Coincidence!  Many "Coincidences" are, in fact,  likely.   Example:  you are in a room with 30 people, and find that Zach and Anna  celebrate their birthday on the same day.  Do you say:   "Wow, how strange !", or  "That seems reasonable, with so many people here"   In fact there is a 70% chance that would happen ... so it is likely .   Why is the chance so high?  Because you are comparing everyone to everyone else (not just one to many).  And with 30 people that is 435 comparisons    (Read Shared Birthdays to find out more.)     Example:  Snap!  Did you ever say something at exactly the same time as someone else ?  Wow, how amazing!  But you were probably sharing an experience (movie, journey, whatever) and so your thoughts were similar.  And there are only so many ways of saying something ...  ... so it is like the card game "Snap!" (also called Slaps or Slapjack) ...  ... if you speak enough words together, they will eventually match up.  So, maybe not so amazing, just simple chance at work.   Can you think of other cases where a "coincidence" was simply a likely thing?  Conclusion    Probability is: (Number of ways it can happen) / (Total number of outcomes)  Dependent Events (such as removing marbles from a bag) are affected by previous events  Independent events (such as a coin toss) are not affected by previous events  We can calculate the probability of 2 or more Independent events by multiplying  Not all coincidences are really unlikely (when you think about them).         Probability  Data Index          Copyright © 2017 MathsIsFun.com                         Basic Concepts   Author(s)  David M. Lane  Prerequisites  Introduction 
+                to Probability  Learning Objectives  Compute probability in a situation where there are equally-likely outcomes  Apply concepts to cards and dice  Compute the probability of two independent events both occurring  Compute the probability of either of two independent events  occurring  Do problems that involve conditional probabilities  Compute the probability that in a room of N people, at least two share
+        a birthday  Describe the gambler's fallacy     Probability of a Single Event  If you roll a six-sided die, there are six possible 
+                outcomes, and each of these outcomes is equally likely. A six 
+                is as likely to come up as a three, and likewise for the other 
+                four sides of the die. What, then, is the probability that a one 
+                will come up? Since there are six possible outcomes, the probability 
+                is 1/6. What is the probability that either a one or a six will 
+                come up? The two outcomes about which we are concerned (a one 
+                or a six coming up) are called favorable 
+                outcomes . Given that all outcomes are equally likely, we can 
+                compute the probability of a one or a six using the formula:     In this case there are two favorable outcomes and six possible 
+                outcomes. So the probability of throwing either a one or six is 
+                1/3. Don't be misled by our use of the term "favorable," 
+                by the way. You should understand it in the sense of "favorable 
+                to the event in question happening." That event might not 
+                be favorable to your well-being. You might be betting on a three, 
+                for example.  The above formula applies to many games of chance. 
+                For example, what is the probability that a card drawn at random 
+                from a deck of playing cards will be an ace? Since the deck has 
+                four aces, there are four favorable outcomes; since the deck has 
+                52 cards, there are 52 possible outcomes. The probability is therefore 
+                4/52 = 1/13. What about the probability that the card will be 
+                a club? Since there are 13 clubs, the probability is 13/52 = 1/4.  Let's say you have a bag with 20 cherries: 14 sweet 
+                and 6 sour. If you pick a cherry at random, what is the probability 
+                that it will be sweet? There are 20 possible cherries that could 
+                be picked, so the number of possible outcomes is 20. Of these 
+                20 possible outcomes, 14 are favorable (sweet), so the probability 
+                that the cherry will be sweet is 14/20 = 7/10. There is one potential 
+                complication to this example, however. It must be assumed that 
+                the probability of picking any of the cherries is the same as 
+                the probability of picking any other. This wouldn't be true if 
+                (let us imagine) the sweet cherries are smaller than the sour 
+                ones. (The sour cherries would come to hand more readily when 
+                you sampled from the bag.) Let us keep in mind, therefore, that 
+                when we assess probabilities in terms of the ratio of favorable 
+                to all potential cases, we rely heavily on the assumption of equal 
+                probability for all outcomes.  Here is a more complex example. You throw 2 dice. 
+                What is the probability that the sum of the two dice will be 6? 
+                To solve this problem, list all the possible outcomes. There are 
+                36 of them since each die can come up one of six ways. The 36 
+                possibilities are shown below.       Die 1  Die 2  Total    Die 1  Die 2  Total    Die 1  Die 2  Total    1  1  2    3  1  4    5  1  6    1  2  3    3  2  5    5  2  7    1  3  4    3  3  6    5  3  8    1  4  5    3  4  7    5  4  9    1  5  6    3  5  8    5  5  10    1  6  7    3  6  9    5  6  11    2  1  3    4  1  5    6  1  7    2  2  4    4  2  6    6  2  8    2  3  5    4  3  7    6  3  9    2  4  6    4  4  8    6  4  10    2  5  7    4  5  9    6  5  11    2  6  8    4  6  10    6  6  12     You can see that 5 of the 36 possibilities total 6. Therefore, 
+                the probability is 5/36.  If you know the probability of an event occurring, 
+                it is easy to compute the probability that the event does not 
+                occur. If P(A) is the probability of Event A, then 1 - P(A) is 
+                the probability that the event does not occur. For the last example, 
+                the probability that the total is 6 is 5/36. Therefore, the probability 
+                that the total is not 6 is 1 - 5/36 = 31/36.  Probability of Two (or more) Independent Events  Events A and B are independent
+                   events if the probability of Event B occurring is the
+                   same  whether or not Event A occurs. Let's take a simple example.
+                   A  fair coin is tossed two times. The probability that a head
+                   comes  up on the second toss is 1/2 regardless of whether
+                   or not a head  came up on the first toss. The two events are
+                   (1) first toss is  a head and (2) second toss is a head. So
+                   these events are independent.  Consider the two events (1) "It
+                   will rain tomorrow in Houston" 
+                and (2) "It will rain tomorrow in Galveston" (a city near
+                 Houston). These events are not independent because it is more
+                 likely that it will rain in Galveston on days it rains in Houston
+                 than on days it does not.  Probability of A and B  When two events are independent, the probability
+                 of both occurring is the product of the probabilities of the
+                individual  events. More formally, if events A and B are independent,
+                then  the probability of both A and B occurring is:  P(A and B) = P(A) x P(B)  where P(A and B) is the probability of events
+                 A and B both occurring, P(A) is the probability of event A occurring,
+                 and P(B) is the probability of event B occurring.  If you flip a coin twice, what is the probability 
+                that it will come up heads both times? Event A is that the coin 
+                comes up heads on the first flip and Event B is that the coin 
+                comes up heads on the second flip. Since both P(A) and P(B) equal 
+                1/2, the probability that both events occur is  1/2 x 1/2 = 1/4.  Let's take another example. If you flip a coin
+                 and roll a six-sided die, what is the probability that the coin
+                 comes up heads and the die comes up 1? Since the two events
+                are  independent, the probability is simply the probability of
+                a head  (which is 1/2) times the probability of the die coming
+                up 1 (which  is 1/6). Therefore, the probability of both events
+                occurring is  1/2 x 1/6 = 1/12.  One final example: You draw a card from a deck of 
+                cards, put it back, and then draw another card. What is the probability 
+                that the first card is a heart and the second card is black? Since 
+                there are 52 cards in a deck and 13 of them are hearts, the probability 
+                that the first card is a heart is 13/52 = 1/4. Since there are 
+                26 black cards in the deck, the probability that the second card 
+                is black is 26/52 = 1/2. The probability of both events occurring 
+                is therefore 1/4 x 1/2 = 1/8.  See the section on conditional probabilities on
+                this page to see how to compute P(A and
+                B) when A and B are not independent.  Probability of A or B  If Events A and B are independent, the probability 
+                that either Event A or Event B occurs is:  P(A or B) = P(A) + P(B) - P(A and B)  In this discussion, when we say "A or B occurs" 
+                we include three possibilities:   A occurs and B does not occur  B occurs and A does not occur  Both A and B occur   This use of the word "or" is technically 
+                called inclusive or because it includes 
+                the case in which both A and B occur. If we included only the 
+                first two cases, then we would be using an exclusive 
+                or .   (Optional) We can derive the law for P(A-or-B) 
+                  from our law about P(A-and-B). The event "A-or-B" 
+                  can happen in any of the following ways:   A-and-B happens  A-and-not-B happens  not-A-and-B happens.   The simple event A can happen if either A-and-B 
+                  happens or A-and-not-B happens. Similarly, the simple event 
+                  B happens if either A-and-B happens or not-A-and-B happens. 
+                  P(A) + P(B) is therefore P(A-and-B) + P(A-and-not-B) + P(A-and-B) 
+                  + P(not-A-and-B), whereas P(A-or-B) is P(A-and-B) + P(A-and-not-B) 
+                  + P(not-A-and-B). We can make these two sums equal by subtracting 
+                  one occurrence of P(A-and-B) from the first. Hence, P(A-or-B) 
+                  = P(A) + P(B) - P(A-and-B).     Now for some examples. If you flip a coin two times, 
+                what is the probability that you will get a head on the first 
+                flip or a head on the second flip (or both)? Letting Event A be 
+                a head on the first flip and Event B be a head on the second flip, 
+                then P(A) = 1/2, P(B) = 1/2, and P(A and B) = 1/4. Therefore,  P(A or B) = 1/2 + 1/2 - 1/4 = 3/4.  If you throw a six-sided die and then flip a coin, 
+                what is the probability that you will get either a 6 on the die 
+                or a head on the coin flip (or both)? Using the formula,  P(6 or head) = P(6) + P(head) - P(6 and head) = 
+                (1/6) + (1/2) - (1/6)(1/2) = 
+                7/12  An alternate approach to computing this value 
+                is to start by computing the probability of not getting either 
+                a 6 or a head. Then subtract this value from 1 to compute the 
+                probability of getting a 6 or a head. Although this is a complicated 
+                method, it has the advantage of being applicable to problems with 
+                more than two events. Here is the calculation in the present case. 
+                The probability of not getting either a 6 or a head can be recast 
+                as the probability of  (not getting a 6) AND (not getting a head).  This follows because if you did not get a 6 and 
+                you did not get a head, then you did not get a 6 or a head. The 
+                probability of not getting a six is 1 - 1/6 = 5/6. The probability 
+                of not getting a head is 1 - 1/2 = 1/2. The probability of not 
+                getting a six and not getting a head is 5/6 x 1/2 = 5/12. This 
+                is therefore the probability of not getting a 6 or a head. The 
+                probability of getting a six or a head is therefore (once again) 
+                1 - 5/12 = 7/12.  If you throw a die three times, what is the probability 
+                that one or more of your throws will come up with a 1? That is, 
+                what is the probability of getting a 1 on the first throw OR a 
+                1 on the second throw OR a 1 on the third throw? The easiest way 
+                to approach this problem is to compute the probability of  NOT getting a 1 on the first throw AND not getting a 1 on the second throw AND not getting a 1 on the third throw.  The answer will be 1 minus this probability. The 
+                probability of not getting a 1 on any of the three throws is 5/6 
+                x 5/6 x 5/6 = 125/216. Therefore, the probability of getting a 
+                1 on at least one of the throws is 1 - 125/216 = 91/216.  Conditional Probabilities  Often it is required to compute the probability
+                 of an event given that another event has occurred. For example,
+                 what is the probability that two cards drawn at random from
+                a  deck of playing cards will both be aces? It might seem that
+                you  could use the formula for the probability of two independent
+                events  and simply multiply 4/52 x 4/52 = 1/169. This would be incorrect ,
+                 however, because the two events are not independent. If the
+                first  card drawn is an ace, then the probability that the second
+                card  is also an ace would be lower because there would only
+                be three  aces left in the deck.  Once the first card chosen is an ace, the probability 
+                that the second card chosen is also an ace is called the conditional 
+                probability of drawing an ace. In this case, the "condition" 
+                is that the first card is an ace. Symbolically, we write this 
+                as:  P(ace on second draw | an ace on the first draw)  The vertical bar "|" is read as "given," 
+                so the above expression is short for: "The probability that
+                 an ace is drawn on the second draw given that an ace was drawn
+                 on the first draw." What is this probability? Since after
+                  an ace is drawn on the first draw, there are 3 aces out of
+                 51  total cards left. This means that the probability that one
+                 of these  aces will be drawn is 3/51 = 1/17.  If Events A and B are not independent, then 
+                P(A and B) = P(A) x P(B|A).  Applying this to the problem of two aces, the 
+                probability of drawing two aces from a deck is 4/52 x 3/51 = 1/221.  One more example: If you draw two cards from a deck, 
+                what is the probability that you will get the Ace of Diamonds 
+                and a black card? There are two ways you can satisfy this condition: 
+                (a) You can get the Ace of Diamonds first and then a black card 
+                or (b) you can get a black card first and then the Ace of Diamonds. 
+                Let's calculate Case A. The probability that the first card is 
+                the Ace of Diamonds is 1/52. The probability that the second card 
+                is black given that the first card is the Ace of Diamonds is 26/51 
+                because 26 of the remaining 51 cards are black. The probability 
+                is therefore 1/52 x 26/51 = 1/102. Now for Case B: the probability 
+                that the first card is black is 26/52 = 1/2. The probability that 
+                the second card is the Ace of Diamonds given that the first card 
+                is black is 1/51. The probability of Case B is therefore 1/2 x 
+                1/51 = 1/102, the same as the probability of Case A. Recall that 
+                the probability of A or B is P(A) + P(B) - P(A and B). In this 
+                problem, P(A and B) = 0 since a card cannot be the Ace of Diamonds 
+                and be a black card. Therefore, the probability of Case A or Case 
+                B is 1/102 + 1/102 = 2/102 = 1/51. So, 1/51 is the probability that 
+                you will get the Ace of Diamonds and a black card when drawing 
+                two cards from a deck.  Birthday Problem  If there are 25 people in a room, what is the 
+                probability that at least two of them share the same birthday. 
+                If your first thought is that it is 25/365 = 0.068, you will be 
+                surprised to learn it is much higher than that. This problem requires 
+                the application of the sections on P(A and B) and conditional 
+                probability.  This problem is best approached by asking what is 
+                the probability that no two people have the same birthday. Once 
+                we know this probability, we can simply subtract it from 1 to 
+                find the probability that two people share a birthday.  If we choose two people at random, what is the
+                probability  that they do not share a birthday? Of the 365 days
+                on which the  second person could have a birthday, 364 of them
+                are different  from the first person's birthday. Therefore the
+                probability is  364/365. Let's define P2 as the probability that
+                the second person  drawn does not share a birthday with the person
+                drawn previously.  P2 is therefore 364/365. Now define P3 as
+                the probability that  the third person drawn does not share a
+                birthday with anyone drawn  previously given that
+                there are  no previous birthday matches. P3 is therefore a conditional
+                probability.  If there are no previous birthday matches, then
+                two of the 365  days have been "used up," leaving 363
+                non-matching days.  Therefore P3 = 363/365. In like manner, P4
+                = 362/365, P5 = 361/365,  and so on up to P25 = 341/365.  In order for there to be no matches, the second 
+                person must not match any previous person and the third person must not match any previous person, and the fourth person must not match any previous person, etc. Since 
+                P(A and B) = P(A)P(B), all we have to do is multiply P2, P3, P4 
+                ...P25 together. The result is 0.431. Therefore the probability 
+                of at least one match is 0.569.  Gambler's Fallacy  A fair coin is flipped five times and comes up
+                 heads each time. What is the probability that it will come up
+                 heads on the sixth flip? The correct answer is, of course, 1/2.
+                 But many people believe that a tail is more likely to occur
+                after  throwing five heads. Their faulty
+                reasoning may go something like this: "In the long run, the number
+                of  heads and tails will be the same, so the tails have some
+                catching  up to do." The flaws in this logic are exposed
+                in the simulation in this chapter.         Please answer the questions:    feedback                  Conditional Probability The conditional probability B A P(B|A) probability of B given A A B independent A B B A B P(B)  If events A and B are not independent, then the probability
+of the intersection of A and B (the probability that both events
+occur) is defined by P(A and B) = P(A)P(B|A). From this definition, the conditional probability P(B|A) is easily
+obtained by dividing by P(A) :  Note: This expression is only valid when P(A) is greater than 0.   Examples In a card game, suppose a player needs to draw two cards of the same suit in order 
+to win.  Of the 52 cards, there are 13 cards in each suit.  Suppose first the player 
+draws a heart.  Now the player wishes to draw a second heart.  Since one
+heart has already been chosen, there are now 12 hearts remaining in a deck of 51 cards.
+So the conditional probability P(Draw second heart|First card a heart) = 12/51. Suppose an individual applying to a college determines that he has an 80% chance of
+being accepted, and he knows that dormitory housing will only be provided for 60% of 
+all of the accepted students.  The chance of the student being accepted and receiving dormitory housing is defined by  P(Accepted and Dormitory Housing) = P(Dormitory Housing|Accepted)P(Accepted) = 
+(0.60)*(0.80) = 0.48.  To calculate the probability of the intersection of more than two events, the conditional
+probabilities of all of the preceding events must be considered.  In the case of
+three events, A , B , and C , the probability of the intersection P(A and B and C) = P(A)P(B|A)P(C|A and B) .  Consider the college applicant who has determined that he has 0.80 probability of 
+acceptance and that only 60% of the accepted students will receive dormitory housing.  
+Of the accepted students who receive dormitory housing, 80% will have at least one roommate.
+The probability of being accepted and receiving dormitory housing and having
+no roommates is calculated by:  P(Accepted and Dormitory Housing and No Roommates) = 
+P(Accepted)P(Dormitory Housing|Accepted)P(No Roomates|Dormitory Housing and Accepted) = (0.80)*(0.60)*(0.20) = 0.096.  The student has about a 10% chance of receiving
+a single room at the college. Another important method for calculating conditional probabilities is given by Bayes's formula P(B) = P(B|A)P(A) + P(B|A c )P(A c ) B B A A B P(B)P(A) + P(B)P(A c ) = P(B)(P(A) + 
+P(A c )) = P(B)(1) = P(B), Example By Bayes's formula, P(Voter lives in state B|Voter supports liberal candidate) =
+P(Voter supports liberal candidate|Voter lives in state B)P(Voter lives in state B)/
+	(P(Voter supports lib. cand.|Voter lives in state A)P(Voter lives in state A) + 
+	 P(Voter supports lib. cand.|Voter lives in state B)P(Voter lives in state B) +
+	 P(Voter supports lib. cand.|Voter lives in state C)P(Voter lives in state C)) = (0.60)*(0.25)/((0.50)*(0.40) + (0.60)*(0.25) + (0.35)*(0.35)) 
+= (0.15)/(0.20 + 0.15 + 0.1225) = 0.15/0.4725 = 0.3175.  The probability that the voter lives in state B is approximately 0.32. For some more definitions and examples, see the probability index in Valerie J. Easton and John H. McColl's Statistics Glossary v1.1 .    PROBABILITIES OF "OR" AND "NOT" EVENTS     Sometimes we are interested in computing probabilities of
+more complicated events. Here we introduce two basic probability rules. The
+first rule is useful for finding the probability of one event or another
+event. The second rule tells us how to compute the probability that an event does
+not occur.  The addition rule (for computing probabilities of "or" events)  We will illustrate this rule with an example. Suppose Ohio has a two-digit lottery game and the winning number will be chosen at random
+from all possible two-digit numbers  {00, 01, 02, 03, ...,
+97, 98, 99}.  There are 100 possible winning numbers and since each has the same chance of
+being chosen, we assign a probability of 1/100 = .01 to each number.  Suppose we want to find the probability that the winning number has the same
+two digits or the winning number is between 89 and 96 inclusive. If
+these two events ("same two digits" and "between 89 and 96")
+are nonoverlapping, then we can find the probability of "same two digits"
+or "between 89 and 96" by adding:  Prob("same two
+digits" or "between 89 and 96") = Prob("same two
+digits")+Prob("between 89 and 96")  Are these two events nonoverlapping? Nonoverlapping means that it is
+impossible for the two events to occur at the same time. Here "same two
+digits" means the winning number is from the set {00, 11, 22, 33, 44, 55,
+66, 77, 88, 99}. "Between 89 and 96" means that the number is in the
+set {89, 90, 91, 92, 93, 94, 95, 96}. Note that these two sets have nothing in
+common; in other words, it is impossible for the winning number to have the
+same two digits and be between 89 and 96. So we can add the probabilities to
+find the probability of the "or" event. The probability of "same
+two digits" is 10/100 and the probability of "between 89 and 96"
+is 8/100. Therefore the probability of interest is  Prob("same two
+digits" or "between 89 and 96") = 10/100 + 8/100 = 18/100 = .18  What if we wanted to find the probability of "same two digits" or
+"an even second digit"? Here we can't use this addition rule, since
+these two events are overlapping. It is possible for the winning to have the
+same two digits and have an even second digit -- the number 44 (and other
+numbers) is in both events. So this rule cannot be used in this case.  This rule is also applicable in the case where you want to find the
+probability of a collection of different outcomes. Suppose you toss a coin five
+times and you wish to find the probability that the number of heads is 2 or
+fewer. You can think of the event "2 or fewer heads" as an
+"or" event:  {2 or fewer heads} =
+{0 heads} or {1 head} or {2 heads}  By definition, the three outcomes {0 heads}, {1 heads} and {2 heads}, since
+you can only observe at most one of these outcomes when you toss the coin three
+times. So the addition rule can be used and  Prob(2 or fewer
+heads) = Prob(0 heads) + Prob(1 head) + Prob(2 heads)  The complement rule (for computing probabilities of "not" events)  Let's return to our lottery example. What if you're
+interested in the probability that the winning number does not have
+the same two digits. The rule for "not" events is called the complement rule:  Probability("not"
+an event) = 1 - Probability(event)  In this case, we can write  Probability(not same
+digits) = 1 - Probability(same digits)  We have already found the probability that the winning number has the same
+two digits, so the probability of interest is  Probability(not same
+digits) = 1 - 10/100 = 90/100  The complement rule is especially useful in the case where it hard to
+compute the probability of an event, but it is relatively easy to compute the
+probability of "not" the event. For example, suppose we wish to
+compute the probability of tossing at least one head in 10 tosses of a coin. In
+this case, it would make sense to first perform the easier computation, the
+probability of "not at least one head" or "no heads". Then
+we apply the complement rule to find the probability of the event of interest.  Probability(at least
+one head) = 1 - Probability(no heads)  Return to AN INTRODUCTION TO PROBABILITY     Page Author: Jim Albert (© 2005) albert@bayes.bgsu.edu Document: http://www-math.bgsu.edu/~albert/m115/probability/add_probs.html Last Modified: February 18, 2005      

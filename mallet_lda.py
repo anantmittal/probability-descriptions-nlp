@@ -4,6 +4,7 @@ import os, sys
 from gensim import corpora, models, utils
 from gensim.models.wrappers import LdaMallet
 import pickle
+import argparse
 
 logging.basicConfig(format="%(asctime)s : %(levelname)s : %(message)s", level=logging.INFO)
 
@@ -34,27 +35,6 @@ class ProbabilityCorpus(object):
             yield self.dictionary.doc2bow(tokens)
 
 
-if len(sys.argv) == 1:
-    print("Please tell me if you want to 'train' or 'test'?")
-    exit()
-
-elif sys.argv[1] == "train":
-    corpus = ProbabilityCorpus('./data.csv')
-    mallet_path = '~/Mallet/bin/mallet'
-    model = LdaMallet(mallet_path, corpus, num_topics=5, id2word=corpus.dictionary, workers=4, iterations=1000)
-    model.save("lda_model_save")
-    pickle.dump(corpus, open("corpus.prob", "wb"))
-
-elif sys.argv[1] == "test":
-    model = LdaMallet.load("lda_model_save")
-    corpus = pickle.load(open("corpus.prob", "rb"))
-
-
-
-doc = "what are the chances of you being pregnant?"
-bow = corpus.dictionary.doc2bow(utils.simple_preprocess(doc))
-print(model[bow])
-
 if __name__ == "__main__":
     argparser = argparse.ArgumentParser()
     argparser.add_argument("--stage", help="Do you want to 'train' or 'test'?",
@@ -71,6 +51,7 @@ if __name__ == "__main__":
 
     if args.stage == "train":
         corpus = ProbabilityCorpus('./data.csv')
+        print(corpus)
         mallet_path = '~/Mallet/bin/mallet'
         model = LdaMallet(mallet_path, corpus, num_topics=5, id2word=corpus.dictionary, workers=4, iterations=1000)
         model.save("lda_model_save")
